@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "ES2022", "module": "ESNext", "moduleResolution": "bundler",
+    "strict": true, "skipLibCheck": true, "noEmit": true, "types": ["node", "bun"],
+    "allowImportingTsExtensions": true, "resolveJsonModule": true
+  },
+  "include": ["vite.config.ts", "scripts/**/*.ts", "tests/**/*.ts", "src/lib/types.ts", "src/lib/catalog.ts"]
+}

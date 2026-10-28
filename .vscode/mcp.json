@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "shadcn-svelte": {
+      "type": "stdio",
+      "command": "bun",
+      "args": ["${workspaceFolder}/scripts/shadcn-mcp.ts"]
+    }
+  }
+}

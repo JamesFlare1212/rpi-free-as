@@ -1,0 +1,47 @@
+{
+  "name": "rpi-free-as",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "check": "svelte-check --tsconfig ./tsconfig.json && tsc -p tsconfig.node.json",
+    "test": "bun test tests/catalog.test.ts",
+    "test:browser": "playwright test",
+    "data:refresh": "bun scripts/fetch-courses.ts",
+    "data:build": "bun scripts/build-data.ts",
+    "data:audit": "bun scripts/audit-data.ts",
+    "sources:check": "bun scripts/check-sources.ts",
+    "mcp:check": "bun scripts/check-mcp.ts"
+  },
+  "dependencies": {
+    "@fontsource-variable/noto-sans-sc": "^5.3.1",
+    "@lucide/svelte": "^1.63.0",
+    "bits-ui": "^2.20.2",
+    "clsx": "^2.1.1",
+    "svelte": "^5.57.3",
+    "tailwind-merge": "^3.7.0",
+    "tailwind-variants": "^3.3.1"
+  },
+  "devDependencies": {
+    "@fontsource-variable/inter": "^5.3.0",
+    "@internationalized/date": "^3.12.0",
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "@playwright/test": "^1.64.1",
+    "@sveltejs/vite-plugin-svelte": "^7.3.1",
+    "@tailwindcss/vite": "^4.3.3",
+    "@tsconfig/svelte": "^5.0.8",
+    "@types/bun": "^1.4.4",
+    "@types/node": "^26.6.6",
+    "cn": "^0.5.0",
+    "shadcn-svelte": "^1.7.1",
+    "svelte-check": "^4.7.7",
+    "tailwindcss": "^4.3.3",
+    "tw-animate-css": "^1.4.0",
+    "typescript": "~6",
+    "vite": "^8.3.5",
+    "zod": "^4.6.7"
+  }
+}

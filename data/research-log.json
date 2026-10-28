@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-28",
+  "scope": "完整导入课程；定向公开网络检索，尚未完成全部课程逐门检索，以下为保存的代表性查询。",
+  "queries": [
+    "\"RPI\" \"exam\" \"take-home\" syllabus economics",
+    "\"RPI\" \"syllabus\" \"no exams\" arts writing",
+    "\"RPI\" \"Software Design\" \"exams\"",
+    "\"RPI\" \"Large Scale\" \"exams\"",
+    "Rensselaer course syllabus \"no exams\" management",
+    "Rensselaer course syllabus \"no exams\" engineering",
+    "Rensselaer course syllabus \"no exams\" writing art",
+    "Rensselaer course syllabus \"online exam\" economics psychology",
+    "site:rpi.edu \"Critical Thinking\" \"exam\"",
+    "site:rpi.edu \"Computability and Logic\" \"exams\"",
+    "site:rpi.edu \"Xinformatics\" \"grading\"",
+    "site:rpi.edu \"Social Computing\" \"exams\"",
+    "site:homepages.hass.rpi.edu/heuveb \"Cognitive Science\" \"Syllabus\"",
+    "site:homepages.hass.rpi.edu/heuveb \"Critical Thinking\" \"Grading\"",
+    "site:cs.rpi.edu \"Xinformatics\" \"Syllabus\"",
+    "site:rpi.edu \"Social Computing\" \"grading\"",
+    "site:homepages.hass.rpi.edu \"ARTS 1040\" \"Grading\"",
+    "site:homepages.hass.rpi.edu \"ARTS 1200\" \"Grading\"",
+    "site:homepages.hass.rpi.edu \"ARTS 4510\" \"Grading\"",
+    "site:homepages.hass.rpi.edu \"COMM 2660\" \"Grading\""
+  ],
+  "sources": [
+    "RPI official course websites and syllabi",
+    "RPI faculty homepages",
+    "RCOS public handbook",
+    "r/RPI public student reports"
+  ],
+  "limits": [
+    "Spring 2027 policy confirmation: zero",
+    "Historic and undated evidence is not a current-term guarantee",
+    "Search-index-only source is explicitly flagged",
+    "No accounts, private LMS materials, or paywalled exam content accessed"
+  ],
+  "excludedFile": "data/excluded.json",
+  "evidenceFile": "data/evidence.json"
+}

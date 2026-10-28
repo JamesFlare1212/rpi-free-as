@@ -1,0 +1,25 @@
+{
+  "semester": "202701",
+  "commit": "a3977a08f9c19acd20023658d0b43d3300b8ca7d",
+  "sourceUpdatedAt": "2026-10-28T17:09:24Z",
+  "fetchedAt": "2026-10-28T23:04:01.410Z",
+  "base": "https://raw.githubusercontent.com/quacs/quacs-data/a3977a08f9c19acd20023658d0b43d3300b8ca7d",
+  "files": [
+    {
+      "name": "courses.json",
+      "sha256": "8d10eed3c19c48b8ca9e1247e1df0a33eb60e84cd464bb90a2095a30355853f9"
+    },
+    {
+      "name": "catalog.json",
+      "sha256": "3b55496bedf67ee6148a5e2681b1b9b0caebfeaec57e0c9ddf16b0c02f96fe4e"
+    },
+    {
+      "name": "schools.json",
+      "sha256": "de97c28dc6698ce6716dbfcb55313cac72abc29bfed82f0c8826cf5cc12ec684"
+    },
+    {
+      "name": "csci-topics.json",
+      "sha256": "aa5b7a595d97095cc8dd05220dca96870977ba254e12ef6875f336c3a5c474c3"
+    }
+  ]
+}

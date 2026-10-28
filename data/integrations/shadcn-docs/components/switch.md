@@ -1,0 +1,117 @@
+---
+title: Switch
+description: A control that allows the user to toggle between checked and not checked.
+component: true
+links:
+  source: https://github.com/huntabyte/shadcn-svelte/tree/next/sites/docs/src/lib/registry/ui/switch
+  doc: https://bits-ui.com/docs/components/switch
+  api: https://bits-ui.com/docs/components/switch#api-reference
+---
+
+<script>
+	import ComponentPreview from "$lib/components/component-preview.svelte";
+	import ComponentSource from "$lib/components/component-source.svelte";
+	import PMAddComp from "$lib/components/pm-add-comp.svelte";
+	import PMInstall from "$lib/components/pm-install.svelte";
+	import Steps from "$lib/components/steps.svelte";
+	import Step from "$lib/components/step.svelte";
+	import InstallTabs from "$lib/components/install-tabs.svelte";
+
+	let { viewerData } = $props();
+</script>
+
+<ComponentPreview name="switch-demo">
+
+<div></div>
+
+</ComponentPreview>
+
+## Installation
+
+<InstallTabs>
+{#snippet cli()}
+<PMAddComp name="switch" />
+{/snippet}
+{#snippet manual()}
+<Steps>
+
+<Step>
+
+Install `bits-ui`:
+
+</Step>
+
+<PMInstall command="bits-ui -D" />
+
+<Step>
+
+Copy and paste the following code into your project.
+
+</Step>
+{#if viewerData}
+	<ComponentSource item={viewerData} data-llm-ignore/>
+{/if}
+
+</Steps>
+{/snippet}
+</InstallTabs>
+
+## Usage
+
+```svelte
+<script lang="ts">
+  import { Switch } from "$lib/components/ui/switch/index.js";
+</script>
+```
+
+```svelte
+<Switch />
+```
+
+## Description
+
+<ComponentPreview name="switch-description">
+
+<div></div>
+
+</ComponentPreview>
+
+## Choice Card
+
+Card-style selection where `Field.Label` wraps the entire `Field.Field` for a clickable card pattern.
+
+<ComponentPreview name="switch-choice-card">
+
+<div></div>
+
+</ComponentPreview>
+
+## Disabled
+
+Add the `disabled` prop to the `Switch` component to disable the switch. Add the `data-disabled` prop to the `Field.Field` component for styling.
+
+<ComponentPreview name="switch-disabled">
+
+<div></div>
+
+</ComponentPreview>
+
+## Invalid
+
+Add the `aria-invalid` prop to the `Switch` component to indicate an invalid state. Add the `data-invalid` prop to the `Field.Field` component for styling.
+
+<ComponentPreview name="switch-invalid">
+
+<div></div>
+
+</ComponentPreview>
+
+## Size
+
+Use the `size` prop to change the size of the switch.
+
+<ComponentPreview name="switch-sizes">
+
+<div></div>
+
+</ComponentPreview>

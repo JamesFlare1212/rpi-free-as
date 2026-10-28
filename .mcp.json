@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "shadcn-svelte": {
+      "type": "stdio",
+      "command": "bun",
+      "args": ["scripts/shadcn-mcp.ts"]
+    }
+  }
+}

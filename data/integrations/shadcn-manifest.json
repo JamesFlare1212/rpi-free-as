@@ -1,0 +1,817 @@
+{
+  "entrypoint": "https://www.shadcn-svelte.com/llms.txt",
+  "repository": "https://github.com/huntabyte/shadcn-svelte",
+  "commit": "7b33267d960d7c197d163ebc4ae96149242df1ff",
+  "files": [
+    {
+      "path": "about.md",
+      "url": "https://shadcn-svelte.com/docs/about",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/about.md",
+      "sha256": "edf55fc0ec23d6477687a73af1fa9f0f54980af2b584b7c68f4e9f5c221e93e3"
+    },
+    {
+      "path": "ai-elements/chain-of-thought.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/chain-of-thought",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/chain-of-thought.md",
+      "sha256": "3e625bf8238f926453390c731ba01580e5f6a5b24bdeba224651899629e8e37e"
+    },
+    {
+      "path": "ai-elements/chat.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/chat",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/chat.md",
+      "sha256": "a419de860a2366ea668b15d1b34a7a4385954f94923a4d34f2f83486e18cb431"
+    },
+    {
+      "path": "ai-elements/checkpoint.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/checkpoint",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/checkpoint.md",
+      "sha256": "ed22b613efc1a988dee3411441a37eebdb4b4457dc4039521a3720df44f1e6b7"
+    },
+    {
+      "path": "ai-elements/confirmation.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/confirmation",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/confirmation.md",
+      "sha256": "0eb142c149ef94492c47f5f95ff1f2039cb524a0f1c849f25d1f858561b8313e"
+    },
+    {
+      "path": "ai-elements/context.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/context",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/context.md",
+      "sha256": "681c62a49e2c1404c2381c63d222998e6cada1691f4943e713bfffab0535e294"
+    },
+    {
+      "path": "ai-elements/file-tree.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/file-tree",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/file-tree.md",
+      "sha256": "e9fcd2dbd7d74ef556055e6a17ecf948b4c67c0a430b86abc61b77528a849dbb"
+    },
+    {
+      "path": "ai-elements/index.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/index",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/index.md",
+      "sha256": "09079da195a32da76adae98b76d53e3a47c967654739b96706d9ac2d87e1be88"
+    },
+    {
+      "path": "ai-elements/inline-citation.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/inline-citation",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/inline-citation.md",
+      "sha256": "58a615e47976fca592d5f9a2999c4842082a93e9fda5f98150cda9ea3da6ece0"
+    },
+    {
+      "path": "ai-elements/message.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/message",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/message.md",
+      "sha256": "633474d1f09662bc6558197a08b8a737eeb05a28121ea15eda2d7189a5cfdbc8"
+    },
+    {
+      "path": "ai-elements/model-selector.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/model-selector",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/model-selector.md",
+      "sha256": "00842f32fcade6b7075d6a2e630c3c9068af5ba3ccdef846653fbb42216fd30c"
+    },
+    {
+      "path": "ai-elements/plan.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/plan",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/plan.md",
+      "sha256": "107bfa7a66544fb5981b9d76ead8e0b54dd44f1a8f97cd14b71548fcf5ca0719"
+    },
+    {
+      "path": "ai-elements/prompt-input.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/prompt-input",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/prompt-input.md",
+      "sha256": "3ce8bb9a5a3ff58d025bf2ab875894197a4988613e509978ff118338ea33e06e"
+    },
+    {
+      "path": "ai-elements/queue.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/queue",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/queue.md",
+      "sha256": "7963905a1a64218ec5c76d2ab8cd1707f536e5b8f9d7f9b3a63e6a43cbb3f3c9"
+    },
+    {
+      "path": "ai-elements/reasoning.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/reasoning",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/reasoning.md",
+      "sha256": "0f66f97f9e5594bdbe8a7388966d435338a5028c06a5f914eeaf5387ac5973eb"
+    },
+    {
+      "path": "ai-elements/sources.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/sources",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/sources.md",
+      "sha256": "292392fd94a04a354dad4a010479dc44f806b00db40e3647034e0d25d116fdb1"
+    },
+    {
+      "path": "ai-elements/stack-trace.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/stack-trace",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/stack-trace.md",
+      "sha256": "e58e023928ec1ceb8f0e630e560e021702e2a6bb08cbe087124f3ab039cda99e"
+    },
+    {
+      "path": "ai-elements/subagent.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/subagent",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/subagent.md",
+      "sha256": "f667d89910f25b00ac78d1bb47de9243c8be40595d4677372b2adc59f93b7036"
+    },
+    {
+      "path": "ai-elements/suggestion.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/suggestion",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/suggestion.md",
+      "sha256": "bc505977c2f7d6f970f957fee82a0adf60c3aaf11f3633ed97283bec0a4a5ea3"
+    },
+    {
+      "path": "ai-elements/task.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/task",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/task.md",
+      "sha256": "9c5fefc0fa0f848619d1fef6cbaea8525182bbfe72d955e16ac92e880c7cca01"
+    },
+    {
+      "path": "ai-elements/terminal.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/terminal",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/terminal.md",
+      "sha256": "2841dbb9ae1e394f3563031685f71d123369d70a45f9116964c20a0505b5ce7a"
+    },
+    {
+      "path": "ai-elements/test-results.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/test-results",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/test-results.md",
+      "sha256": "ac89f63e8aa2aa3bcd8885f7b89e45aea21e769ca6819a2a68350c07cabe641e"
+    },
+    {
+      "path": "ai-elements/tool.md",
+      "url": "https://shadcn-svelte.com/docs/ai-elements/tool",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/ai-elements/tool.md",
+      "sha256": "9446599d0c95ba69af12e480e9c2040077191aa6fa4f74870aec3b6e31b03f83"
+    },
+    {
+      "path": "changelog.md",
+      "url": "https://shadcn-svelte.com/docs/changelog",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/changelog.md",
+      "sha256": "75af61aad5d3693ef91d53b80607cc49960bd83e47a177fad84f7d5c5e013ec4"
+    },
+    {
+      "path": "changelog/2023-10-command-combobox.md",
+      "url": "https://shadcn-svelte.com/docs/changelog/2023-10-command-combobox",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/changelog/2023-10-command-combobox.md",
+      "sha256": "9c3cb9b8d0a31c945f43347f273941a8db371733c5dc90f9bccb9e58599395e2"
+    },
+    {
+      "path": "changelog/2023-11-toggle-group.md",
+      "url": "https://shadcn-svelte.com/docs/changelog/2023-11-toggle-group",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/changelog/2023-11-toggle-group.md",
+      "sha256": "e28e7847e97fe4006bc4fa55611431981d1f58d3aa89951a722d3895f0d1e493"
+    },
+    {
+      "path": "changelog/2023-12-calendar.md",
+      "url": "https://shadcn-svelte.com/docs/changelog/2023-12-calendar",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/changelog/2023-12-calendar.md",
+      "sha256": "c24aff67392e9fe341862f98a8518ab3f06a52ef889af83515a5b2efc50abb01"
+    },
+    {
+      "path": "changelog/2024-01-new-components.md",
+      "url": "https://shadcn-svelte.com/docs/changelog/2024-01-new-components",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/changelog/2024-01-new-components.md",
+      "sha256": "ad3b2d6f3e254a935e21d45f8cc4b9b3fb741f08d8e293d7ba9e698bc0fb53f1"
+    },
+    {
+      "path": "changelog/2024-02-resizable.md",
+      "url": "https://shadcn-svelte.com/docs/changelog/2024-02-resizable",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/changelog/2024-02-resizable.md",
+      "sha256": "f50d33e12d67a29e1d4c6d4f0687c9987e9c37f0d196e958309890519ace045a"
+    },
+    {
+      "path": "changelog/2024-03-blocks.md",
+      "url": "https://shadcn-svelte.com/docs/changelog/2024-03-blocks",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/changelog/2024-03-blocks.md",
+      "sha256": "2d11f36cc12f2b49add1f82da9b832b69c4cbe34018d83a8bcf151514955527f"
+    },
+    {
+      "path": "changelog/2025-05-tailwind-v4.md",
+      "url": "https://shadcn-svelte.com/docs/changelog/2025-05-tailwind-v4",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/changelog/2025-05-tailwind-v4.md",
+      "sha256": "d42ef9889d17e756cc3c4642a8ff1077ec71d4c1ee369bfa5fc944c107d5d42c"
+    },
+    {
+      "path": "changelog/2025-06-calendar.md",
+      "url": "https://shadcn-svelte.com/docs/changelog/2025-06-calendar",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/changelog/2025-06-calendar.md",
+      "sha256": "3c416f400ce268d65d219e47e78212d07de38e9373aa8a4109804c4bdaf01b89"
+    },
+    {
+      "path": "changelog/2025-10-new-components.md",
+      "url": "https://shadcn-svelte.com/docs/changelog/2025-10-new-components",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/changelog/2025-10-new-components.md",
+      "sha256": "57d9d0a38dc213935d4b28e27c1412fb3b267edceabdf17208537ba2a7929faa"
+    },
+    {
+      "path": "changelog/2026-03-luma.md",
+      "url": "https://shadcn-svelte.com/docs/changelog/2026-03-luma",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/changelog/2026-03-luma.md",
+      "sha256": "f27725127763340b515f12f1d57e8017d7a799cc8f62cd96a611be3cef0141f3"
+    },
+    {
+      "path": "changelog/2026-04-sera.md",
+      "url": "https://shadcn-svelte.com/docs/changelog/2026-04-sera",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/changelog/2026-04-sera.md",
+      "sha256": "2e43bdd505e32016627afed16d67a7efdb3ebc06dcc98fcd42b5b904e9f40efd"
+    },
+    {
+      "path": "changelog/2026-05-rhea.md",
+      "url": "https://shadcn-svelte.com/docs/changelog/2026-05-rhea",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/changelog/2026-05-rhea.md",
+      "sha256": "e0d244523a3565cf2c6050b6eb99e0cf023cda2c60fc13eac0f5d71779446ef5"
+    },
+    {
+      "path": "changelog/2026-09-cn.md",
+      "url": "https://shadcn-svelte.com/docs/changelog/2026-09-cn",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/changelog/2026-09-cn.md",
+      "sha256": "bb7a901a86521609f178886668336bbc765f8487a448f5befe56d06c66ca9424"
+    },
+    {
+      "path": "changelog/2026-10-ai-elements.md",
+      "url": "https://shadcn-svelte.com/docs/changelog/2026-10-ai-elements",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/changelog/2026-10-ai-elements.md",
+      "sha256": "e73701a347f2a6fd7f2d9ae5cd95746135c332fe70f7b811f582151b5e686847"
+    },
+    {
+      "path": "changelog/2026-10-chat-components.md",
+      "url": "https://shadcn-svelte.com/docs/changelog/2026-10-chat-components",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/changelog/2026-10-chat-components.md",
+      "sha256": "1447dd68b55c4cb5fea98199599935dfc6f6528bbb2bfdb59ae92933418d1464"
+    },
+    {
+      "path": "changelog/2026-10-questionnaire.md",
+      "url": "https://shadcn-svelte.com/docs/changelog/2026-10-questionnaire",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/changelog/2026-10-questionnaire.md",
+      "sha256": "cf3b13c063a452490832cdd0cc7adb4e9b06b6997f5fee0404933d0f16f2b47f"
+    },
+    {
+      "path": "cli.md",
+      "url": "https://shadcn-svelte.com/docs/cli",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/cli.md",
+      "sha256": "7933e607f98ef41de4ed7751e8d7663ceaadb729714f5e8e8eac2961b2438d22"
+    },
+    {
+      "path": "components-json.md",
+      "url": "https://shadcn-svelte.com/docs/components-json",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components-json.md",
+      "sha256": "18a01d36642d8d7257f22e3761c180012a349ef113b493675efa85901c1e5c29"
+    },
+    {
+      "path": "components/accordion.md",
+      "url": "https://shadcn-svelte.com/docs/components/accordion",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/accordion.md",
+      "sha256": "f72c123d5467c819674bcf459c777b16c0cdd487a708e8befa831d235227479e"
+    },
+    {
+      "path": "components/alert-dialog.md",
+      "url": "https://shadcn-svelte.com/docs/components/alert-dialog",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/alert-dialog.md",
+      "sha256": "caca1e1eb15397b40ed130374ef923e2558ebc266e7a7152019ceacae056c60b"
+    },
+    {
+      "path": "components/alert.md",
+      "url": "https://shadcn-svelte.com/docs/components/alert",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/alert.md",
+      "sha256": "d4dd066859a4e17ed9c07b469ae79f8da86b33cf5b825cbdd32fa4bb4bfd47c9"
+    },
+    {
+      "path": "components/aspect-ratio.md",
+      "url": "https://shadcn-svelte.com/docs/components/aspect-ratio",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/aspect-ratio.md",
+      "sha256": "d9fca747f8af9b972fcd33b5e525cf64443b5ccb321fb035588c9418c2c89ed9"
+    },
+    {
+      "path": "components/attachment.md",
+      "url": "https://shadcn-svelte.com/docs/components/attachment",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/attachment.md",
+      "sha256": "88ee50ee004ce91df8b44aa66488e8021a7e4d03dbe15c07fc557b9b5c4e85a0"
+    },
+    {
+      "path": "components/avatar.md",
+      "url": "https://shadcn-svelte.com/docs/components/avatar",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/avatar.md",
+      "sha256": "603807dd51e3096ab8c4392bf8c560e443f2a0030599b64a3c95cc5cea6ee482"
+    },
+    {
+      "path": "components/badge.md",
+      "url": "https://shadcn-svelte.com/docs/components/badge",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/badge.md",
+      "sha256": "fca4e3c3995c75f03368b06a6657db43196f5627d1edf30a4e7d099b757afda7"
+    },
+    {
+      "path": "components/breadcrumb.md",
+      "url": "https://shadcn-svelte.com/docs/components/breadcrumb",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/breadcrumb.md",
+      "sha256": "955830bfcccfc8582df880e3d8bf245b49c76ca767fc516469311b59488f9f01"
+    },
+    {
+      "path": "components/bubble.md",
+      "url": "https://shadcn-svelte.com/docs/components/bubble",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/bubble.md",
+      "sha256": "e113fc648d0c2ad19bec048a8cbb5aeeb10d59324f680d6e83c36ed198d2b695"
+    },
+    {
+      "path": "components/button-group.md",
+      "url": "https://shadcn-svelte.com/docs/components/button-group",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/button-group.md",
+      "sha256": "d9a42d869b2861de1517f939cf063d05e76b7a816514b0c21611e5f44c504bb2"
+    },
+    {
+      "path": "components/button.md",
+      "url": "https://shadcn-svelte.com/docs/components/button",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/button.md",
+      "sha256": "f16c668e7b35a5a656d52c3c7d23859b6d3dfcae239c014014592e5eed9e2328"
+    },
+    {
+      "path": "components/calendar.md",
+      "url": "https://shadcn-svelte.com/docs/components/calendar",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/calendar.md",
+      "sha256": "c37a881182adfd48daecf92630c01afeff4bac26b9e7892a875b89fe218a023d"
+    },
+    {
+      "path": "components/card.md",
+      "url": "https://shadcn-svelte.com/docs/components/card",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/card.md",
+      "sha256": "d0cb46ba196fa9930713bc0e8896c4b907d787475bdddc942d9f32f209366f84"
+    },
+    {
+      "path": "components/carousel.md",
+      "url": "https://shadcn-svelte.com/docs/components/carousel",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/carousel.md",
+      "sha256": "7cc3e9058098967ac56ee4d4c64166994344c6bc1e09986bf6693529dbe534a8"
+    },
+    {
+      "path": "components/chart.md",
+      "url": "https://shadcn-svelte.com/docs/components/chart",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/chart.md",
+      "sha256": "7b8768ba7a71efa73f8e569d800dd6a5e1f26dd25284cf2ec4ce32780e4d648d"
+    },
+    {
+      "path": "components/checkbox.md",
+      "url": "https://shadcn-svelte.com/docs/components/checkbox",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/checkbox.md",
+      "sha256": "33e72b8111b3fa31655eacf6a3218bb491e83db9dd3fe89c71ec694aa2188cbe"
+    },
+    {
+      "path": "components/code-block.md",
+      "url": "https://shadcn-svelte.com/docs/components/code-block",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/code-block.md",
+      "sha256": "50a4ac92f08f6e9519810bc66eaacda4f7c3a9d3ed80c84fca5724925b063b58"
+    },
+    {
+      "path": "components/collapsible.md",
+      "url": "https://shadcn-svelte.com/docs/components/collapsible",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/collapsible.md",
+      "sha256": "3d3926aadc0224afa97f4ed1d93c6ba99ca209fc2e29760159981f5fb655e43a"
+    },
+    {
+      "path": "components/combobox.md",
+      "url": "https://shadcn-svelte.com/docs/components/combobox",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/combobox.md",
+      "sha256": "e4abc3f2320f6def555a4458890594a133070910937a32077791b733e6130622"
+    },
+    {
+      "path": "components/command.md",
+      "url": "https://shadcn-svelte.com/docs/components/command",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/command.md",
+      "sha256": "3833e275925dd0c8f667d1af4a1ef1c173ffb7d1ab9f9bb65ef07206a32234d9"
+    },
+    {
+      "path": "components/context-menu.md",
+      "url": "https://shadcn-svelte.com/docs/components/context-menu",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/context-menu.md",
+      "sha256": "2b8ad5a306c5db866f5c4e40400e2883ff6875de68217a62097b84e387ebe212"
+    },
+    {
+      "path": "components/data-table.md",
+      "url": "https://shadcn-svelte.com/docs/components/data-table",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/data-table.md",
+      "sha256": "48a10b85c24b1e9377e2c2ae2c43cc9e53f5aa41519f8e1cec16f4b42f1d2b39"
+    },
+    {
+      "path": "components/date-picker.md",
+      "url": "https://shadcn-svelte.com/docs/components/date-picker",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/date-picker.md",
+      "sha256": "0d6c1c99a74cc6f5e90ee179c71885d1bca09d93af6571c4c99ff52b877b2325"
+    },
+    {
+      "path": "components/dialog.md",
+      "url": "https://shadcn-svelte.com/docs/components/dialog",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/dialog.md",
+      "sha256": "7d0cac81c50b78453fcb89df904eb7aa75de187726a2ade6c519c26ea77bfc77"
+    },
+    {
+      "path": "components/drawer.md",
+      "url": "https://shadcn-svelte.com/docs/components/drawer",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/drawer.md",
+      "sha256": "54f7909b23caa920febce8ad29f8f007935488c81ed51f1c586d740137334fef"
+    },
+    {
+      "path": "components/dropdown-menu.md",
+      "url": "https://shadcn-svelte.com/docs/components/dropdown-menu",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/dropdown-menu.md",
+      "sha256": "21c861203e38d17b30f8ae334bd88b2c95f5930e898259bb788522ac92a9249b"
+    },
+    {
+      "path": "components/empty.md",
+      "url": "https://shadcn-svelte.com/docs/components/empty",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/empty.md",
+      "sha256": "814f29dc10a451951e9c7d04067e2f77384d150fc98d4b02e6be7aade477a7ff"
+    },
+    {
+      "path": "components/field.md",
+      "url": "https://shadcn-svelte.com/docs/components/field",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/field.md",
+      "sha256": "6cdb54d1fd4ec4ee3eff562be7fe91a550abfef3c4a02db14328a749189d4013"
+    },
+    {
+      "path": "components/hover-card.md",
+      "url": "https://shadcn-svelte.com/docs/components/hover-card",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/hover-card.md",
+      "sha256": "0664ee4cb20490bcc321de0652500c9325f9953d2fd577621bc3be2499706b68"
+    },
+    {
+      "path": "components/index.md",
+      "url": "https://shadcn-svelte.com/docs/components/index",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/index.md",
+      "sha256": "b45047d6ad5da0ad01a9fb81b12cdc9c367b695261a17733bafe3f626da86966"
+    },
+    {
+      "path": "components/input-group.md",
+      "url": "https://shadcn-svelte.com/docs/components/input-group",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/input-group.md",
+      "sha256": "3dd989e5f3fd60c3ffcf9bf032f5decd93546e69def455f799f5ce3715d2d145"
+    },
+    {
+      "path": "components/input-otp.md",
+      "url": "https://shadcn-svelte.com/docs/components/input-otp",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/input-otp.md",
+      "sha256": "4350cf787b8353503cbb8be7bad90f76f6566ebb93c589acf92f084d4553b2d0"
+    },
+    {
+      "path": "components/input.md",
+      "url": "https://shadcn-svelte.com/docs/components/input",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/input.md",
+      "sha256": "e7f159e3b6389ee79d32e76426aa51e513c972c70fd5d6607ca5ae366dbb0265"
+    },
+    {
+      "path": "components/item.md",
+      "url": "https://shadcn-svelte.com/docs/components/item",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/item.md",
+      "sha256": "091b9c5e56659e5962aff1d4b72ef91a31b26a9112707abfc8532429b7eec20f"
+    },
+    {
+      "path": "components/kbd.md",
+      "url": "https://shadcn-svelte.com/docs/components/kbd",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/kbd.md",
+      "sha256": "06150dd0f1a2f393860bea345f8cb12be3e594cf8f620e8bb09b9bd849f77263"
+    },
+    {
+      "path": "components/label.md",
+      "url": "https://shadcn-svelte.com/docs/components/label",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/label.md",
+      "sha256": "ed9b4c090874d38c14822ac4e6ca0d891f913c55495ec104aaded78d9d377348"
+    },
+    {
+      "path": "components/marker.md",
+      "url": "https://shadcn-svelte.com/docs/components/marker",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/marker.md",
+      "sha256": "65c14adb1071c07f348a0ed3a785a8bb08d219a8eb1a5f371e18957cce67666f"
+    },
+    {
+      "path": "components/menubar.md",
+      "url": "https://shadcn-svelte.com/docs/components/menubar",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/menubar.md",
+      "sha256": "b8629b6e52d6affcc611dd7873a079ca31a0ae2c921bbeba34b0487fc115e858"
+    },
+    {
+      "path": "components/message-scroller.md",
+      "url": "https://shadcn-svelte.com/docs/components/message-scroller",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/message-scroller.md",
+      "sha256": "df667a3a6c5d69d49c679c4d133ea82bd85aac9e7a3505f0b2928132ef20f35a"
+    },
+    {
+      "path": "components/message.md",
+      "url": "https://shadcn-svelte.com/docs/components/message",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/message.md",
+      "sha256": "9d666edd0a87908dbe0ccf72c76922b73919fe6de3807895a1e3f295ca42537c"
+    },
+    {
+      "path": "components/native-select.md",
+      "url": "https://shadcn-svelte.com/docs/components/native-select",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/native-select.md",
+      "sha256": "16c6a3a2679b45bed35a6500d23b1ffa021a91a3d06542488d5af55cd0dd9f7e"
+    },
+    {
+      "path": "components/navigation-menu.md",
+      "url": "https://shadcn-svelte.com/docs/components/navigation-menu",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/navigation-menu.md",
+      "sha256": "f26f8d80572a06437d18011d0df76428390876e2003b1ffba3bb094706986397"
+    },
+    {
+      "path": "components/pagination.md",
+      "url": "https://shadcn-svelte.com/docs/components/pagination",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/pagination.md",
+      "sha256": "ed03410d6d47d876a4d27d2c8ed04d645248beb9c7d36c431a5b29e80543c085"
+    },
+    {
+      "path": "components/popover.md",
+      "url": "https://shadcn-svelte.com/docs/components/popover",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/popover.md",
+      "sha256": "ebbadc5d668e977296b406b299472adcbf052017021a1cbd53941ee83eed4f6c"
+    },
+    {
+      "path": "components/progress.md",
+      "url": "https://shadcn-svelte.com/docs/components/progress",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/progress.md",
+      "sha256": "5615f47ac2fcd7725f4fb2530893e6600024fddba097c715dde15602c003a174"
+    },
+    {
+      "path": "components/questionnaire.md",
+      "url": "https://shadcn-svelte.com/docs/components/questionnaire",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/questionnaire.md",
+      "sha256": "7ff6bb0010d45582fba0ee388435b67d075eb37a0fa60584fdfabc96487afd80"
+    },
+    {
+      "path": "components/radio-group.md",
+      "url": "https://shadcn-svelte.com/docs/components/radio-group",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/radio-group.md",
+      "sha256": "df18723a4d4cfdd0c372755d3015f1acab0c649e77d58b3cc0c8a71648f3121a"
+    },
+    {
+      "path": "components/range-calendar.md",
+      "url": "https://shadcn-svelte.com/docs/components/range-calendar",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/range-calendar.md",
+      "sha256": "f0e0f44325e6198652d2f159804d511de1664e4bb3b1d4a5d03741312b859795"
+    },
+    {
+      "path": "components/resizable.md",
+      "url": "https://shadcn-svelte.com/docs/components/resizable",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/resizable.md",
+      "sha256": "6a576f2b6be1d3a81afde0bdedb9991d97f1e3dabde03fd4feb623e9d4982e9f"
+    },
+    {
+      "path": "components/scroll-area.md",
+      "url": "https://shadcn-svelte.com/docs/components/scroll-area",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/scroll-area.md",
+      "sha256": "65f5d49e44e85b401e745e563e396cdfa77cf471626076b692eb58f1a1931ead"
+    },
+    {
+      "path": "components/select.md",
+      "url": "https://shadcn-svelte.com/docs/components/select",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/select.md",
+      "sha256": "eedc1a01e08001a5a95238f325990a2d6a9a3bd28cf41b67389676c124e22c82"
+    },
+    {
+      "path": "components/separator.md",
+      "url": "https://shadcn-svelte.com/docs/components/separator",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/separator.md",
+      "sha256": "f1c159e1507b2fca66b152c0096b3e2354150c8fa7011eca6b4f84bb216a5d4b"
+    },
+    {
+      "path": "components/sheet.md",
+      "url": "https://shadcn-svelte.com/docs/components/sheet",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/sheet.md",
+      "sha256": "3d02490e6ee71411d0f8a71dd1c96e3e4b15075d3f3f21320a6ec1ce3ea7dca7"
+    },
+    {
+      "path": "components/sidebar.md",
+      "url": "https://shadcn-svelte.com/docs/components/sidebar",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/sidebar.md",
+      "sha256": "b9648beb45ba73a57ef94d38fd394532a933e6cccea79700012d96c6f6341141"
+    },
+    {
+      "path": "components/skeleton.md",
+      "url": "https://shadcn-svelte.com/docs/components/skeleton",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/skeleton.md",
+      "sha256": "c1e8da4c896317fe318d7c180cf74052d3974eb05d13829de30b0f0b450a5408"
+    },
+    {
+      "path": "components/slider.md",
+      "url": "https://shadcn-svelte.com/docs/components/slider",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/slider.md",
+      "sha256": "31bd3ca8e3a56a8b6502683da8751b135295ac6b7cf5c19d8ccf574709ceb8bb"
+    },
+    {
+      "path": "components/sonner.md",
+      "url": "https://shadcn-svelte.com/docs/components/sonner",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/sonner.md",
+      "sha256": "6d6c0c2681a64ed8e9b75274c1529b5d8248e9ad3d8befea6634c6e6d35c07b0"
+    },
+    {
+      "path": "components/spinner.md",
+      "url": "https://shadcn-svelte.com/docs/components/spinner",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/spinner.md",
+      "sha256": "7bc835452c022627257806ee54afe899c12e5460e6f8e8545433af699a5e6979"
+    },
+    {
+      "path": "components/switch.md",
+      "url": "https://shadcn-svelte.com/docs/components/switch",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/switch.md",
+      "sha256": "963594a7c7143c31f676f16cf8c45b4a8ffc16c3fb79d7c040aa2b73b5a0aa3c"
+    },
+    {
+      "path": "components/table.md",
+      "url": "https://shadcn-svelte.com/docs/components/table",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/table.md",
+      "sha256": "b47add318e3f8dd32030a51830b393977ac0b1c9c854b4f26197e06043f81ca4"
+    },
+    {
+      "path": "components/tabs.md",
+      "url": "https://shadcn-svelte.com/docs/components/tabs",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/tabs.md",
+      "sha256": "1fd3450386b436c75287934ee3b7c54c553cdeab506e07514d2d031e631fcd49"
+    },
+    {
+      "path": "components/textarea.md",
+      "url": "https://shadcn-svelte.com/docs/components/textarea",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/textarea.md",
+      "sha256": "0b2ac313927833016565b35bf5615c39a9bb6e772b8672f113967c3b20763215"
+    },
+    {
+      "path": "components/toggle-group.md",
+      "url": "https://shadcn-svelte.com/docs/components/toggle-group",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/toggle-group.md",
+      "sha256": "ffb51ea2810c63bd45c342d3b00c2cfa59a70018337600abb6f0847fef4a5edb"
+    },
+    {
+      "path": "components/toggle.md",
+      "url": "https://shadcn-svelte.com/docs/components/toggle",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/toggle.md",
+      "sha256": "03bfc96cd664de41fce3826755af1e4c05d727d611173a8cca17cd903ab533bd"
+    },
+    {
+      "path": "components/tooltip.md",
+      "url": "https://shadcn-svelte.com/docs/components/tooltip",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/tooltip.md",
+      "sha256": "0aac4819d7d06b0b66bcc1fbacb5901799d007819eea5b7bd33f3e6aa6af7f04"
+    },
+    {
+      "path": "components/trace.md",
+      "url": "https://shadcn-svelte.com/docs/components/trace",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/trace.md",
+      "sha256": "a030b593bb0857f8c45551f34c12353dacd83614d34070859b3990705c7fac81"
+    },
+    {
+      "path": "components/typography.md",
+      "url": "https://shadcn-svelte.com/docs/components/typography",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/components/typography.md",
+      "sha256": "033cdebe9e95327810c79d381c32d1ccb343e7098282216fc644a672507f1d9b"
+    },
+    {
+      "path": "dark-mode/astro.md",
+      "url": "https://shadcn-svelte.com/docs/dark-mode/astro",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/dark-mode/astro.md",
+      "sha256": "2be379595c4226f6e116caf77d4f37b2e0e50f8fc76499afadddd94a0581ce78"
+    },
+    {
+      "path": "dark-mode/index.md",
+      "url": "https://shadcn-svelte.com/docs/dark-mode/index",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/dark-mode/index.md",
+      "sha256": "6fc0ae04d7ed27df0873fb250c8c55105c8153f55e6db0a0a10fd92d23cb36e1"
+    },
+    {
+      "path": "dark-mode/svelte.md",
+      "url": "https://shadcn-svelte.com/docs/dark-mode/svelte",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/dark-mode/svelte.md",
+      "sha256": "8013adc0f0b5ff44d380f2b9561020a13a6b8a699f29ae5ce62cf3369a4b197c"
+    },
+    {
+      "path": "figma.md",
+      "url": "https://shadcn-svelte.com/docs/figma",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/figma.md",
+      "sha256": "9c00c3c6b57f08105d243110a107d1a5c37c17512d97d3cb118403afa9f23f85"
+    },
+    {
+      "path": "forms/index.md",
+      "url": "https://shadcn-svelte.com/docs/forms/index",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/forms/index.md",
+      "sha256": "3c70811a7a4a6b656ceba8e7dc77c8ea8cdc1ac6ff73f7dae4895682843110a4"
+    },
+    {
+      "path": "index.md",
+      "url": "https://shadcn-svelte.com/docs/index",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/index.md",
+      "sha256": "77b328cb28daa0bca43cb894b6b6f25a0e24e5a7af66a150a7558c17c1fc7bdf"
+    },
+    {
+      "path": "installation/astro.md",
+      "url": "https://shadcn-svelte.com/docs/installation/astro",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/installation/astro.md",
+      "sha256": "fbde9396ef4b38974230bf37a9613e66a6d2504905f632447758a0052ec36ca6"
+    },
+    {
+      "path": "installation/index.md",
+      "url": "https://shadcn-svelte.com/docs/installation/index",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/installation/index.md",
+      "sha256": "e72241398361d9763b24345198facc876cfb7d13f51163b28bdd6cdd84bc66b4"
+    },
+    {
+      "path": "installation/manual.md",
+      "url": "https://shadcn-svelte.com/docs/installation/manual",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/installation/manual.md",
+      "sha256": "e2f4e00102c9bb670b43ed51e5122066e36d991cfcd90083475a8032e6bb4c0f"
+    },
+    {
+      "path": "installation/sveltekit.md",
+      "url": "https://shadcn-svelte.com/docs/installation/sveltekit",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/installation/sveltekit.md",
+      "sha256": "66e3d077be72650db7298d23f16a52747dbd904ba863cf11c879e3b38cc87dc9"
+    },
+    {
+      "path": "installation/vite.md",
+      "url": "https://shadcn-svelte.com/docs/installation/vite",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/installation/vite.md",
+      "sha256": "6c467ee1665ef16d5003396870ee5f311c75dc50c381d20d8f6911db54480363"
+    },
+    {
+      "path": "javascript.md",
+      "url": "https://shadcn-svelte.com/docs/javascript",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/javascript.md",
+      "sha256": "de258516697aad9af78aefd68d7da503c29624c34714ebbe11c3def49882b3ea"
+    },
+    {
+      "path": "legacy.md",
+      "url": "https://shadcn-svelte.com/docs/legacy",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/legacy.md",
+      "sha256": "47415da81509b4015fb90c728d3fc3dca9d78179aa695de62f3fef0312cfc4ed"
+    },
+    {
+      "path": "migration/index.md",
+      "url": "https://shadcn-svelte.com/docs/migration/index",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/migration/index.md",
+      "sha256": "7ea05a36b0bb6157fa4647a8d6029edb6143d1cfc2b0dcbbce7b7ae9c27f1043"
+    },
+    {
+      "path": "migration/svelte-5.md",
+      "url": "https://shadcn-svelte.com/docs/migration/svelte-5",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/migration/svelte-5.md",
+      "sha256": "6f472620ce6f0e791adcadef15994799b3a3325df12067fa2fca9f20e266279d"
+    },
+    {
+      "path": "migration/tailwind-v4.md",
+      "url": "https://shadcn-svelte.com/docs/migration/tailwind-v4",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/migration/tailwind-v4.md",
+      "sha256": "1c2f12fbf42bd1eb999291a2b22f0eaa0711ae74223b299d51ad054b3eaf42a4"
+    },
+    {
+      "path": "registry/examples.md",
+      "url": "https://shadcn-svelte.com/docs/registry/examples",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/registry/examples.md",
+      "sha256": "9765dcecacf602ae59a4fa25fdba13fa84a1c5ecacb7ceb88066852a8c4d60cb"
+    },
+    {
+      "path": "registry/faq.md",
+      "url": "https://shadcn-svelte.com/docs/registry/faq",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/registry/faq.md",
+      "sha256": "bc090a6267534f01da41dd1e772fffe994969a33b50019722fdd8652a2f57cde"
+    },
+    {
+      "path": "registry/getting-started.md",
+      "url": "https://shadcn-svelte.com/docs/registry/getting-started",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/registry/getting-started.md",
+      "sha256": "1768275122d1e1cb607322fe6281f94bef3a1ff8adb29138485bedddf5cc2870"
+    },
+    {
+      "path": "registry/index.md",
+      "url": "https://shadcn-svelte.com/docs/registry/index",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/registry/index.md",
+      "sha256": "e09e11026e0b27d48de265230deecfb74aa412dd1644ec123b09263619f1e9e3"
+    },
+    {
+      "path": "registry/registry-item-json.md",
+      "url": "https://shadcn-svelte.com/docs/registry/registry-item-json",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/registry/registry-item-json.md",
+      "sha256": "94ea618e763a5a5a7634a0d7e477fdb5693f698615e3fe655eb3c42b04bc74b9"
+    },
+    {
+      "path": "registry/registry-json.md",
+      "url": "https://shadcn-svelte.com/docs/registry/registry-json",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/registry/registry-json.md",
+      "sha256": "765531adc4c32299288e4a68a4dcdd355a303861b365c5d6c0005e7935ccc66d"
+    },
+    {
+      "path": "skills.md",
+      "url": "https://shadcn-svelte.com/docs/skills",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/skills.md",
+      "sha256": "04f4229f14b55b47dc10e3d746d8b2ffade25d3343ee29775c9b2bf4bc024369"
+    },
+    {
+      "path": "theming.md",
+      "url": "https://shadcn-svelte.com/docs/theming",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/theming.md",
+      "sha256": "3eeda2042c19059f33cc920a4d75e88af2c5aeca671f248b29e83520889768d5"
+    },
+    {
+      "path": "utils/scroll-fade.md",
+      "url": "https://shadcn-svelte.com/docs/utils/scroll-fade",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/utils/scroll-fade.md",
+      "sha256": "d966b945545e129aeb69baa62f408dc1a8cdff7bcae0e04414307e3d1ab37286"
+    },
+    {
+      "path": "utils/shimmer.md",
+      "url": "https://shadcn-svelte.com/docs/utils/shimmer",
+      "rawUrl": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/7b33267d960d7c197d163ebc4ae96149242df1ff/docs/content/utils/shimmer.md",
+      "sha256": "5f01ff1a28cea6a6f4bd933ab1944e4ed7ecbd2960128f6f425a2f9b67e19075"
+    }
+  ]
+}

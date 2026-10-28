@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-10-28T23:18:09.891Z",
+  "status": "connected",
+  "transport": "stdio",
+  "server": {
+    "name": "course-atlas-shadcn-svelte-docs",
+    "version": "1.0.0"
+  },
+  "officialDocumentRead": "components/sheet.md",
+  "projectContextRead": true,
+  "pathTraversalRejected": true,
+  "tools": [
+    "list_docs",
+    "read_doc",
+    "get_project_context"
+  ]
+}

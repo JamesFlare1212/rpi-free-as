@@ -1,0 +1,129 @@
+[
+  {
+    "url": "https://cs.rpi.edu/academics/courses/spring25/csci4150/website/lectures/lecture1.html",
+    "status": 200,
+    "finalUrl": "https://cs.rpi.edu/academics/courses/spring25/csci4150/website/lectures/lecture1.html",
+    "contentType": "text/html; charset=utf-8",
+    "checkedAt": "2026-10-28T23:22:25.336822+00:00"
+  },
+  {
+    "url": "https://github.com/rcos/rcos-handbook/blob/master/docs/grading/rubric.md",
+    "status": 200,
+    "finalUrl": "https://github.com/rcos/rcos-handbook/blob/master/docs/grading/rubric.md",
+    "contentType": "text/html; charset=utf-8",
+    "checkedAt": "2026-10-28T23:22:26.029873+00:00"
+  },
+  {
+    "url": "https://homepages.hass.rpi.edu/heuveb/Teaching/CogSci/Web/Syllabus.htm",
+    "status": 200,
+    "finalUrl": "https://homepages.hass.rpi.edu/heuveb/Teaching/CogSci/Web/Syllabus.htm",
+    "contentType": "text/html",
+    "checkedAt": "2026-10-28T23:22:25.397149+00:00"
+  },
+  {
+    "url": "https://homepages.hass.rpi.edu/heuveb/Teaching/CriticalThinking/Web/Syllabus.html",
+    "status": 200,
+    "finalUrl": "https://homepages.hass.rpi.edu/heuveb/Teaching/CriticalThinking/Web/Syllabus.html",
+    "contentType": "text/html",
+    "checkedAt": "2026-10-28T23:22:25.392991+00:00"
+  },
+  {
+    "url": "https://homepages.hass.rpi.edu/heuveb/Teaching/Logic/CompLogic/Web/Syllabus.html",
+    "status": 200,
+    "finalUrl": "https://homepages.hass.rpi.edu/heuveb/Teaching/Logic/CompLogic/Web/Syllabus.html",
+    "contentType": "text/html",
+    "checkedAt": "2026-10-28T23:22:25.396774+00:00"
+  },
+  {
+    "url": "https://homepages.hass.rpi.edu/ruiz/EGDSpring2016/Experimental.htm",
+    "status": 200,
+    "finalUrl": "https://homepages.hass.rpi.edu/ruiz/EGDSpring2016/Experimental.htm",
+    "contentType": "text/html",
+    "checkedAt": "2026-10-28T23:22:25.557240+00:00"
+  },
+  {
+    "url": "https://sites.ecse.rpi.edu/courses/static/ENGR-2350/_downloads/480dc1320a38152643b14a64c13756dc/ENGR-2350_Syllabus_S2026.pdf",
+    "status": 404,
+    "checkedAt": "2026-10-28T23:22:25.594033+00:00"
+  },
+  {
+    "url": "https://www.cs.rpi.edu/academics/courses/fall25/csci4220/syllabus.html",
+    "status": 200,
+    "finalUrl": "https://www.cs.rpi.edu/academics/courses/fall25/csci4220/syllabus.html",
+    "contentType": "text/html; charset=utf-8",
+    "checkedAt": "2026-10-28T23:22:25.599728+00:00"
+  },
+  {
+    "url": "https://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S13/calendar.html",
+    "status": 200,
+    "finalUrl": "https://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S13/calendar.html",
+    "contentType": "text/html; charset=utf-8",
+    "checkedAt": "2026-10-28T23:22:25.601394+00:00"
+  },
+  {
+    "url": "https://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S25/grading.php",
+    "status": 200,
+    "finalUrl": "https://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S25/grading.php",
+    "contentType": "text/html; charset=UTF-8",
+    "checkedAt": "2026-10-28T23:22:25.752402+00:00"
+  },
+  {
+    "url": "https://www.cs.rpi.edu/~cutler/classes/visualization/S24/grading.php",
+    "status": 200,
+    "finalUrl": "https://www.cs.rpi.edu/~cutler/classes/visualization/S24/grading.php",
+    "contentType": "text/html; charset=UTF-8",
+    "checkedAt": "2026-10-28T23:22:25.751622+00:00"
+  },
+  {
+    "url": "https://www.cs.rpi.edu/~milanova/csci4450/S25_Lecture1_Intro.pdf",
+    "status": 404,
+    "checkedAt": "2026-10-28T23:22:25.749854+00:00"
+  },
+  {
+    "url": "https://www.cs.rpi.edu/~zaki/courses/algorithms/algo_syllabus/",
+    "status": 200,
+    "finalUrl": "https://www.cs.rpi.edu/~zaki/courses/algorithms/algo_syllabus/",
+    "contentType": "text/html; charset=utf-8",
+    "checkedAt": "2026-10-28T23:22:25.821346+00:00"
+  },
+  {
+    "url": "https://www.reddit.com/r/RPI/comments/170k200/",
+    "status": 200,
+    "finalUrl": "https://www.reddit.com/r/RPI/comments/170k200/",
+    "contentType": "text/html",
+    "checkedAt": "2026-10-28T23:22:25.969660+00:00"
+  },
+  {
+    "url": "https://www.reddit.com/r/RPI/comments/1j319nl/",
+    "status": 200,
+    "finalUrl": "https://www.reddit.com/r/RPI/comments/1j319nl/",
+    "contentType": "text/html",
+    "checkedAt": "2026-10-28T23:22:25.967567+00:00"
+  },
+  {
+    "url": "https://www.reddit.com/r/RPI/comments/dne845/",
+    "status": 200,
+    "finalUrl": "https://www.reddit.com/r/RPI/comments/dne845/",
+    "contentType": "text/html",
+    "checkedAt": "2026-10-28T23:22:25.970335+00:00"
+  },
+  {
+    "url": "https://www.reddit.com/r/RPI/comments/lwiglg/",
+    "status": 200,
+    "finalUrl": "https://www.reddit.com/r/RPI/comments/lwiglg/",
+    "contentType": "text/html",
+    "checkedAt": "2026-10-28T23:22:25.969950+00:00"
+  },
+  {
+    "url": "https://www.reddit.com/r/RPI/comments/qrdmmi/",
+    "status": 200,
+    "finalUrl": "https://www.reddit.com/r/RPI/comments/qrdmmi/",
+    "contentType": "text/html",
+    "checkedAt": "2026-10-28T23:22:26.144999+00:00"
+  },
+  {
+    "url": "https://www.cs.rpi.edu/~goldsd/docs/s27-topics-courses.txt",
+    "status": 200,
+    "checkedAt": "2026-10-28T23:25:23.400390+00:00"
+  }
+]
