@@ -19,6 +19,7 @@
   import { candidateVerdicts, exportCsv, filterCourses, verdictLabels } from '$lib/catalog';
   import type { Course, Dataset, Evidence, Verdict, SearchRecord } from '$lib/types';
   import EvidenceCard from '$lib/EvidenceCard.svelte';
+  import ThemeToggle from '$lib/ThemeToggle.svelte';
   import exclusions from '../data/excluded.json';
   let searches = $state<SearchRecord[]>([]);
   let searchesLoading = $state(false);
@@ -163,7 +164,7 @@
   </aside>
 
   <div class="workspace">
-    <header class="topbar"><div class="breadcrumb"><span>课程研究</span><ChevronRight size={13}/><strong>2027 春季学期</strong></div><div class="topbar-actions"><span class="updated"><span class="live-dot"></span>核查于 2026.10.28</span><Button variant="ghost" size="icon-sm" aria-label="研究方法" onclick={()=>methodsOpen=true}><CircleHelp/></Button><div class="user-mark">R</div></div></header>
+    <header class="topbar"><div class="breadcrumb"><span>课程研究</span><ChevronRight size={13}/><strong>2027 春季学期</strong></div><div class="topbar-actions"><span class="updated"><span class="live-dot"></span>核查于 2026.10.28</span><ThemeToggle/><Button variant="ghost" size="icon-sm" aria-label="研究方法" onclick={()=>methodsOpen=true}><CircleHelp/></Button><div class="user-mark">R</div></div></header>
     <main id="main">
       <section class="hero">
         <div><div class="eyebrow"><span class="eyebrow-line"></span>LESS GUESSWORK. BETTER CHOICES.</div><h1>选一门课，<br/>从了解考核开始<span class="heading-dot">。</span></h1><p class="hero-description">找找没有考试、线上考试和项目制课程。<br class="mobile-break"/>让每一个选课决定，都有据可依。</p><div class="hero-tags"><span><CheckCheck size={14}/>QUACS 完整课程目录</span><span><Link size={13}/>可追溯的公开来源</span></div></div>

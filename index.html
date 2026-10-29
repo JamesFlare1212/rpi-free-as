@@ -3,7 +3,16 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#0c1712" />
+    <meta name="theme-color" content="#f7f8f4" />
+    <script>
+      (() => {
+        let preference;
+        try { preference = localStorage.getItem('course-atlas-theme'); } catch {}
+        const dark = preference === 'dark' || (preference !== 'light' && window.matchMedia('(prefers-color-scheme: dark)').matches);
+        document.documentElement.classList.toggle('dark', dark);
+        document.querySelector('meta[name="theme-color"]').setAttribute('content', dark ? '#121c17' : '#f7f8f4');
+      })();
+    </script>
     <meta name="description" content="RPI Spring 2027 课程考试形式研究：完整课程目录、公开大纲、考试方式与可追溯依据。" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <title>Course Atlas · RPI 选课研究室</title>
