@@ -3,28 +3,37 @@ import type { Confidence, Course, Evidence, Verdict } from './types.ts';
 export const verdictLabels: Record<Verdict, string> = {
   'no-exams': '无考试线索', online: '线上考试线索', 'take-home': 'Take-home 考试',
   'no-final': '仅无期末考试', 'project-based': '项目制线索',
+  'online-final': '仅线上期末线索', 'final-project': '仅期末项目 / 论文', 'scheduled-final': '历史期末排期 · 形式未知',
   'has-exams': '有考试依据', conflicting: '证据存在冲突', unknown: '考试形式未知',
 };
 export function resolveVerdict(evidence: Evidence[]): {verdict: Verdict; confidence: Confidence | null} {
   if (!evidence.length) return {verdict: 'unknown', confidence: null};
   const relevant = evidence.some(e => e.scope === 'current') ? evidence.filter(e => e.scope === 'current') : evidence;
   if (relevant.some(e => e.verdict === 'has-exams') && relevant.some(e => ['no-exams', 'online'].includes(e.verdict))) return {verdict:'conflicting',confidence:'low'};
-  const ranks = {syllabus: 0, 'course-site': 1, handbook: 2, 'student-report': 3};
-  const sorted = [...relevant].sort((a,b) => ranks[a.sourceType] - ranks[b.sourceType] || (b.sourceDate ?? '').localeCompare(a.sourceDate ?? ''));
+  // A final schedule only describes the final assessment. It never overrides a full-course policy.
+  const detailed = relevant.filter(e=>e.sourceType!=='exam-schedule');
+  const pool = detailed.length ? detailed : relevant;
+  const ranks = {syllabus: 0, 'course-site': 1, handbook: 2, 'student-report': 3, 'exam-schedule': 4};
+  const sorted = [...pool].sort((a,b) => ranks[a.sourceType] - ranks[b.sourceType] || Number(a.verdict==='scheduled-final')-Number(b.verdict==='scheduled-final') || (b.sourceDate ?? '').localeCompare(a.sourceDate ?? ''));
   return {verdict: sorted[0].verdict, confidence: sorted[0].confidence};
 }
-export const candidateVerdicts = new Set<Verdict>(['no-exams','online','take-home','project-based']);
-export interface Filters { query: string; status: string; subject: string; level: string; source: string; quizzes: boolean; savedOnly: boolean; sort: string; }
+export const candidateVerdicts = new Set<Verdict>(['no-exams','online','take-home','project-based','online-final','final-project']);
+export interface Filters { query: string; status: string; subject: string; level: string; source: string; program?: string; quizzes: boolean; savedOnly: boolean; sort: string; }
 export function filterCourses(courses: Course[], f: Filters, saved: string[] = []): Course[] {
   const terms = f.query.toLocaleLowerCase().trim().split(/\s+/).filter(Boolean);
-  const rank: Record<Verdict,number> = {'no-exams':0,online:1,'take-home':2,'project-based':3,'no-final':4,conflicting:5,'has-exams':6,unknown:7};
-  return courses.filter(c => {
+  const rank: Record<Verdict,number> = {'no-exams':0,online:1,'take-home':2,'project-based':3,'online-final':4,'final-project':5,'no-final':6,conflicting:7,'has-exams':8,'scheduled-final':9,unknown:10};
+  const scopedCourses = !f.program || f.program==='all' ? courses : courses.map(c=>{
+    const evidence=c.evidence.filter(e=>f.program==='atwork' ? e.sectionPattern==='^H' : e.sectionPattern!=='^H');
+    return {...c,evidence,...resolveVerdict(evidence)};
+  });
+  return scopedCourses.filter(c => {
     const haystack = [c.id,c.title,...c.sections.map(s=>s.title),c.department,c.subject,...c.instructors,...c.evidence.map(e=>e.summary)].join(' ').toLowerCase();
     return terms.every(t=>haystack.includes(t))
-      && (f.status === 'all' || (f.status === 'candidates' ? candidateVerdicts.has(c.verdict) : c.verdict === f.status))
+      && (f.status === 'all' || (f.status === 'candidates' ? candidateVerdicts.has(c.verdict) : ['searched','initial','unsearched'].includes(f.status) ? c.research.state === f.status : c.verdict === f.status))
       && (f.subject === 'all' || c.subject === f.subject)
       && (f.level === 'all' || c.level === f.level)
       && (f.source === 'all' || (f.source === 'official' ? c.evidence.some(e=>e.sourceType !== 'student-report') : c.evidence.some(e=>e.sourceType === 'student-report')))
+      && (!f.program || f.program === 'all' || (f.program === 'atwork' ? c.evidence.some(e=>e.sectionPattern==='^H') : c.sections.some(s=>!s.sec.startsWith('H'))))
       && (!f.quizzes || !c.evidence.some(e=>e.hasQuizzes))
       && (!f.savedOnly || saved.includes(c.id));
   }).sort((a,b)=>f.sort==='code' ? a.id.localeCompare(b.id) : f.sort==='credits' ? a.creditMin-b.creditMin || a.id.localeCompare(b.id) : rank[a.verdict]-rank[b.verdict] || a.id.localeCompare(b.id));
@@ -36,10 +45,11 @@ export function csvEscape(value: unknown): string {
   return '"' + text.replaceAll('"','""') + '"';
 }
 export function exportCsv(courses: Course[]): string {
-  const rows = [['课号','课程','教师','学分','考试形式','适用范围','依据','注意事项','来源链接','班次CRN'], ...courses.map(c=>[
+  const rows = [['课号','课程','教师','学分','考试形式','适用范围','依据','注意事项','来源链接','班次CRN','检索状态','证据适用CRN','来源定位'], ...courses.map(c=>[
     c.id,c.title,c.instructors.join('; '),`${c.creditMin}${c.creditMin!==c.creditMax?`–${c.creditMax}`:''}`,
     verdictLabels[c.verdict],c.evidence.map(e=>e.term).join('; '),c.evidence.map(e=>e.summary).join('; '),
     c.evidence.map(e=>e.caveat).join('; '),c.evidence.map(e=>e.url).join('; '),c.sections.map(s=>s.crn).join('; '),
+    c.research.state,c.evidence.map(e=>`${e.id}: ${e.sectionCrns?.join(' / ')}`).join('; '),c.evidence.map(e=>e.sourceLocator??'').join('; '),
   ])];
   return '\ufeff' + rows.map(row=>row.map(csvEscape).join(',')).join('\r\n');
 }

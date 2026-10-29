@@ -1,11 +1,80 @@
 [
-  {"course":"CSCI-4964 / 6964 · Graph Mining","url":"https://www.cs.rpi.edu/~slotag/classes/SP24m/syllabus_graph_mining_sp24.pdf","finding":"Spring 2024 大纲明确写无考试。","reason":"Spring 2027 同一课号已用于 Deep Learning on Graphs，标题和教师均不同；拒绝关联。"},
-  {"course":"CSCI-4260 / MATH-4150 · Graph Theory","url":"https://www.cs.rpi.edu/~slotag/classes/SP21/syllabus_graph_theory.pdf","finding":"Spring 2021 疫情大纲不设正式考试，但可能有综合 take-home 作业。","reason":"本学期课程清单没有该课；不能把历史目录中出现视作 2027 开课。"},
-  {"course":"ECSE-4790 · Microprocessor Systems","url":"https://sites.ecse.rpi.edu/courses/static/ECSE-4790/information.html","finding":"课程页明确无考试及期末考试，但有 3 次随堂测验。","reason":"Spring 2027 QUACS 未开设 ECSE-4790，故未加入候选课程。"},
-  {"course":"Parallel Computing","url":"https://www.reddit.com/r/RPI/comments/qneldf/","finding":"2021 学生回忆无考试、以 CUDA/MPI 作业和期末项目为主。","reason":"本学期清单未找到对应课程，不移植到名称不同的数值计算课程。"},
-  {"course":"Computational Vision","url":"https://www.reddit.com/r/RPI/comments/rmnle4/","finding":"2021 学生称由作业与参与组成，无考试。","reason":"本学期未开设同名课；不关联至 Image Processing 或 Computer Graphics。"},
-  {"course":"Speech Communication","url":"https://www.reddit.com/r/RPI/comments/170k200/","finding":"2023 学生称 Hiland 的课程由五次演讲组成、没有考试。","reason":"本学期未找到同名课程；不能套用到所有沟通或写作课。"},
-  {"course":"Intro to Psychology with Cui / Walf","url":"https://www.reddit.com/r/RPI/comments/1j319nl/","finding":"讨论中有线上形式的学生推荐，但未提供考试条款。","reason":"Spring 2027 PSYC-1200 教师为 Jacquelyn Berry；教师不同且考试形式未被明确，不作为线上考试依据。"},
-  {"course":"RPI at Work 全项目制介绍","url":"https://rpiatwork.rpi.edu/rpistudio-tour","finding":"官方介绍 RPIStudio 的项目学习形式不设 tests 或 quizzes。","reason":"介绍针对特定项目，无法逐一核实本学期具体班次归属；Online 地点也不能证明线上考试，故不批量标记。"},
-  {"course":"CSCI-6964 · Cloud Computing","url":"https://www.cs.rpi.edu/academics/courses/fall11/csci6964/","finding":"Fall 2011 官方课程页明确无考试。","reason":"专题课号反复使用；Spring 2027 的 CSCI-6964 是 Deep Learning on Graphs。"}
+  {
+    "course": "CSCI-4964 / 6964 · Graph Mining",
+    "url": "https://www.cs.rpi.edu/~slotag/classes/SP24m/syllabus_graph_mining_sp24.pdf",
+    "finding": "Spring 2024 大纲明确写无考试。",
+    "reason": "Spring 2027 同一课号已用于 Deep Learning on Graphs，标题和教师均不同；拒绝关联。"
+  },
+  {
+    "course": "CSCI-4260 / MATH-4150 · Graph Theory",
+    "url": "https://www.cs.rpi.edu/~slotag/classes/SP21/syllabus_graph_theory.pdf",
+    "finding": "Spring 2021 疫情大纲不设正式考试，但可能有综合 take-home 作业。",
+    "reason": "本学期课程清单没有该课；不能把历史目录中出现视作 2027 开课。"
+  },
+  {
+    "course": "ECSE-4790 · Microprocessor Systems",
+    "url": "https://sites.ecse.rpi.edu/courses/static/ECSE-4790/information.html",
+    "finding": "课程页明确无考试及期末考试，但有 3 次随堂测验。",
+    "reason": "Spring 2027 QUACS 未开设 ECSE-4790，故未加入候选课程。"
+  },
+  {
+    "course": "Parallel Computing",
+    "url": "https://www.reddit.com/r/RPI/comments/qneldf/",
+    "finding": "2021 学生回忆无考试、以 CUDA/MPI 作业和期末项目为主。",
+    "reason": "本学期清单未找到对应课程，不移植到名称不同的数值计算课程。"
+  },
+  {
+    "course": "Computational Vision",
+    "url": "https://www.reddit.com/r/RPI/comments/rmnle4/",
+    "finding": "2021 学生称由作业与参与组成，无考试。",
+    "reason": "本学期未开设同名课；不关联至 Image Processing 或 Computer Graphics。"
+  },
+  {
+    "course": "Speech Communication",
+    "url": "https://www.reddit.com/r/RPI/comments/170k200/",
+    "finding": "2023 学生称 Hiland 的课程由五次演讲组成、没有考试。",
+    "reason": "本学期未找到同名课程；不能套用到所有沟通或写作课。"
+  },
+  {
+    "course": "Intro to Psychology with Cui / Walf",
+    "url": "https://www.reddit.com/r/RPI/comments/1j319nl/",
+    "finding": "讨论中有线上形式的学生推荐，但未提供考试条款。",
+    "reason": "Spring 2027 PSYC-1200 教师为 Jacquelyn Berry；教师不同且考试形式未被明确，不作为线上考试依据。"
+  },
+  {
+    "course": "CSCI-6964 · Cloud Computing",
+    "url": "https://www.cs.rpi.edu/academics/courses/fall11/csci6964/",
+    "finding": "Fall 2011 官方课程页明确无考试。",
+    "reason": "专题课号反复使用；Spring 2027 的 CSCI-6964 是 Deep Learning on Graphs。"
+  },
+  {
+    "course": "ITWS-2110 · Fall 2026 Web Systems Development",
+    "url": "https://github.com/RPI-WS-fall-2026/itws2110-course",
+    "finding": "完整评分由作业、团队项目、quizzes 与参与组成。",
+    "reason": "Spring 2027 QUACS 清单没有 ITWS-2110，不能把相似 ITWS-4310 套用为同一课。"
+  },
+  {
+    "course": "PSYC-4960 · Yingrui Yang 的免考评论",
+    "url": "https://www.ratemyprofessors.com/professor/582959",
+    "finding": "2025 评论写无考试、作业及测验。",
+    "reason": "2027 该课号为 Aktunc 的 History & Philosophy of Psych；专题与教师不匹配。"
+  },
+  {
+    "course": "PHIL-4140 / MANE-6760 · RMP 无考试评论",
+    "url": "https://www.ratemyprofessors.com/professor/1874163",
+    "finding": "RMP 分别有 Intermediate Logic 和 FEM for Fluid Dynamics 无考试经验。",
+    "reason": "Spring 2027 清单未开设这两个课号，不能加入候选。"
+  },
+  {
+    "course": "ARCH-4956 · 旧 Research Design Seminar",
+    "url": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf#page=588",
+    "finding": "旧大纲完整评分由研究报告、海报与文献回顾组成。",
+    "reason": "Spring 2027 ARCH-4956 是 Travel Narratives，仅保留同名 ARCH-6810 的历史线索。"
+  },
+  {
+    "course": "Data Science 2026 · CSCI / ITWS / ERTH 4350 / 6350",
+    "url": "https://tw.rpi.edu/classes/data-science-2026",
+    "finding": "公开课程页列出数据采集、分析项目、归档与展示评分。",
+    "reason": "Spring 2027 清单没有这些课号；不能与同期开设的 Data Analytics 或其他 Data Science 课程混用。"
+  }
 ]

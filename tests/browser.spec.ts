@@ -35,9 +35,30 @@ test('mobile layout, source chart and methodology are usable',async({page})=>{
   await expect(page.getByRole('heading',{name:/发现课程/})).toBeVisible();
   await page.evaluate(()=>document.fonts.ready);await page.screenshot({path:'/tmp/course-atlas-mobile.png',fullPage:true});
   expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
+  await page.getByLabel('搜索课程、课号或教师').fill('CHEM 4810');
   await page.getByRole('button',{name:'查看 CHEM-4810 依据'}).click();await expect(page.getByRole('dialog').getByText('CHEM-4810',{exact:true})).toBeVisible();
   expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);await page.keyboard.press('Escape');
   await page.getByRole('button',{name:'证据与来源',exact:false}).click();await expect(page.getByRole('img',{name:/大纲/})).toBeVisible();
   await expect(page.getByRole('heading',{name:'为什么这些课程没被收进来？'})).toBeVisible();
   await page.getByRole('button',{name:'研究方法',exact:true}).click();await expect(page.getByRole('dialog').getByText('依据透明，选择才有底气。')).toBeVisible();
+});
+
+test('program scope, RMP evidence and coverage are visible',async({page})=>{
+  await page.goto('/?q=MGMT+4100');
+  await page.getByRole('button',{name:'查看 MGMT-4100 依据'}).click();
+  await expect(page.getByRole('dialog').getByRole('link',{name:/Rate My Professors · Hakan/})).toBeVisible();
+  await page.keyboard.press('Escape');
+  await page.goto('/?q=MANE+5000&program=atwork');
+  await expect(page.getByRole('region',{name:'课程浏览器'}).getByText('无考试线索',{exact:true})).toBeVisible();
+  await page.getByLabel('班次范围').selectOption('campus');
+  await expect(page.getByText('没有匹配的课程',{exact:true})).toBeVisible();
+  await page.getByRole('button',{name:'检索覆盖',exact:false}).click();
+  await expect(page.getByRole('heading',{name:'还有哪些课需要继续查？'})).toBeVisible();
+  await expect(page.getByRole('img',{name:/有依据/})).toBeVisible();
+  await page.goto('/?status=initial&q=ARCH+2530');
+  await page.getByRole('button',{name:'查看 ARCH-2530 依据'}).click();
+  const log=page.getByRole('dialog').getByText(/查看已执行的检索/);
+  await expect(log).toBeVisible();await log.click();
+  await expect(page.getByRole('dialog').getByText('Rensselaer "ARCH 2530" syllabus grading exams',{exact:true})).toBeVisible();
+  await expect(page.getByRole('dialog').getByText(/未从查询本身推断考试形式/)).toBeVisible();
 });

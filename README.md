@@ -20,27 +20,37 @@ bun run dev
 | 本学期开课的唯一课号 | 1,009 |
 | 班次 | 2,994 |
 | 学科 | 45 |
-| 附可归属依据的课程 | 24 |
-| 证据记录（一个来源可关联交叉课号） | 22 |
-| 候选线索课程（含历史项目制、线上及 take-home） | 18 |
+| 附可归属资料的课程 | 185 |
+| 证据 / 观察记录 | 190 |
+| 候选线索（含历史项目制及仅期末线索） | 95 |
+| 人工检索后仍未确认 | 35 |
+| 仅完成初步公开搜索，待深入核实 | 789 |
 | 本学期考试政策已确认 | **0** |
-| 考试形式未知 | 985 |
-| 已检索但拒绝关联的线索 | 9 |
+| 无资料或仅有 TBA 历史排期，形式未明 | 897 |
+| 拒绝关联的代表性线索 | 13 |
 
-**已完成全量课程导入，但没有完成 1,009 门课程的逐门穷尽检索。** 24 门附有依据不等于 24 门免考。公开检索涵盖 RPI 教师主页、课程大纲、课程网站、RCOS 手册和 r/RPI 学生讨论。Spring 2027 尚未开始，当前没有找到能确认该学期考试政策的公开大纲。没有证据的课程保持未知。
+**资料覆盖从 24 门扩大到 185 门，涵盖 29 个学科。全体课程均有来源资料或查询记录，但没有完成全体课程的深度调查，更没有穷尽互联网。** 185 门附有资料也不等于 185 门免考，其中 73 门仅找到历史期末排期，仍无法确定考试形式。网页将人工核查、初步搜索和资料归属分开呈现。
 
-本学期官方 [CSCI 专题说明](https://www.cs.rpi.edu/~goldsd/docs/s27-topics-courses.txt)明确提到 CSCI-4968 / 6968 的评分主要由作业和小组研究项目组成；这是本学期项目制线索，原文没有承诺免考。
+本轮补查了剩余 792 门的逐课查询式。查询按课号与课名生成后批量提交，返回链接来自联合结果集，尚未逐项验证；789 门仍停留在这一阶段。查询本身不会形成免考结论。行政注册、研究与论文班次也保留在完整目录中，不因名称推断免考。
 
-代表性线索包括 Platts 的 Chemistry of the Environment 学生回忆、Greene 的经济学课程线上考核线索、Program Analysis 的历史 take-home 期末信息，以及 RCOS 的完整项目评分表。每条记录均附原文短摘、来源 URL、学期、教师、核查日期和限制条件。证据不足的推断会明确标注。
+新增资料主要来自以下来源：
 
-不能把 Online 上课地点、网上交卷、未排期末考试、项目课名称或搜索不到考试条款当成线上考试 / 免考证明。Take-home、无期末、项目制、完全无考试也分别分类。Network Programming 保留了 2021 学生“无考试”与 2025 正式大纲“20% 期中考试”的冲突；旧 Graph Mining 大纲不会套到 2027 同课号的 Deep Learning on Graphs。
+- 教务处公开的 [Fall 2026 期末考试 / 项目表](https://registrar.rpi.edu/services/class-scheduling/final-exam-schedule)：按历史 CRN 和课名核对，可关联 108 门当前课程。REMOTE 只表示历史期末远程，FINAL PROJECT / PAPER 只表示期末项目 / 论文，TBA 不证明考试形式。排除课号复用及单导师研究班次。
+- [建筑学院 2025 APR](https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf)：读取 761 页报告中的历史大纲，为 21 门当前课程补充完整评分或明确考试条款，并记录 PDF 页码。数字建构、设计工作室与作品集的项目线索，以及 Structures / Professional Practice 的考试反例分别保留。
+- [RPI at Work](https://rpiatwork.rpi.edu/single-course)：30 门课程通过项目清单、逐课预览 PDF 和 RPIStudio 通用无 tests / quizzes 政策交叉对应。**仅匹配 H 班，在职项目有准入要求；不适用于同课号校内班，也不是 Spring 2027 逐门政策确认。** 校内班筛选会剔除 H 班证据并重新计算结论。
+- Rate My Professors：仅使用明确考核描述，核对学校、教师、课号和评论日期。新增 MGMT 2430 的 Jain take-home、MGMT 4100 的 Hekimoglu 两次 take-home、CHME 4010 的 Baysal 线上 tests，以及 PHYS 1150 的“只有期末线上、另有两次线下考试”等经验；不以评分高低证明免考。
+- [Data Analytics Fall 2026](https://tw.rpi.edu/classes/data-analytics-fall-2026) 与同年春季页：6 个交叉课号的完整作业 / 项目评分及无期末说明；[ITWS 4500](https://web.biggermatrix.com/syllabus.html) 项目制但 quizzes 占 30%；CSCI 4440 的 Sturman 历史 take-home 回复；MATH 4840 的 Holmes 大纲明确无期末、其他考试仍占 75%。
+
+本学期官方 [CSCI 专题说明](https://www.cs.rpi.edu/~goldsd/docs/s27-topics-courses.txt)也提到 CSCI-4968 / 6968 的作业和研究项目评分；原文未保证免考。Spring 2027 尚未开始，历史和未注明学期的政策均不能升格为本学期保证。
+
+不能把 Online 上课地点、网上交卷、未排考试、项目课名或搜索不到条款当成线上考试 / 免考证明。Network Programming 保留学生经验与正式期中考试大纲的冲突；旧 Graph Mining 不套用到同课号的 Deep Learning on Graphs。
 
 ## 网页功能
 
-- 全部课程、候选线索、来源库、浏览器本地收藏；支持课号 / 标题 / 教师组合搜索。
-- 按考核形式、学科、本科 / 研究生、来源类型筛选；可排除已知有测验的记录。
+- 全部课程、候选线索、来源库、逐学科检索覆盖、浏览器本地收藏；支持课号 / 标题 / 教师组合搜索。
+- 按考核形式、学科、本科 / 研究生、来源类型、在职 H 班 / 校内班范围筛选；可排除已知有测验的记录。
 - 证据抽屉展示原文摘录、历史教师、适用班次、CRN、上课时间和名额快照。
-- CSV 导出当前筛选结果及来源，完整 JSON 下载；URL 保留筛选与课程详情，便于分享。
+- CSV 导出当前筛选结果、来源定位和证据适用 CRN，完整 JSON 与查询记录下载；URL 保留筛选与课程详情，便于分享。
 - 移动端布局、键盘操作及自托管开源中英文字体，无字体服务请求。
 
 ## 数据与维护
@@ -63,9 +73,9 @@ bunx playwright install chromium
 bun run test:browser
 ```
 
-`data/raw/` 保留完整上游课程、目录、院系、MIT 许可及 SHA-256 清单。`data/evidence.json` 是人工审核的证据源；`data/excluded.json` 保留拒绝匹配的线索；`data/research-log.json` 记录代表性检索式及研究边界；`data/source-checks.json` 保存所有证据 URL 的 HTTP 可访问性。`public/data/` 由构建脚本生成。修改证据后必须重建派生数据。
+`data/raw/` 保留完整上游课程、目录、院系、MIT 许可及 SHA-256 清单。`data/evidence.json` 是人工审核的证据源；`data/excluded.json` 保留拒绝匹配的线索；`data/research-log.json` 保留首轮代表性检索；`data/research/searches.json` 保存人工定向查询与排除说明，`initial-searches.json` 保存 792 门实际执行的初步查询；同目录下保存期末表、在职项目及建筑大纲的来源哈希和匹配事实；`data/source-checks.json` 保存所有证据 URL 的 HTTP 可访问性。`public/data/` 由构建脚本生成。修改证据后必须重建派生数据。
 
-新增证据需要给出实际读取的来源、原文短摘、适用学期、教师及标题匹配规则。`matchInstructor` 可以限定同课号内的班次。`scope: current` 仅允许确认为 Spring 2027 的政策；历史记录不能升格为当前保证。学分、名额和时间均为快照，选课前需回 QUACS / SIS 核对。
+新增证据需要给出实际读取的来源、短摘或精确来源定位、适用学期、教师及标题匹配规则。`matchInstructor` 限定教师，`sectionPattern` 限定班次（例如 `^H`）。大型第三方大纲不整体上传，只保存短摘、事实和来源哈希。`scope: current` 仅允许确认为 Spring 2027 的政策；历史记录不能升格为当前保证。学分、名额和时间均为快照，选课前需回 QUACS / SIS 核对。
 
 ## 官方 Skill 与项目 MCP
 

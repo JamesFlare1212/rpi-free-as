@@ -1,0 +1,2967 @@
+{
+  "url": "https://rpi.box.com/s/4kmv0vr9te5o34ydrthksx3wo64ruww0",
+  "landingUrl": "https://registrar.rpi.edu/services/class-scheduling/final-exam-schedule",
+  "fileName": "FALL_2026_FINAL_EXAM_BY_SUBJECT_10_28.pdf",
+  "sha256": "d3e111be3bc6cb5ce28fdd7007ad64c0100ea945e8190bcebac2bb631d10b425",
+  "historicalCourseSnapshot": "https://raw.githubusercontent.com/quacs/quacs-data/a3977a08f9c19acd20023658d0b43d3300b8ca7d/semester_data/202609/courses.json",
+  "checkedAt": "2026-10-28",
+  "observations": [
+    {
+      "courseId": "ARCH-4330",
+      "page": 1,
+      "marker": "REMOTE",
+      "crns": [
+        78262
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Structures 2"
+      ],
+      "instructors": [
+        "Marc Anthony Tatarsky"
+      ]
+    },
+    {
+      "courseId": "ARCH-4590",
+      "page": 1,
+      "marker": "TBA",
+      "crns": [
+        78785
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Entrepreneurship &architecture"
+      ],
+      "instructors": [
+        "Dennis Robert Shelden"
+      ]
+    },
+    {
+      "courseId": "ARCH-5150",
+      "page": 1,
+      "marker": "REMOTE",
+      "crns": [
+        78197
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Structures 2"
+      ],
+      "instructors": [
+        "Marc Anthony Tatarsky"
+      ]
+    },
+    {
+      "courseId": "ARCH-5330",
+      "page": 1,
+      "marker": "TBA",
+      "crns": [
+        80277
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Entrepreneurship &architecture"
+      ],
+      "instructors": [
+        "Dennis Robert Shelden"
+      ]
+    },
+    {
+      "courseId": "BIOL-2120",
+      "page": 1,
+      "marker": "TBA",
+      "crns": [
+        78146
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Intro To Cell & Molec Biology"
+      ],
+      "instructors": [
+        "Eric Matthew Rutledge"
+      ]
+    },
+    {
+      "courseId": "BMED-2050",
+      "page": 2,
+      "marker": "TBA",
+      "crns": [
+        78758
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Programming For Biomed Engr"
+      ],
+      "instructors": [
+        "Uwe Kruger"
+      ]
+    },
+    {
+      "courseId": "BMED-2100",
+      "page": 2,
+      "marker": "TBA",
+      "crns": [
+        78095
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Biomaterials Sci & Engineering"
+      ],
+      "instructors": [
+        "Andres Rene Munoz Rojas"
+      ]
+    },
+    {
+      "courseId": "BMED-2540",
+      "page": 2,
+      "marker": "TBA",
+      "crns": [
+        78067
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Biomechanics"
+      ],
+      "instructors": [
+        "George Jiren Lee"
+      ]
+    },
+    {
+      "courseId": "BMED-4200",
+      "page": 2,
+      "marker": "TBA",
+      "crns": [
+        78140
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Modeling Of Biomedical Systems"
+      ],
+      "instructors": [
+        "Juergen Hahn"
+      ]
+    },
+    {
+      "courseId": "BMED-4250",
+      "page": 2,
+      "marker": "TBA",
+      "crns": [
+        78765
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Biomed Transport Phenomena"
+      ],
+      "instructors": [
+        "Mariah Somer Hahn"
+      ]
+    },
+    {
+      "courseId": "CHEM-1100",
+      "page": 2,
+      "marker": "TBA",
+      "crns": [
+        77402,
+        77448
+      ],
+      "sections": [
+        "10",
+        "11"
+      ],
+      "titles": [
+        "Principles Of Chemistry I"
+      ],
+      "instructors": [
+        "Geetu Sharma, Alexander C. Ma",
+        "Gerald M Korenowski, Alexander C. Ma",
+        "Kathleen Lillian Morrissey, Geetu Sharma",
+        "Kathleen Lillian Morrissey, Michael Edward Van Valkenburg",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "CHEM-1600",
+      "page": 2,
+      "marker": "TBA",
+      "crns": [
+        78332,
+        78331,
+        80156
+      ],
+      "sections": [
+        "01",
+        "02",
+        "03"
+      ],
+      "titles": [
+        "Materials Science"
+      ],
+      "instructors": [
+        "Chaitanya Kishore Ullal, John R. LaGraff",
+        "Jian Shi, John R. LaGraff",
+        "Rahmi Ozisik, John R. LaGraff",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "CHME-4010",
+      "page": 2,
+      "marker": "TBA",
+      "crns": [
+        80909
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Transport Phenomena I"
+      ],
+      "instructors": [
+        "Steven Cramer"
+      ]
+    },
+    {
+      "courseId": "CHME-4020",
+      "page": 2,
+      "marker": "TBA",
+      "crns": [
+        78348
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Transport Phenomena II"
+      ],
+      "instructors": [
+        "Joel Plawsky"
+      ]
+    },
+    {
+      "courseId": "CIVL-4240",
+      "page": 2,
+      "marker": "TBA",
+      "crns": [
+        77049,
+        78971,
+        78615,
+        78616
+      ],
+      "sections": [
+        "01",
+        "02",
+        "03",
+        "04"
+      ],
+      "titles": [
+        "Finite Elements Method"
+      ],
+      "instructors": [
+        "Jacob Simon Merson",
+        "Kartik Josyula",
+        "Mark S Shephard"
+      ]
+    },
+    {
+      "courseId": "COGS-2340",
+      "page": 3,
+      "marker": "TBA",
+      "crns": [
+        80971,
+        80972
+      ],
+      "sections": [
+        "01",
+        "02"
+      ],
+      "titles": [
+        "Introduction To Linguistics"
+      ],
+      "instructors": [
+        "Marjorie McShane"
+      ]
+    },
+    {
+      "courseId": "CSCI-1100",
+      "page": 3,
+      "marker": "TBA",
+      "crns": [
+        79750,
+        79751,
+        79752,
+        79753,
+        79754,
+        79755
+      ],
+      "sections": [
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12"
+      ],
+      "titles": [
+        "Computer Science I"
+      ],
+      "instructors": [
+        "TBA",
+        "Uzma Mushtaque, David Eric Goldschmidt, Shianne M. Hulbert",
+        "Uzma Mushtaque, Shianne M. Hulbert"
+      ]
+    },
+    {
+      "courseId": "CSCI-1200",
+      "page": 3,
+      "marker": "TBA",
+      "crns": [
+        77023,
+        78160,
+        77024,
+        78036,
+        77571,
+        77025
+      ],
+      "sections": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ],
+      "titles": [
+        "Data Structures"
+      ],
+      "instructors": [
+        "Barbara Cutler, Shianne M. Hulbert",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "CSCI-2200",
+      "page": 3,
+      "marker": "TBA",
+      "crns": [
+        78037,
+        78120,
+        78184,
+        78361,
+        78941,
+        78942
+      ],
+      "sections": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ],
+      "titles": [
+        "Foundations Of Computer Sci"
+      ],
+      "instructors": [
+        "Alex Algernon Theodore Gittens",
+        "Clayton Hodges Thomas",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "CSCI-2210",
+      "page": 3,
+      "marker": "TBA",
+      "crns": [
+        79733
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Math Fndtns Of Machine Lrning"
+      ],
+      "instructors": [
+        "Mohammad Mohammadi Amiri"
+      ]
+    },
+    {
+      "courseId": "CSCI-2300",
+      "page": 3,
+      "marker": "TBA",
+      "crns": [
+        77026,
+        77027,
+        77268
+      ],
+      "sections": [
+        "01",
+        "02",
+        "03"
+      ],
+      "titles": [
+        "Introduction To Algorithms"
+      ],
+      "instructors": [
+        "Elliot I. Anshelevich",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "CSCI-2600",
+      "page": 3,
+      "marker": "TBA",
+      "crns": [
+        79734,
+        79735,
+        80672,
+        80673
+      ],
+      "sections": [
+        "01",
+        "02",
+        "03",
+        "04"
+      ],
+      "titles": [
+        "Principles Of Software"
+      ],
+      "instructors": [
+        "Mark Richard Gilder, Shianne M. Hulbert",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "CSCI-4380",
+      "page": 3,
+      "marker": "TBA",
+      "crns": [
+        77283
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Database Systems"
+      ],
+      "instructors": [
+        "Sibel Adali"
+      ]
+    },
+    {
+      "courseId": "CSCI-4480",
+      "page": 3,
+      "marker": "FINAL PROJECT",
+      "crns": [
+        77680
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Manipulator Kinematics & Dynmc"
+      ],
+      "instructors": [
+        "Kimberly Irene Oakes"
+      ]
+    },
+    {
+      "courseId": "CSCI-4800",
+      "page": 3,
+      "marker": "TBA",
+      "crns": [
+        80716
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Numerical Computing"
+      ],
+      "instructors": [
+        "William Douglas Henshaw"
+      ]
+    },
+    {
+      "courseId": "ECON-2010",
+      "page": 3,
+      "marker": "TBA",
+      "crns": [
+        78854
+      ],
+      "sections": [
+        "03"
+      ],
+      "titles": [
+        "Intermediate Microeconomic Theory"
+      ],
+      "instructors": [
+        "Conor Lennon"
+      ]
+    },
+    {
+      "courseId": "ECON-2100",
+      "page": 3,
+      "marker": "FINAL PROJECT",
+      "crns": [
+        78993
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Econ Data Analysis & Applic."
+      ],
+      "instructors": [
+        "Prakrati Thakur"
+      ]
+    },
+    {
+      "courseId": "ECON-4130",
+      "page": 3,
+      "marker": "FINAL PROJECT",
+      "crns": [
+        77330
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Money & Banking"
+      ],
+      "instructors": [
+        "Sarah Marsden Greene"
+      ]
+    },
+    {
+      "courseId": "ECON-4570",
+      "page": 3,
+      "marker": "FINAL PROJECT",
+      "crns": [
+        78033
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Econometrics"
+      ],
+      "instructors": [
+        "Prakrati Thakur"
+      ]
+    },
+    {
+      "courseId": "ECON-4570",
+      "page": 3,
+      "marker": "TBA",
+      "crns": [
+        78354
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Econometrics"
+      ],
+      "instructors": [
+        "Kenneth L. Simons"
+      ]
+    },
+    {
+      "courseId": "ECSE-2010",
+      "page": 4,
+      "marker": "TBA",
+      "crns": [
+        77362
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Electric Circuits"
+      ],
+      "instructors": [
+        "Kimberly Irene Oakes",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "ECSE-2010",
+      "page": 4,
+      "marker": "TBA",
+      "crns": [
+        77097
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Electric Circuits"
+      ],
+      "instructors": [
+        "Kimberly Irene Oakes",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "ECSE-2050",
+      "page": 4,
+      "marker": "TBA",
+      "crns": [
+        77098,
+        78185,
+        79852
+      ],
+      "sections": [
+        "01",
+        "02",
+        "03"
+      ],
+      "titles": [
+        "Introduction To Electronics"
+      ],
+      "instructors": [
+        "Eric Fred Schubert",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "ECSE-2100",
+      "page": 4,
+      "marker": "TBA",
+      "crns": [
+        77414,
+        79853
+      ],
+      "sections": [
+        "01",
+        "02"
+      ],
+      "titles": [
+        "Fields And Waves I"
+      ],
+      "instructors": [
+        "Alex Patterson",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "ECSE-2110",
+      "page": 4,
+      "marker": "TBA",
+      "crns": [
+        78327
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Electrical Energy Systems"
+      ],
+      "instructors": [
+        "Prabhakar Neti"
+      ]
+    },
+    {
+      "courseId": "ECSE-2210",
+      "page": 4,
+      "marker": "TBA",
+      "crns": [
+        78158
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Microelectronics Technology"
+      ],
+      "instructors": [
+        "Boon Siew Ooi",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "ECSE-2500",
+      "page": 4,
+      "marker": "TBA",
+      "crns": [
+        77763
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Engineering Probability"
+      ],
+      "instructors": [
+        "Birsen Yazici"
+      ]
+    },
+    {
+      "courseId": "ECSE-2610",
+      "page": 4,
+      "marker": "TBA",
+      "crns": [
+        77100,
+        77110
+      ],
+      "sections": [
+        "01",
+        "02"
+      ],
+      "titles": [
+        "Cptr Components & Oper"
+      ],
+      "instructors": [
+        "Liu Liu",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "ECSE-2660",
+      "page": 4,
+      "marker": "TBA",
+      "crns": [
+        78328
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Comp Architecture & Networks"
+      ],
+      "instructors": [
+        "Kanad Basu"
+      ]
+    },
+    {
+      "courseId": "ECSE-4220",
+      "page": 4,
+      "marker": "TBA",
+      "crns": [
+        77101
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Vlsi Design"
+      ],
+      "instructors": [
+        "Salih Muhsin Celik"
+      ]
+    },
+    {
+      "courseId": "ECSE-4480",
+      "page": 4,
+      "marker": "FINAL PROJECT",
+      "crns": [
+        77683
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Manipulator Kinematics & Dynmc"
+      ],
+      "instructors": [
+        "Kimberly Irene Oakes"
+      ]
+    },
+    {
+      "courseId": "ECSE-4900",
+      "page": 4,
+      "marker": "TBA",
+      "crns": [
+        77363
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Multidisciplinary Capstone Design"
+      ],
+      "instructors": [
+        "Valerie J. Masterson, Junichi Kanai"
+      ]
+    },
+    {
+      "courseId": "ECSE-4900",
+      "page": 4,
+      "marker": "TBA",
+      "crns": [
+        77364
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Multidisciplinary Capstone Design"
+      ],
+      "instructors": [
+        "Valerie J. Masterson, Junichi Kanai"
+      ]
+    },
+    {
+      "courseId": "ECSE-4900",
+      "page": 4,
+      "marker": "TBA",
+      "crns": [
+        77405
+      ],
+      "sections": [
+        "03"
+      ],
+      "titles": [
+        "Multidisciplinary Capstone Design"
+      ],
+      "instructors": [
+        "Valerie J. Masterson, Junichi Kanai"
+      ]
+    },
+    {
+      "courseId": "ECSE-4900",
+      "page": 4,
+      "marker": "TBA",
+      "crns": [
+        77639
+      ],
+      "sections": [
+        "04"
+      ],
+      "titles": [
+        "Multidisciplinary Capstone Design"
+      ],
+      "instructors": [
+        "Valerie J. Masterson, Junichi Kanai, Wenwen Zhao"
+      ]
+    },
+    {
+      "courseId": "ECSE-6470",
+      "page": 4,
+      "marker": "FINAL PROJECT",
+      "crns": [
+        78250
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Manipulator Kinematics & Dynmc"
+      ],
+      "instructors": [
+        "Kimberly Irene Oakes"
+      ]
+    },
+    {
+      "courseId": "ENGR-1100",
+      "page": 5,
+      "marker": "TBA",
+      "crns": [
+        78939,
+        78940
+      ],
+      "sections": [
+        "01",
+        "02"
+      ],
+      "titles": [
+        "Intro To Engr Analysis"
+      ],
+      "instructors": [
+        "Mourad Zeghal",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "ENGR-1600",
+      "page": 5,
+      "marker": "TBA",
+      "crns": [
+        77632,
+        77329,
+        80155
+      ],
+      "sections": [
+        "01",
+        "02",
+        "03"
+      ],
+      "titles": [
+        "Materials Science",
+        "Materials Science For Engineer"
+      ],
+      "instructors": [
+        "Chaitanya Kishore Ullal, John R. LaGraff",
+        "Jian Shi, John R. LaGraff",
+        "Rahmi Ozisik, John R. LaGraff",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "ENGR-2050",
+      "page": 5,
+      "marker": "TBA",
+      "crns": [
+        78094,
+        78937,
+        78938,
+        80643,
+        80644
+      ],
+      "sections": [
+        "08",
+        "09",
+        "10",
+        "11",
+        "12"
+      ],
+      "titles": [
+        "Intro Engineering Design",
+        "Intro Engr Design"
+      ],
+      "instructors": [
+        "Deanna Marie Thompson, Daniel Chapman Lander, Amy Corron Youmans",
+        "Deanna Marie Thompson, Daniel Chapman Lander, Tracy N. Sullivan",
+        "Omar Osama El-Shafee, Daniel Chapman Lander, Judith A. Obiero",
+        "Omar Osama El-Shafee, Susan Victoria Henry, Daniel Chapman Lander",
+        "Rostyslav Korolov, Daniel Chapman Lander, Judith A. Obiero"
+      ]
+    },
+    {
+      "courseId": "ENGR-2090",
+      "page": 5,
+      "marker": "TBA",
+      "crns": [
+        77015
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Engineering Dynamics"
+      ],
+      "instructors": [
+        "John A Tichy"
+      ]
+    },
+    {
+      "courseId": "ENGR-2090",
+      "page": 5,
+      "marker": "TBA",
+      "crns": [
+        77629
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Engineering Dynamics"
+      ],
+      "instructors": [
+        "Sandeep Singh"
+      ]
+    },
+    {
+      "courseId": "ENGR-2090",
+      "page": 5,
+      "marker": "TBA",
+      "crns": [
+        78286
+      ],
+      "sections": [
+        "03"
+      ],
+      "titles": [
+        "Engineering Dynamics"
+      ],
+      "instructors": [
+        "Sangwoo Lee"
+      ]
+    },
+    {
+      "courseId": "ENGR-2300",
+      "page": 5,
+      "marker": "TBA",
+      "crns": [
+        78042,
+        78043
+      ],
+      "sections": [
+        "01",
+        "02"
+      ],
+      "titles": [
+        "Electronic Instrumentation"
+      ],
+      "instructors": [
+        "Md Sarwar Uddin Chowdhury",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "ENGR-2530",
+      "page": 5,
+      "marker": "TBA",
+      "crns": [
+        77018
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Strength Of Materials"
+      ],
+      "instructors": [
+        "TBA",
+        "Tathagata Bhaduri"
+      ]
+    },
+    {
+      "courseId": "ENGR-2600",
+      "page": 5,
+      "marker": "TBA",
+      "crns": [
+        77021,
+        78857,
+        77637,
+        77022,
+        78040
+      ],
+      "sections": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ],
+      "titles": [
+        "Mod & Analysis Uncertainty",
+        "Modeling & Analysis Uncertaint"
+      ],
+      "instructors": [
+        "FNU Rahul, Xun Wang",
+        "Nihat Baysal, Xun Wang",
+        "Paul George Keblinski, Xun Wang",
+        "TBA",
+        "Uwe Kruger, Xun Wang",
+        "Xun Wang"
+      ]
+    },
+    {
+      "courseId": "ENGR-4010",
+      "page": 5,
+      "marker": "FINAL PROJECT",
+      "crns": [
+        77747,
+        77748,
+        77818,
+        78246
+      ],
+      "sections": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ],
+      "titles": [
+        "Pd: Leadership Competencies"
+      ],
+      "instructors": [
+        "Amy Corron Youmans",
+        "Jordan L Vener",
+        "Judith A. Obiero",
+        "Trisha Suzann Teig"
+      ]
+    },
+    {
+      "courseId": "ENGR-6230",
+      "page": 5,
+      "marker": "FINAL PROJECT",
+      "crns": [
+        80820
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Lean Six Sigma I"
+      ],
+      "instructors": [
+        "Asish Ghosh"
+      ]
+    },
+    {
+      "courseId": "GSAS-4990",
+      "page": 5,
+      "marker": "FINAL PROJECT",
+      "crns": [
+        78751
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Gsas Capstone"
+      ],
+      "instructors": [
+        "James Wilson Malazita"
+      ]
+    },
+    {
+      "courseId": "INQR-1200",
+      "page": 5,
+      "marker": "FINAL PROJECT",
+      "crns": [
+        79015
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Principles Of Economics"
+      ],
+      "instructors": [
+        "Sarah Marsden Greene"
+      ]
+    },
+    {
+      "courseId": "INQR-1200",
+      "page": 5,
+      "marker": "FINAL PROJECT",
+      "crns": [
+        79016
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Principles Of Economics"
+      ],
+      "instructors": [
+        "Sarah Marsden Greene"
+      ]
+    },
+    {
+      "courseId": "INQR-1200",
+      "page": 5,
+      "marker": "TBA",
+      "crns": [
+        80557
+      ],
+      "sections": [
+        "03"
+      ],
+      "titles": [
+        "Principles Of Economics"
+      ],
+      "instructors": [
+        "Billur Aksoy"
+      ]
+    },
+    {
+      "courseId": "ISCI-1600",
+      "page": 5,
+      "marker": "TBA",
+      "crns": [
+        78336,
+        78335,
+        80158
+      ],
+      "sections": [
+        "01",
+        "02",
+        "03"
+      ],
+      "titles": [
+        "Materials Science"
+      ],
+      "instructors": [
+        "Chaitanya Kishore Ullal, John R. LaGraff",
+        "Jian Shi, John R. LaGraff",
+        "Rahmi Ozisik, John R. LaGraff",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "ISYE-4270",
+      "page": 6,
+      "marker": "TBA",
+      "crns": [
+        77631
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Mulitdisciplinary Capstone Design"
+      ],
+      "instructors": [
+        "Valerie J. Masterson, Junichi Kanai"
+      ]
+    },
+    {
+      "courseId": "ISYE-4270",
+      "page": 6,
+      "marker": "TBA",
+      "crns": [
+        77642
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Mulitdisciplinary Capstone Design"
+      ],
+      "instructors": [
+        "Valerie J. Masterson, Junichi Kanai"
+      ]
+    },
+    {
+      "courseId": "ISYE-4270",
+      "page": 6,
+      "marker": "TBA",
+      "crns": [
+        77756
+      ],
+      "sections": [
+        "03"
+      ],
+      "titles": [
+        "Mulitdisciplinary Capstone Design"
+      ],
+      "instructors": [
+        "Valerie J. Masterson, Esra Agca Aktunc"
+      ]
+    },
+    {
+      "courseId": "ISYE-4270",
+      "page": 6,
+      "marker": "TBA",
+      "crns": [
+        77757
+      ],
+      "sections": [
+        "04"
+      ],
+      "titles": [
+        "Mulitdisciplinary Capstone Design"
+      ],
+      "instructors": [
+        "Valerie J. Masterson, Junichi Kanai"
+      ]
+    },
+    {
+      "courseId": "ISYE-6600",
+      "page": 6,
+      "marker": "TBA",
+      "crns": [
+        78113
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Design Of Manufacturing Systems And Supply Chains"
+      ],
+      "instructors": [
+        "Jennifer Ann Pazour"
+      ]
+    },
+    {
+      "courseId": "ISYE-6610",
+      "page": 6,
+      "marker": "TBA",
+      "crns": [
+        77633
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Systems Modeling In Dses"
+      ],
+      "instructors": [
+        "James Bailey"
+      ]
+    },
+    {
+      "courseId": "MANE-2010",
+      "page": 6,
+      "marker": "TBA",
+      "crns": [
+        80802,
+        80803,
+        80804,
+        80805,
+        80806,
+        80807
+      ],
+      "sections": [
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12"
+      ],
+      "titles": [
+        "Solid Mechanics"
+      ],
+      "instructors": [
+        "Ali Shahsavari",
+        "Syed Nabeel Amjad",
+        "Syed Nabeel Amjad, Ali Shahsavari"
+      ]
+    },
+    {
+      "courseId": "MANE-2110",
+      "page": 6,
+      "marker": "FINAL PROJECT",
+      "crns": [
+        78520,
+        78522,
+        78613,
+        79263
+      ],
+      "sections": [
+        "01",
+        "02",
+        "03",
+        "04"
+      ],
+      "titles": [
+        "Numerical Methods And Programming For Engineers"
+      ],
+      "instructors": [
+        "Joseph Mario Prisaznuk",
+        "Syed Nabeel Amjad",
+        "Thomas Clark Haley"
+      ]
+    },
+    {
+      "courseId": "MANE-2220",
+      "page": 6,
+      "marker": "REMOTE",
+      "crns": [
+        78342,
+        79696
+      ],
+      "sections": [
+        "01",
+        "02"
+      ],
+      "titles": [
+        "Inventor's Studio 1"
+      ],
+      "instructors": [
+        "Casey Jay Hoffman, Jordan L Vener",
+        "Casey Jay Hoffman, Trisha Suzann Teig"
+      ]
+    },
+    {
+      "courseId": "MANE-2710",
+      "page": 6,
+      "marker": "TBA",
+      "crns": [
+        78521,
+        80212,
+        80727
+      ],
+      "sections": [
+        "01",
+        "02",
+        "03"
+      ],
+      "titles": [
+        "Thermodynamics"
+      ],
+      "instructors": [
+        "Fudong Han",
+        "Lucy T. Zhang",
+        "Theodorian Borca-Tasciuc"
+      ]
+    },
+    {
+      "courseId": "MANE-2720",
+      "page": 6,
+      "marker": "TBA",
+      "crns": [
+        78523
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Fluid Mechanics"
+      ],
+      "instructors": [
+        "Ozgur Tumuklu"
+      ]
+    },
+    {
+      "courseId": "MANE-4030",
+      "page": 6,
+      "marker": "TBA",
+      "crns": [
+        77301,
+        78784
+      ],
+      "sections": [
+        "01",
+        "02"
+      ],
+      "titles": [
+        "Elements Of Mech Design"
+      ],
+      "instructors": [
+        "Antoinette Maniatty, M Arshad Zahangir Chowdhury",
+        "M Arshad Zahangir Chowdhury, Antoinette Maniatty"
+      ]
+    },
+    {
+      "courseId": "MANE-4040",
+      "page": 6,
+      "marker": "TBA",
+      "crns": [
+        77445,
+        77446,
+        77447,
+        77444,
+        77920,
+        78038
+      ],
+      "sections": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ],
+      "titles": [
+        "Mechanical Systems Lab"
+      ],
+      "instructors": [
+        "Kristen Lynn Mills",
+        "Luiz Victor Repolho Cagliari",
+        "Thierry Blanchet"
+      ]
+    },
+    {
+      "courseId": "MANE-4070",
+      "page": 6,
+      "marker": "TBA",
+      "crns": [
+        78323
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Aerodynamics"
+      ],
+      "instructors": [
+        "Shaowu Pan"
+      ]
+    },
+    {
+      "courseId": "MANE-4080",
+      "page": 6,
+      "marker": "TBA",
+      "crns": [
+        78329
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Propulsion Systems"
+      ],
+      "instructors": [
+        "Amir Hirsa"
+      ]
+    },
+    {
+      "courseId": "MANE-4140",
+      "page": 6,
+      "marker": "TBA",
+      "crns": [
+        80808
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Introduction To Computational Fluid Dynamics"
+      ],
+      "instructors": [
+        "Tara Gallaway Cohen"
+      ]
+    },
+    {
+      "courseId": "MANE-4220",
+      "page": 6,
+      "marker": "TBA",
+      "crns": [
+        77367
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Inventors Studio 2"
+      ],
+      "instructors": [
+        "Asish Ghosh, Susan Victoria Henry"
+      ]
+    },
+    {
+      "courseId": "MANE-4220",
+      "page": 6,
+      "marker": "TBA",
+      "crns": [
+        78614
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Inventors Studio 2"
+      ],
+      "instructors": [
+        "Clinton T. Ballinger, Trisha Suzann Teig"
+      ]
+    },
+    {
+      "courseId": "MANE-4220",
+      "page": 6,
+      "marker": "TBA",
+      "crns": [
+        80915
+      ],
+      "sections": [
+        "03"
+      ],
+      "titles": [
+        "Inventor's Studio 2"
+      ],
+      "instructors": [
+        "Clinton T. Ballinger, Susan Victoria Henry"
+      ]
+    },
+    {
+      "courseId": "MANE-4240",
+      "page": 6,
+      "marker": "TBA",
+      "crns": [
+        77303,
+        78970,
+        78524,
+        78525
+      ],
+      "sections": [
+        "01",
+        "02",
+        "03",
+        "04"
+      ],
+      "titles": [
+        "Finite Elements Method"
+      ],
+      "instructors": [
+        "Jacob Simon Merson",
+        "Kartik Josyula",
+        "Mark S Shephard"
+      ]
+    },
+    {
+      "courseId": "MANE-4250",
+      "page": 6,
+      "marker": "TBA",
+      "crns": [
+        78656
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Space Vehicle Design"
+      ],
+      "instructors": [
+        "Kathleen M. Stockton, Leonid Pogorelyuk"
+      ]
+    },
+    {
+      "courseId": "MANE-4250",
+      "page": 7,
+      "marker": "FINAL PROJECT",
+      "crns": [
+        78655
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Space Vehicle Design"
+      ],
+      "instructors": [
+        "Kathleen M. Stockton, Tyler Joseph Mucci"
+      ]
+    },
+    {
+      "courseId": "MANE-4260",
+      "page": 7,
+      "marker": "TBA",
+      "crns": [
+        77304
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Mulitdisciplinary Capstone Design"
+      ],
+      "instructors": [
+        "Valerie J. Masterson, Asish Ghosh, Junichi Kanai"
+      ]
+    },
+    {
+      "courseId": "MANE-4260",
+      "page": 7,
+      "marker": "TBA",
+      "crns": [
+        77305
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Mulitdisciplinary Capstone Design"
+      ],
+      "instructors": [
+        "Valerie J. Masterson, Sarah Helen Felix, Junichi Kanai"
+      ]
+    },
+    {
+      "courseId": "MANE-4260",
+      "page": 7,
+      "marker": "TBA",
+      "crns": [
+        77413
+      ],
+      "sections": [
+        "03"
+      ],
+      "titles": [
+        "Mulitdisciplinary Capstone Design"
+      ],
+      "instructors": [
+        "Valerie J. Masterson, Casey Jay Hoffman, Junichi Kanai"
+      ]
+    },
+    {
+      "courseId": "MANE-4260",
+      "page": 7,
+      "marker": "TBA",
+      "crns": [
+        77634
+      ],
+      "sections": [
+        "04"
+      ],
+      "titles": [
+        "Mulitdisciplinary Capstone Design"
+      ],
+      "instructors": [
+        "Valerie J. Masterson, Junichi Kanai, Daniel Walczyk"
+      ]
+    },
+    {
+      "courseId": "MANE-4560",
+      "page": 7,
+      "marker": "FINAL PROJECT",
+      "crns": [
+        78600
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Manipulator Kinematics & Dynmc"
+      ],
+      "instructors": [
+        "Kimberly Irene Oakes"
+      ]
+    },
+    {
+      "courseId": "MANE-4730",
+      "page": 7,
+      "marker": "TBA",
+      "crns": [
+        78539,
+        78623,
+        79702,
+        80810
+      ],
+      "sections": [
+        "01",
+        "02",
+        "03",
+        "04"
+      ],
+      "titles": [
+        "Heat Transfer"
+      ],
+      "instructors": [
+        "Diana Andra Borca Tasciuc",
+        "Samir A. Salamah"
+      ]
+    },
+    {
+      "courseId": "MANE-4910",
+      "page": 7,
+      "marker": "TBA",
+      "crns": [
+        77307,
+        77408,
+        77409,
+        77410,
+        78454,
+        78455
+      ],
+      "sections": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ],
+      "titles": [
+        "Fluid Dynamics Lab"
+      ],
+      "instructors": [
+        "Jacob M Neal",
+        "M Arshad Zahangir Chowdhury"
+      ]
+    },
+    {
+      "courseId": "MANE-4920",
+      "page": 7,
+      "marker": "TBA",
+      "crns": [
+        78325
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Aerospace Structures And Control Laboratory"
+      ],
+      "instructors": [
+        "Nikhil Koratkar"
+      ]
+    },
+    {
+      "courseId": "MANE-4920",
+      "page": 7,
+      "marker": "TBA",
+      "crns": [
+        78531
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Aerospace Structures And Control Laboratory"
+      ],
+      "instructors": [
+        "Nikhil Koratkar"
+      ]
+    },
+    {
+      "courseId": "MANE-6120",
+      "page": 7,
+      "marker": "FINAL PROJECT",
+      "crns": [
+        78091
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Manipulator Kinematics & Dynmc"
+      ],
+      "instructors": [
+        "Kimberly Irene Oakes"
+      ]
+    },
+    {
+      "courseId": "MANE-6140",
+      "page": 7,
+      "marker": "TBA",
+      "crns": [
+        80809
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Intro Computat Fluid Dynamics"
+      ],
+      "instructors": [
+        "Tara Gallaway Cohen"
+      ]
+    },
+    {
+      "courseId": "MATH-1010",
+      "page": 7,
+      "marker": "TBA",
+      "crns": [
+        78022,
+        78023,
+        78024,
+        78025
+      ],
+      "sections": [
+        "01",
+        "02",
+        "03",
+        "04"
+      ],
+      "titles": [
+        "Calculus I"
+      ],
+      "instructors": [
+        "Eliane Zerbetto Traldi",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "MATH-1010",
+      "page": 7,
+      "marker": "TBA",
+      "crns": [
+        77229,
+        77230,
+        77231,
+        77232
+      ],
+      "sections": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "titles": [
+        "Calculus I"
+      ],
+      "instructors": [
+        "Gina Irene Kucinski",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "MATH-1010",
+      "page": 7,
+      "marker": "TBA",
+      "crns": [
+        79615,
+        79616,
+        79617,
+        79618
+      ],
+      "sections": [
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "titles": [
+        "Calculus I"
+      ],
+      "instructors": [
+        "Daniel Franklin Stevenson",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "MATH-1010",
+      "page": 7,
+      "marker": "TBA",
+      "crns": [
+        77451,
+        77334,
+        77335,
+        77336
+      ],
+      "sections": [
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "titles": [
+        "Calculus I"
+      ],
+      "instructors": [
+        "Gina Irene Kucinski",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "MATH-1020",
+      "page": 8,
+      "marker": "TBA",
+      "crns": [
+        77068,
+        77069
+      ],
+      "sections": [
+        "07",
+        "08"
+      ],
+      "titles": [
+        "Calculus II"
+      ],
+      "instructors": [
+        "Margaret Z. Kiehl",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "MATH-2010",
+      "page": 8,
+      "marker": "TBA",
+      "crns": [
+        77072,
+        77073,
+        77074,
+        77075
+      ],
+      "sections": [
+        "01",
+        "02",
+        "03",
+        "04"
+      ],
+      "titles": [
+        "Multivar Calc & Matrix Algebra"
+      ],
+      "instructors": [
+        "Daniel Franklin Stevenson",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "MATH-4090",
+      "page": 8,
+      "marker": "TBA",
+      "crns": [
+        77528
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Foundations Of Analysis"
+      ],
+      "instructors": [
+        "Margaret Z. Kiehl"
+      ]
+    },
+    {
+      "courseId": "MATH-4600",
+      "page": 8,
+      "marker": "TBA",
+      "crns": [
+        80630
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Advanced Calculus"
+      ],
+      "instructors": [
+        "Gregor Kovacic"
+      ]
+    },
+    {
+      "courseId": "MATH-4800",
+      "page": 8,
+      "marker": "TBA",
+      "crns": [
+        80631
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Numerical Computing"
+      ],
+      "instructors": [
+        "William Douglas Henshaw"
+      ]
+    },
+    {
+      "courseId": "MGMT-1100",
+      "page": 8,
+      "marker": "FINAL PAPER",
+      "crns": [
+        78018
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Management In The Digital Age"
+      ],
+      "instructors": [
+        "Murali Dharan Raman Chari"
+      ]
+    },
+    {
+      "courseId": "MGMT-2100",
+      "page": 8,
+      "marker": "TBA",
+      "crns": [
+        77224
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Statistical Methods"
+      ],
+      "instructors": [
+        "Kedong Chen"
+      ]
+    },
+    {
+      "courseId": "MGMT-2100",
+      "page": 8,
+      "marker": "TBA",
+      "crns": [
+        78272
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Statistical Methods"
+      ],
+      "instructors": [
+        "Kedong Chen"
+      ]
+    },
+    {
+      "courseId": "MGMT-2100",
+      "page": 8,
+      "marker": "TBA",
+      "crns": [
+        80963
+      ],
+      "sections": [
+        "03"
+      ],
+      "titles": [
+        "Statistical Methods"
+      ],
+      "instructors": [
+        "Kedong Chen"
+      ]
+    },
+    {
+      "courseId": "MGMT-2300",
+      "page": 8,
+      "marker": "TBA",
+      "crns": [
+        77037,
+        79156,
+        81002
+      ],
+      "sections": [
+        "01",
+        "02",
+        "03"
+      ],
+      "titles": [
+        "Financial Acctg In Digital Age"
+      ],
+      "instructors": [
+        "Tahseen Hasan"
+      ]
+    },
+    {
+      "courseId": "MGMT-2320",
+      "page": 8,
+      "marker": "REMOTE",
+      "crns": [
+        78601
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Managerial Finance"
+      ],
+      "instructors": [
+        "Aparna Gupta"
+      ]
+    },
+    {
+      "courseId": "MGMT-2430",
+      "page": 8,
+      "marker": "FINAL PROJECT",
+      "crns": [
+        78104,
+        78103
+      ],
+      "sections": [
+        "01",
+        "02"
+      ],
+      "titles": [
+        "Marketing Principles"
+      ],
+      "instructors": [
+        "Arpit Agrawal"
+      ]
+    },
+    {
+      "courseId": "MGMT-2510",
+      "page": 8,
+      "marker": "TBA",
+      "crns": [
+        77630
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Intro To Data Mgmt & Analytics"
+      ],
+      "instructors": [
+        "Thilanka Munasinghe"
+      ]
+    },
+    {
+      "courseId": "MGMT-2510",
+      "page": 8,
+      "marker": "TBA",
+      "crns": [
+        77520
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Intro To Data Mgmt & Analytics"
+      ],
+      "instructors": [
+        "Thilanka Munasinghe"
+      ]
+    },
+    {
+      "courseId": "MGMT-4140",
+      "page": 8,
+      "marker": "REMOTE",
+      "crns": [
+        77252
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Computer Info Systems"
+      ],
+      "instructors": [
+        "Nishtha Langer"
+      ]
+    },
+    {
+      "courseId": "MGMT-4170",
+      "page": 8,
+      "marker": "REMOTE",
+      "crns": [
+        78181
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Data Resource Management"
+      ],
+      "instructors": [
+        "Jonathan Alexis McKinney"
+      ]
+    },
+    {
+      "courseId": "MGMT-4170",
+      "page": 8,
+      "marker": "REMOTE",
+      "crns": [
+        78696
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Data Resource Management"
+      ],
+      "instructors": [
+        "Jonathan Alexis McKinney"
+      ]
+    },
+    {
+      "courseId": "MGMT-4190",
+      "page": 8,
+      "marker": "TBA",
+      "crns": [
+        78695
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Intro To Machine Learning Apps"
+      ],
+      "instructors": [
+        "Lydia Manikonda"
+      ]
+    },
+    {
+      "courseId": "MGMT-4190",
+      "page": 8,
+      "marker": "TBA",
+      "crns": [
+        78690
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Intro To Machine Learning Apps"
+      ],
+      "instructors": [
+        "Lydia Manikonda"
+      ]
+    },
+    {
+      "courseId": "MGMT-4600",
+      "page": 8,
+      "marker": "TBA",
+      "crns": [
+        78953
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Data Analytics"
+      ],
+      "instructors": [
+        "Ahmed Mohamed Morad Mohamed Maher Eleish"
+      ]
+    },
+    {
+      "courseId": "MGMT-4600",
+      "page": 9,
+      "marker": "TBA",
+      "crns": [
+        78963
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Data Analytics"
+      ],
+      "instructors": [
+        "Ahmed Mohamed Morad Mohamed Maher Eleish"
+      ]
+    },
+    {
+      "courseId": "MGMT-4850",
+      "page": 9,
+      "marker": "TBA",
+      "crns": [
+        77039
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Org Behavior In High Perf Org"
+      ],
+      "instructors": [
+        "Sam Dylan Strizver"
+      ]
+    },
+    {
+      "courseId": "MGMT-4860",
+      "page": 9,
+      "marker": "TBA",
+      "crns": [
+        77040
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Human Resources In High Performance Organizations"
+      ],
+      "instructors": [
+        "Timothy D. Golden"
+      ]
+    },
+    {
+      "courseId": "MGMT-4860",
+      "page": 9,
+      "marker": "TBA",
+      "crns": [
+        77041
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Human Resources In High Performance Organizations"
+      ],
+      "instructors": [
+        "Timothy D. Golden"
+      ]
+    },
+    {
+      "courseId": "MGMT-4870",
+      "page": 9,
+      "marker": "FINAL PAPER",
+      "crns": [
+        78053
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Strategy And Policy"
+      ],
+      "instructors": [
+        "Murali Dharan Raman Chari"
+      ]
+    },
+    {
+      "courseId": "MGMT-4870",
+      "page": 9,
+      "marker": "TBA",
+      "crns": [
+        77042
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Strategy And Policy"
+      ],
+      "instructors": [
+        "M.V. Shyam Kumar"
+      ]
+    },
+    {
+      "courseId": "MGMT-6140",
+      "page": 9,
+      "marker": "TBA",
+      "crns": [
+        78732
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Manage Digitization & Transfrm"
+      ],
+      "instructors": [
+        "Thiagarajan Ravichandran"
+      ]
+    },
+    {
+      "courseId": "MGMT-6560",
+      "page": 9,
+      "marker": "TBA",
+      "crns": [
+        78562
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Introduction To Machine Learning Applications"
+      ],
+      "instructors": [
+        "Lydia Manikonda"
+      ]
+    },
+    {
+      "courseId": "MGMT-6560",
+      "page": 9,
+      "marker": "TBA",
+      "crns": [
+        78292
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Introduction To Machine Learning Applications"
+      ],
+      "instructors": [
+        "Lydia Manikonda"
+      ]
+    },
+    {
+      "courseId": "MGMT-6570",
+      "page": 9,
+      "marker": "REMOTE",
+      "crns": [
+        78554
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Adv Data Resource Management"
+      ],
+      "instructors": [
+        "Jonathan Alexis McKinney"
+      ]
+    },
+    {
+      "courseId": "MGMT-6570",
+      "page": 9,
+      "marker": "REMOTE",
+      "crns": [
+        78293
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Adv Data Resource Management"
+      ],
+      "instructors": [
+        "Jonathan Alexis McKinney"
+      ]
+    },
+    {
+      "courseId": "MGMT-6600",
+      "page": 9,
+      "marker": "TBA",
+      "crns": [
+        78864
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Data Analytics"
+      ],
+      "instructors": [
+        "Ahmed Mohamed Morad Mohamed Maher Eleish"
+      ]
+    },
+    {
+      "courseId": "MGMT-6600",
+      "page": 9,
+      "marker": "TBA",
+      "crns": [
+        78981
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Data Analytics"
+      ],
+      "instructors": [
+        "Ahmed Mohamed Morad Mohamed Maher Eleish"
+      ]
+    },
+    {
+      "courseId": "MGMT-6840",
+      "page": 9,
+      "marker": "FINAL PROJECT",
+      "crns": [
+        78249
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Practicum In Management"
+      ],
+      "instructors": [
+        "Kevin Albro Fletcher"
+      ]
+    },
+    {
+      "courseId": "MTLE-4920",
+      "page": 9,
+      "marker": "TBA",
+      "crns": [
+        77824
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Multidisciplinary Capstone Design"
+      ],
+      "instructors": [
+        "Valerie J. Masterson, Junichi Kanai, Rahmi Ozisik"
+      ]
+    },
+    {
+      "courseId": "MTLE-4920",
+      "page": 9,
+      "marker": "TBA",
+      "crns": [
+        77895
+      ],
+      "sections": [
+        "03"
+      ],
+      "titles": [
+        "Multidisciplinary Capstone Design"
+      ],
+      "instructors": [
+        "Valerie J. Masterson, Junichi Kanai, Rahmi Ozisik"
+      ]
+    },
+    {
+      "courseId": "MTLE-4920",
+      "page": 9,
+      "marker": "TBA",
+      "crns": [
+        77823
+      ],
+      "sections": [
+        "04"
+      ],
+      "titles": [
+        "Multidisciplinary Capstone Design"
+      ],
+      "instructors": [
+        "Valerie J. Masterson, Junichi Kanai, Rahmi Ozisik"
+      ]
+    },
+    {
+      "courseId": "PHYS-1110",
+      "page": 9,
+      "marker": "TBA",
+      "crns": [
+        79198,
+        80563,
+        79201,
+        79202,
+        79204,
+        79205
+      ],
+      "sections": [
+        "07",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "titles": [
+        "Physics I (s)"
+      ],
+      "instructors": [
+        "Christian M. Wetzel, Julian S. Georg",
+        "Ingrid Wilke, Julian S. Georg",
+        "Julian S. Georg",
+        "TBA",
+        "Yong Sung Kim, Julian S. Georg"
+      ]
+    },
+    {
+      "courseId": "PHYS-1200",
+      "page": 9,
+      "marker": "TBA",
+      "crns": [
+        80862,
+        80863,
+        80864,
+        80865
+      ],
+      "sections": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ],
+      "titles": [
+        "Physics II"
+      ],
+      "instructors": [
+        "Glenn Ciolek",
+        "Shawn Yu Lin",
+        "TBA",
+        "Zachary D Ward"
+      ]
+    },
+    {
+      "courseId": "PHYS-1600",
+      "page": 9,
+      "marker": "TBA",
+      "crns": [
+        78333,
+        78334,
+        80157
+      ],
+      "sections": [
+        "01",
+        "02",
+        "03"
+      ],
+      "titles": [
+        "Materials Science"
+      ],
+      "instructors": [
+        "Chaitanya Kishore Ullal, John R. LaGraff",
+        "Jian Shi, John R. LaGraff",
+        "Rahmi Ozisik, John R. LaGraff",
+        "TBA"
+      ]
+    },
+    {
+      "courseId": "PHYS-2210",
+      "page": 9,
+      "marker": "FINAL PROJECT",
+      "crns": [
+        78014
+      ],
+      "sections": [
+        "01"
+      ],
+      "titles": [
+        "Quantum Physics I"
+      ],
+      "instructors": [
+        "Zachary D Ward"
+      ]
+    },
+    {
+      "courseId": "PHYS-2350",
+      "page": 9,
+      "marker": "FINAL PROJECT",
+      "crns": [
+        78041,
+        78357
+      ],
+      "sections": [
+        "02",
+        "03"
+      ],
+      "titles": [
+        "Experimental Physics"
+      ],
+      "instructors": [
+        "Joseph Darryl Michael"
+      ]
+    },
+    {
+      "courseId": "PSYC-4370",
+      "page": 10,
+      "marker": "TBA",
+      "crns": [
+        78853
+      ],
+      "sections": [
+        "02"
+      ],
+      "titles": [
+        "Cognitive Psychology"
+      ],
+      "instructors": [
+        "Christopher Robert Sims"
+      ]
+    },
+    {
+      "courseId": "STSO-2520",
+      "page": 10,
+      "marker": "TBA",
+      "crns": [
+        78839,
+        79720
+      ],
+      "sections": [
+        "01",
+        "02"
+      ],
+      "titles": [
+        "Sociology"
+      ],
+      "instructors": [
+        "Hasan Tankut Atuk"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ARCH-4966",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Bldg Information Modeling"
+      ],
+      "currentTitles": [
+        "Approaches In Lighting Design"
+      ]
+    },
+    {
+      "id": "CHME-6963",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Cbe Phd On-ramp Seminar"
+      ],
+      "currentTitles": [
+        "Chbe Seminar"
+      ]
+    },
+    {
+      "id": "CSCI-6970",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Decision Making Under Uncertai"
+      ],
+      "currentTitles": [
+        "Deep Learning For Nat Lang Gen"
+      ]
+    },
+    {
+      "id": "ECSE-2410",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Signals & Systems"
+      ],
+      "currentTitles": [
+        "Signals And Systems"
+      ]
+    },
+    {
+      "id": "ECSE-4961",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Adv Mats Metro Eqpt Semi Mfg"
+      ],
+      "currentTitles": [
+        "Fab Tech f Semiconductor Mfg"
+      ]
+    },
+    {
+      "id": "ECSE-4966",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Adv Power Sys Modeling & Ctrl"
+      ],
+      "currentTitles": [
+        "Pwr Gen Operation & Control"
+      ]
+    },
+    {
+      "id": "ECSE-4968",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Fdmtls Of Microwave Engr"
+      ],
+      "currentTitles": [
+        "Stochastic Mthd In Op Rsrch"
+      ]
+    },
+    {
+      "id": "ECSE-6961",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Adv Mats Metro Eqpt Semi Mfg"
+      ],
+      "currentTitles": [
+        "Fab Tech f Semiconductor Mfg"
+      ]
+    },
+    {
+      "id": "ECSE-6964",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Decision Making Under Uncertai"
+      ],
+      "currentTitles": [
+        "Mdrn Pwr Devices & Smrt Pwr Ic"
+      ]
+    },
+    {
+      "id": "ECSE-6980",
+      "reason": "单一导师的研究项目，不泛化至其他导师班次"
+    },
+    {
+      "id": "ENGR-4961",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Adv Mats Metro Eqpt Semi Mfg"
+      ],
+      "currentTitles": [
+        "Fab Tech f Semiconductor Mfg"
+      ]
+    },
+    {
+      "id": "ENGR-6961",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Adv Mats Metro Eqpt Semi Mfg"
+      ],
+      "currentTitles": [
+        "Fab Tech f Semiconductor Mfg"
+      ]
+    },
+    {
+      "id": "ISCI-4961",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Adv Mats Metro Eqpt Semi Mfg"
+      ],
+      "currentTitles": [
+        "Fab Tech f Semiconductor Mfg"
+      ]
+    },
+    {
+      "id": "ISCI-6961",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Adv Mats Metro Eqpt Semi Mfg"
+      ],
+      "currentTitles": [
+        "Fab Tech f Semiconductor Mfg"
+      ]
+    },
+    {
+      "id": "MANE-1010",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Essence Engring Mechanics"
+      ],
+      "currentTitles": [
+        "Essence Of Enginring Mechanics"
+      ]
+    },
+    {
+      "id": "MANE-4060",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Aerospace Struct & Materials"
+      ],
+      "currentTitles": [
+        "Aerospace Struc & Materials"
+      ]
+    },
+    {
+      "id": "MANE-4500",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Modeling & Control Of Dyn Sys"
+      ],
+      "currentTitles": [
+        "Modeling And Contrl Of Dyn Sys"
+      ]
+    },
+    {
+      "id": "MANE-4900",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Aeroelasticity & Struct Vibes"
+      ],
+      "currentTitles": [
+        "Aeroelasticity And Structural Vibrations"
+      ]
+    },
+    {
+      "id": "MANE-6962",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "H4d - Solving National Issues"
+      ],
+      "currentTitles": [
+        "Compressible Flows"
+      ]
+    },
+    {
+      "id": "MANE-6963",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Lean Six Sigma I"
+      ],
+      "currentTitles": [
+        "Mobile Robotics & Planning"
+      ]
+    },
+    {
+      "id": "MANE-6964",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Composites Manufacturing"
+      ],
+      "currentTitles": [
+        "Discrete Event Simulation"
+      ]
+    },
+    {
+      "id": "MATH-2400",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Intro Differential Equations"
+      ],
+      "currentTitles": [
+        "Intro Diff Equations"
+      ]
+    },
+    {
+      "id": "MATH-2400",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Intro Differential Equations"
+      ],
+      "currentTitles": [
+        "Intro Diff Equations"
+      ]
+    },
+    {
+      "id": "MGMT-4960",
+      "reason": "课号相同但班次课名不同",
+      "historicalTitles": [
+        "Financial Computation & Simul"
+      ],
+      "currentTitles": [
+        "Financial Technology"
+      ]
+    }
+  ]
+}

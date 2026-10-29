@@ -10,14 +10,16 @@ const [departments, catalog, schools, manifest, evidence] = await Promise.all([
   read('data/raw/manifest.json'), read('data/evidence.json') as Promise<Evidence[]>,
 ]);
 const sourceChecks = await read('data/source-checks.json') as {url:string;status:number|null}[];
+const searches = [...await read('data/research/searches.json'),...await read('data/research/initial-searches.json')] as {id:string;courseIds:string[];query:string;kind:string}[];
 const courses: Course[] = departments.flatMap(dept => dept.courses.map(course => {
   const matched = evidence.filter(e => e.courseIds.includes(course.id)).flatMap(e => {
-    const sections = course.sections.filter(s => new RegExp(e.titlePattern, 'i').test(s.title) && (!e.matchInstructor || s.timeslots.some(t => new RegExp(e.matchInstructor!, 'i').test(t.instructor))));
+    const sections = course.sections.filter(s => new RegExp(e.titlePattern, 'i').test(s.title) && (!e.sectionPattern || new RegExp(e.sectionPattern).test(s.sec)) && (!e.matchInstructor || s.timeslots.some(t => new RegExp(e.matchInstructor!, 'i').test(t.instructor))));
     if (!sections.length) throw new Error(`Evidence ${e.id} title does not match ${course.id}; review topic reuse before attaching.`);
     return [{ ...e, sourceStatus: sourceChecks.find(s=>s.url===e.url)?.status, sectionCrns: sections.map(s => s.crn) }];
   });
   const instructors = [...new Set(course.sections.flatMap(s => s.timeslots.map(t => t.instructor)).filter(n => n && n !== 'TBA'))];
   const { verdict, confidence } = resolveVerdict(matched);
+  const searchIds = searches.filter(q => q.courseIds.includes(course.id)).map(q=>q.id);
   return {
     id: course.id, title: course.title, subject: dept.code, department: dept.name,
     school: schools.find(s => s.depts.some(d => d.code === dept.code))?.name ?? 'Uncategorized',
@@ -27,6 +29,7 @@ const courses: Course[] = departments.flatMap(dept => dept.courses.map(course =>
     evidence: matched, verdict, confidence,
     onlineSections: course.sections.filter(s => s.timeslots.some(t => /online|distance|remote/i.test(t.location))).length,
     reviewed: matched.length > 0,
+    research: { state: matched.length ? 'evidence' : searches.some(q=>q.courseIds.includes(course.id)&&q.kind!=='initial-search') ? 'searched' : searchIds.length ? 'initial' : 'unsearched', searchIds },
   };
 }));
 const dataset: Dataset = {
@@ -42,6 +45,11 @@ const dataset: Dataset = {
 await mkdir('public/data', { recursive: true });
 await writeFile('public/data/courses.json', JSON.stringify(dataset));
 await writeFile('public/data/evidence.json', JSON.stringify(evidence, null, 2));
+await writeFile('public/data/searches.json', JSON.stringify(searches, null, 2));
+await writeFile('public/data/coverage.json', JSON.stringify(departments.map(d=>{
+  const group=courses.filter(c=>c.subject===d.code);
+  return {subject:d.code,name:d.name,total:group.length,evidence:group.filter(c=>c.research.state==='evidence').length,searchedNoEvidence:group.filter(c=>c.research.state==='searched').length,initialSearch:group.filter(c=>c.research.state==='initial').length,unsearched:group.filter(c=>c.research.state==='unsearched').length};
+}), null, 2));
 await writeFile('public/data/candidates.csv', exportCsv(courses.filter(c=>candidateVerdicts.has(c.verdict))));
 await writeFile('public/data/all-courses.csv', exportCsv(courses));
 console.log(JSON.stringify({ ...dataset.meta, reviewedCourses: courses.filter(c => c.reviewed).length, evidenceRecords: evidence.length }, null, 2));

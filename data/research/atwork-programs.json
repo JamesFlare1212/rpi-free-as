@@ -1,0 +1,277 @@
+{
+  "policyUrl": "https://rpiatwork.rpi.edu/rpistudio-tour",
+  "checkedAt": "2026-10-28",
+  "matches": [
+    {
+      "courseId": "BUSN-6102",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/managing-technical-organizations",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6102_Managing_Dynamic_Organizations.pdf",
+      "previewSha256": "b279b069e633c6c639fdb15316e65c6dd1a52351d42050e30be474a9b607ef17"
+    },
+    {
+      "courseId": "BUSN-6103",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/managing-technical-organizations",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6103_Markets_Strategy_and_People.pdf",
+      "previewSha256": "3f7c515082ad50b04ab0863769f2be0009c88f02ee535a8c64ff0e46db8093dd"
+    },
+    {
+      "courseId": "BUSN-6104",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/managing-technical-organizations",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6104_Evaluating_Organizational_Performance.pdf",
+      "previewSha256": "3902f7835e133fd6356e474b1f7d74a12405bc7c17733dc5067fdd27768b0dc8"
+    },
+    {
+      "courseId": "BUSN-6105",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/leading-change-and-innovation",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6105_Agile_Planning_and_Execution.pdf",
+      "previewSha256": "a20e8518ffd7ce784945b4ff8f5fe1787767bd2fe65c774510aa1516eada7ee8"
+    },
+    {
+      "courseId": "BUSN-6106",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/leading-change-and-innovation",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6106_Leaders_as_Change_Agents.pdf",
+      "previewSha256": "066f99d81f5ecb226189fdd24d5406a20628d274d19c4a2d6f1dc0c148a61d35"
+    },
+    {
+      "courseId": "BUSN-6107",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/leading-change-and-innovation",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6107_Changing_and_Innovating.pdf",
+      "previewSha256": "b1e930c5d4a877786d25b088f5405fe5aa8ef3b93e807070bbdf8a543ded6474"
+    },
+    {
+      "courseId": "BUSN-6300",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/mba-for-professionals",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6300_Leaders_and_Strategy.pdf",
+      "previewSha256": "89037b083c0f51e33243ec46edcbfdf625d0b4ad128426ec9ce604b19c3d40c3"
+    },
+    {
+      "courseId": "BUSN-6305",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/mba-for-professionals",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6305_Leaders_in_Dynamic_Markets.pdf",
+      "previewSha256": "1aaf4d2f41d845c3688ed118494f4fdafe323680cb63d8b408794bc09f057060"
+    },
+    {
+      "courseId": "BUSN-6310",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/mba-for-professionals",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6310_Leaders_Making_Financial_Decisions.pdf",
+      "previewSha256": "8bd2e322d34925611b1009a57285f53425e361d656990170da934557ba2ac3ad"
+    },
+    {
+      "courseId": "BUSN-6315",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/mba-for-professionals",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6315_Leaders_Planning_and_Executing.pdf",
+      "previewSha256": "1ef73d28e885fa81cfea2631857afc7bf12ce423f0169dde8b9a9c556716618f"
+    },
+    {
+      "courseId": "BUSN-6320",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/mba-for-professionals",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6320_Leaders_Leading_People.pdf",
+      "previewSha256": "0b2bf0eb54dcd3fd88e8cd150c3ecc6ff24eace7b8c7d7c3977866ccddcf88aa"
+    },
+    {
+      "courseId": "BUSN-6325",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/mba-for-professionals",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6325_Leaders_Charting_The_Course.pdf",
+      "previewSha256": "3cf081cd9722fe8f828d8c66ece85d0e2df59a294a8f14c83f5a2bc7adc44a92"
+    },
+    {
+      "courseId": "BUSN-6501",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/program-management",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6501_Program_Performance_Planning.pdf",
+      "previewSha256": "e62dcfa10882bc0f71c17f5b5533c9de65e17fa32a0f64ea5d40bc75d8ec04bc"
+    },
+    {
+      "courseId": "BUSN-6502",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/program-management",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6502_Program_Execution_Management.pdf",
+      "previewSha256": "79e05559193188560e666896cec0eedb7cd10f9f290d4739bbef8b0c698d03d1"
+    },
+    {
+      "courseId": "ENGR-6100",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/systems-engineering-degree",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6100_Business_Issues_for_Engineers_and_Scientists.pdf",
+      "previewSha256": "7fa1ce8708d05f1a5f5c4443684a9e5b2ec483362d247733e3e60fd10c964a69"
+    },
+    {
+      "courseId": "ENGR-6200",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/data-analytics",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6200_Data-Driven_Decision_Making.pdf",
+      "previewSha256": "f7dfd0a3122a496f5ef73ad9170c89fd58bb8e011f8446c5b656498ff8f3f4ef"
+    },
+    {
+      "courseId": "ENGR-6215",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/data-analytics",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6215_Modeling_Forecasting_and_Simulation.pdf",
+      "previewSha256": "31d43ceaad817846cbfe70d2c18ae1a997eebb82335dfb8b8269f7155b45aa70"
+    },
+    {
+      "courseId": "ENGR-6216",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/data-analytics",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6216_Applied_Analytics.pdf",
+      "previewSha256": "4fbd7c975d6ab9292eca5559c00b0a6a0d4dd9545b4b6308b26a56365a57806f"
+    },
+    {
+      "courseId": "ENGR-6220",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/machine-learning-and-ai",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6220_Data_Architecture.pdf",
+      "previewSha256": "1ce8a35373c5d260fdb457da0a40765960b5d72d8f24c469e19b5b1a71f26ac3"
+    },
+    {
+      "courseId": "ENGR-6221",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/machine-learning-and-ai",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6221_Machine_Learning_Frameworks.pdf",
+      "previewSha256": "3b7b3961c60c6bb5cd21822801693b4287e72ab6d6ec3b4b1fbd10e7a501ce88"
+    },
+    {
+      "courseId": "ENGR-6222",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/machine-learning-and-ai",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6222_Deep_Learning_in_AI_Systems.pdf",
+      "previewSha256": "fd07b31081163cfb32d2568e442a6c4936350232f776685f132bbe3f74396813"
+    },
+    {
+      "courseId": "ENGR-6230",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/lean-six-sigma",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6230_Lean_Six_Sigma_I_LXCT.pdf",
+      "previewSha256": "440ee5db3034a7b31649aa728bff1d966416e223d0e692205bde4de9c5452a9a"
+    },
+    {
+      "courseId": "ISYE-4240",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/systems-engineering-degree",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ISYE4240_Engineering_Project_Management_SETM.pdf",
+      "previewSha256": "961115f6ed6bbe136b4ae7fd4336df2a7fbb8176612a91051c254cce1220524d"
+    },
+    {
+      "courseId": "ISYE-6600",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/supply-chain-and-logistics",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ISYE6600_Design_of_Manufacturing_Systems_and_Supply_Chains.pdf",
+      "previewSha256": "a93e5528a1dc16196917ef3e84eb4da1600eec49d4ac457b44c0c55d3ee9ea8c"
+    },
+    {
+      "courseId": "ISYE-6610",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/systems-engineering-degree",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ISYE6610_Systems_Modeling_in_Decision_Sciences.pdf",
+      "previewSha256": "ab991f1c276b2593032118cab9da6d5ec8f8b05ddc29638b8f45a752bfaa2d74"
+    },
+    {
+      "courseId": "ISYE-6620",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/systems-engineering-degree",
+      "previewUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ISYE6620_Discrete-Event_Simulation.pdf",
+      "previewSha256": "da98e96ab3922cce08775de0b1cdc7884d42f20df1a66a279f7637fb843040e1"
+    },
+    {
+      "courseId": "MANE-4640",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/mechanical-engineering",
+      "previewUrl": "https://ewp.rpi.edu/sites/default/files/2023-10/MANE%204640%20Analysis%20of%20Manufacturing%20Processes%20Course%20Preview%202023.pdf",
+      "previewSha256": "602d0a889cac00d8ea5071ceea2f3db235d293f8d0ceda1fdb86bd7fbaa93a48"
+    },
+    {
+      "courseId": "MANE-5000",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/mechanical-engineering",
+      "previewUrl": "https://ewp.rpi.edu/sites/default/files/2023-10/MANE%205000%20Advanced%20Engineering%20Mathematics%20Course%20Preview%202023.pdf",
+      "previewSha256": "e88db56dd569140e1b4ebdaa4ef20a0c6e5ec1d76090d18706e0d84ad22f54df"
+    },
+    {
+      "courseId": "MANE-6720",
+      "sections": [
+        "H01"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/mechanical-engineering",
+      "previewUrl": "https://ewp.rpi.edu/sites/default/files/2023-10/MANE%206720%20Computational%20Fluid%20Dynamics%20Course%20Preview%202023.pdf",
+      "previewSha256": "1de3aee3d45c749c4bea9583b759695a80075379ac6e28458e1939ac9230f715"
+    },
+    {
+      "courseId": "MANE-6970",
+      "sections": [
+        "H02",
+        "H03"
+      ],
+      "programUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/mechanical-engineering",
+      "previewUrl": "https://ewp.rpi.edu/sites/default/files/2023-10/MANE%206970%20Professional%20Projects%20Course%20Preview%202023.pdf",
+      "previewSha256": "dc0e7b071e9f58001e24ddb6b2a92b8280856bba2955a0cbc3c729a92cfe4567"
+    }
+  ]
+}

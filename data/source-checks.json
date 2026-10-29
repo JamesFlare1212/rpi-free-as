@@ -3,127 +3,528 @@
     "url": "https://cs.rpi.edu/academics/courses/spring25/csci4150/website/lectures/lecture1.html",
     "status": 200,
     "finalUrl": "https://cs.rpi.edu/academics/courses/spring25/csci4150/website/lectures/lecture1.html",
-    "contentType": "text/html; charset=utf-8",
-    "checkedAt": "2026-10-28T23:22:25.336822+00:00"
+    "checkedAt": "2026-10-29T00:03:18.036Z"
+  },
+  {
+    "url": "https://ewp.rpi.edu/sites/default/files/2023-10/MANE%204640%20Analysis%20of%20Manufacturing%20Processes%20Course%20Preview%202023.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2023-10/MANE%204640%20Analysis%20of%20Manufacturing%20Processes%20Course%20Preview%202023.pdf",
+    "checkedAt": "2026-10-29T00:03:21.630Z"
+  },
+  {
+    "url": "https://ewp.rpi.edu/sites/default/files/2023-10/MANE%205000%20Advanced%20Engineering%20Mathematics%20Course%20Preview%202023.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2023-10/MANE%205000%20Advanced%20Engineering%20Mathematics%20Course%20Preview%202023.pdf",
+    "checkedAt": "2026-10-29T00:03:21.770Z"
+  },
+  {
+    "url": "https://ewp.rpi.edu/sites/default/files/2023-10/MANE%206720%20Computational%20Fluid%20Dynamics%20Course%20Preview%202023.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2023-10/MANE%206720%20Computational%20Fluid%20Dynamics%20Course%20Preview%202023.pdf",
+    "checkedAt": "2026-10-29T00:03:21.762Z"
+  },
+  {
+    "url": "https://ewp.rpi.edu/sites/default/files/2023-10/MANE%206970%20Professional%20Projects%20Course%20Preview%202023.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2023-10/MANE%206970%20Professional%20Projects%20Course%20Preview%202023.pdf",
+    "checkedAt": "2026-10-29T00:03:21.943Z"
+  },
+  {
+    "url": "https://github.com/ajhPHROS/MATH-6640",
+    "status": 200,
+    "finalUrl": "https://github.com/ajhPHROS/MATH-6640",
+    "checkedAt": "2026-10-29T00:03:23.419Z"
   },
   {
     "url": "https://github.com/rcos/rcos-handbook/blob/master/docs/grading/rubric.md",
     "status": 200,
     "finalUrl": "https://github.com/rcos/rcos-handbook/blob/master/docs/grading/rubric.md",
-    "contentType": "text/html; charset=utf-8",
-    "checkedAt": "2026-10-28T23:22:26.029873+00:00"
+    "checkedAt": "2026-10-29T00:03:17.612Z"
+  },
+  {
+    "url": "https://holmesrpi.org/Books/NumComp2/syllabus.4840.S25.pdf",
+    "status": 200,
+    "finalUrl": "https://holmesrpi.org/Books/NumComp2/syllabus.4840.S25.pdf",
+    "checkedAt": "2026-10-29T00:03:23.116Z"
   },
   {
     "url": "https://homepages.hass.rpi.edu/heuveb/Teaching/CogSci/Web/Syllabus.htm",
     "status": 200,
     "finalUrl": "https://homepages.hass.rpi.edu/heuveb/Teaching/CogSci/Web/Syllabus.htm",
-    "contentType": "text/html",
-    "checkedAt": "2026-10-28T23:22:25.397149+00:00"
+    "checkedAt": "2026-10-29T00:03:17.600Z"
   },
   {
     "url": "https://homepages.hass.rpi.edu/heuveb/Teaching/CriticalThinking/Web/Syllabus.html",
     "status": 200,
     "finalUrl": "https://homepages.hass.rpi.edu/heuveb/Teaching/CriticalThinking/Web/Syllabus.html",
-    "contentType": "text/html",
-    "checkedAt": "2026-10-28T23:22:25.392991+00:00"
+    "checkedAt": "2026-10-29T00:03:17.953Z"
   },
   {
     "url": "https://homepages.hass.rpi.edu/heuveb/Teaching/Logic/CompLogic/Web/Syllabus.html",
     "status": 200,
     "finalUrl": "https://homepages.hass.rpi.edu/heuveb/Teaching/Logic/CompLogic/Web/Syllabus.html",
-    "contentType": "text/html",
-    "checkedAt": "2026-10-28T23:22:25.396774+00:00"
+    "checkedAt": "2026-10-29T00:03:17.751Z"
   },
   {
     "url": "https://homepages.hass.rpi.edu/ruiz/EGDSpring2016/Experimental.htm",
     "status": 200,
     "finalUrl": "https://homepages.hass.rpi.edu/ruiz/EGDSpring2016/Experimental.htm",
-    "contentType": "text/html",
-    "checkedAt": "2026-10-28T23:22:25.557240+00:00"
+    "checkedAt": "2026-10-29T00:03:18.050Z"
+  },
+  {
+    "url": "https://rpi.box.com/s/4kmv0vr9te5o34ydrthksx3wo64ruww0",
+    "status": 200,
+    "finalUrl": "https://rpi.app.box.com/s/4kmv0vr9te5o34ydrthksx3wo64ruww0",
+    "checkedAt": "2026-10-29T00:03:19.416Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/data-analytics",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/data-analytics",
+    "checkedAt": "2026-10-29T00:03:20.283Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/leading-change-and-innovation",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/leading-change-and-innovation",
+    "checkedAt": "2026-10-29T00:03:18.710Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/lean-six-sigma",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/lean-six-sigma",
+    "checkedAt": "2026-10-29T00:03:21.073Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/machine-learning-and-ai",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/machine-learning-and-ai",
+    "checkedAt": "2026-10-29T00:03:20.717Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/managing-technical-organizations",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/managing-technical-organizations",
+    "checkedAt": "2026-10-29T00:03:18.179Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/mba-for-professionals",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/mba-for-professionals",
+    "checkedAt": "2026-10-29T00:03:19.206Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/mechanical-engineering",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/mechanical-engineering",
+    "checkedAt": "2026-10-29T00:03:21.398Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/program-management",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/program-management",
+    "checkedAt": "2026-10-29T00:03:19.847Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/supply-chain-and-logistics",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/supply-chain-and-logistics",
+    "checkedAt": "2026-10-29T00:03:21.207Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/systems-engineering-degree",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/degrees-certificates/graduate/systems-engineering-degree",
+    "checkedAt": "2026-10-29T00:03:20.040Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/rpistudio-tour",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/rpistudio-tour",
+    "checkedAt": "2026-10-29T00:03:18.260Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6102_Managing_Dynamic_Organizations.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6102_Managing_Dynamic_Organizations.pdf",
+    "checkedAt": "2026-10-29T00:03:18.389Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6103_Markets_Strategy_and_People.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6103_Markets_Strategy_and_People.pdf",
+    "checkedAt": "2026-10-29T00:03:18.444Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6104_Evaluating_Organizational_Performance.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6104_Evaluating_Organizational_Performance.pdf",
+    "checkedAt": "2026-10-29T00:03:18.621Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6105_Agile_Planning_and_Execution.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6105_Agile_Planning_and_Execution.pdf",
+    "checkedAt": "2026-10-29T00:03:18.669Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6106_Leaders_as_Change_Agents.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6106_Leaders_as_Change_Agents.pdf",
+    "checkedAt": "2026-10-29T00:03:19.052Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6107_Changing_and_Innovating.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6107_Changing_and_Innovating.pdf",
+    "checkedAt": "2026-10-29T00:03:18.991Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6300_Leaders_and_Strategy.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6300_Leaders_and_Strategy.pdf",
+    "checkedAt": "2026-10-29T00:03:19.022Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6305_Leaders_in_Dynamic_Markets.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6305_Leaders_in_Dynamic_Markets.pdf",
+    "checkedAt": "2026-10-29T00:03:19.328Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6310_Leaders_Making_Financial_Decisions.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6310_Leaders_Making_Financial_Decisions.pdf",
+    "checkedAt": "2026-10-29T00:03:19.349Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6315_Leaders_Planning_and_Executing.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6315_Leaders_Planning_and_Executing.pdf",
+    "checkedAt": "2026-10-29T00:03:19.516Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6320_Leaders_Leading_People.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6320_Leaders_Leading_People.pdf",
+    "checkedAt": "2026-10-29T00:03:19.627Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6325_Leaders_Charting_The_Course.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6325_Leaders_Charting_The_Course.pdf",
+    "checkedAt": "2026-10-29T00:03:19.639Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6501_Program_Performance_Planning.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6501_Program_Performance_Planning.pdf",
+    "checkedAt": "2026-10-29T00:03:19.743Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6502_Program_Execution_Management.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/BUSN6502_Program_Execution_Management.pdf",
+    "checkedAt": "2026-10-29T00:03:20.035Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6100_Business_Issues_for_Engineers_and_Scientists.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6100_Business_Issues_for_Engineers_and_Scientists.pdf",
+    "checkedAt": "2026-10-29T00:03:20.037Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6200_Data-Driven_Decision_Making.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6200_Data-Driven_Decision_Making.pdf",
+    "checkedAt": "2026-10-29T00:03:20.122Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6215_Modeling_Forecasting_and_Simulation.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6215_Modeling_Forecasting_and_Simulation.pdf",
+    "checkedAt": "2026-10-29T00:03:20.330Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6216_Applied_Analytics.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6216_Applied_Analytics.pdf",
+    "checkedAt": "2026-10-29T00:03:20.406Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6220_Data_Architecture.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6220_Data_Architecture.pdf",
+    "checkedAt": "2026-10-29T00:03:20.514Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6221_Machine_Learning_Frameworks.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6221_Machine_Learning_Frameworks.pdf",
+    "checkedAt": "2026-10-29T00:03:20.789Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6222_Deep_Learning_in_AI_Systems.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6222_Deep_Learning_in_AI_Systems.pdf",
+    "checkedAt": "2026-10-29T00:03:20.874Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6230_Lean_Six_Sigma_I_LXCT.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ENGR6230_Lean_Six_Sigma_I_LXCT.pdf",
+    "checkedAt": "2026-10-29T00:03:20.960Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ISYE4240_Engineering_Project_Management_SETM.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ISYE4240_Engineering_Project_Management_SETM.pdf",
+    "checkedAt": "2026-10-29T00:03:21.128Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ISYE6600_Design_of_Manufacturing_Systems_and_Supply_Chains.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ISYE6600_Design_of_Manufacturing_Systems_and_Supply_Chains.pdf",
+    "checkedAt": "2026-10-29T00:03:21.251Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ISYE6610_Systems_Modeling_in_Decision_Sciences.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ISYE6610_Systems_Modeling_in_Decision_Sciences.pdf",
+    "checkedAt": "2026-10-29T00:03:21.343Z"
+  },
+  {
+    "url": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ISYE6620_Discrete-Event_Simulation.pdf",
+    "status": 200,
+    "finalUrl": "https://rpiatwork.rpi.edu/sites/default/files/2026-07/ISYE6620_Discrete-Event_Simulation.pdf",
+    "checkedAt": "2026-10-29T00:03:21.506Z"
   },
   {
     "url": "https://sites.ecse.rpi.edu/courses/static/ENGR-2350/_downloads/480dc1320a38152643b14a64c13756dc/ENGR-2350_Syllabus_S2026.pdf",
     "status": 404,
-    "checkedAt": "2026-10-28T23:22:25.594033+00:00"
+    "finalUrl": "https://sites.ecse.rpi.edu/courses/static/ENGR-2350/_downloads/480dc1320a38152643b14a64c13756dc/ENGR-2350_Syllabus_S2026.pdf",
+    "checkedAt": "2026-10-29T00:03:17.953Z"
   },
   {
-    "url": "https://www.cs.rpi.edu/academics/courses/fall25/csci4220/syllabus.html",
+    "url": "https://tw.rpi.edu/classes/data-analytics-fall-2026",
     "status": 200,
-    "finalUrl": "https://www.cs.rpi.edu/academics/courses/fall25/csci4220/syllabus.html",
-    "contentType": "text/html; charset=utf-8",
-    "checkedAt": "2026-10-28T23:22:25.599728+00:00"
+    "finalUrl": "https://tw.rpi.edu/classes/data-analytics-fall-2026",
+    "checkedAt": "2026-10-29T00:03:22.910Z"
+  },
+  {
+    "url": "https://tw.rpi.edu/classes/data-analytics-spring-2026",
+    "status": 200,
+    "finalUrl": "https://tw.rpi.edu/classes/data-analytics-spring-2026",
+    "checkedAt": "2026-10-29T00:03:22.740Z"
+  },
+  {
+    "url": "https://tw.rpi.edu/classes/gis-science-2018",
+    "status": 200,
+    "finalUrl": "https://tw.rpi.edu/classes/gis-science-2018",
+    "checkedAt": "2026-10-29T00:03:22.726Z"
+  },
+  {
+    "url": "https://web.biggermatrix.com/syllabus.html",
+    "status": 200,
+    "finalUrl": "https://web.biggermatrix.com/syllabus.html",
+    "checkedAt": "2026-10-29T00:03:22.904Z"
+  },
+  {
+    "url": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf#page=272",
+    "status": 200,
+    "finalUrl": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf",
+    "checkedAt": "2026-10-29T00:03:22.053Z"
+  },
+  {
+    "url": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf#page=287",
+    "status": 200,
+    "finalUrl": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf",
+    "checkedAt": "2026-10-29T00:03:22.053Z"
+  },
+  {
+    "url": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf#page=293",
+    "status": 200,
+    "finalUrl": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf",
+    "checkedAt": "2026-10-29T00:03:22.053Z"
+  },
+  {
+    "url": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf#page=313",
+    "status": 200,
+    "finalUrl": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf",
+    "checkedAt": "2026-10-29T00:03:22.053Z"
+  },
+  {
+    "url": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf#page=333",
+    "status": 200,
+    "finalUrl": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf",
+    "checkedAt": "2026-10-29T00:03:22.053Z"
+  },
+  {
+    "url": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf#page=343",
+    "status": 200,
+    "finalUrl": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf",
+    "checkedAt": "2026-10-29T00:03:22.053Z"
+  },
+  {
+    "url": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf#page=353",
+    "status": 200,
+    "finalUrl": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf",
+    "checkedAt": "2026-10-29T00:03:22.053Z"
+  },
+  {
+    "url": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf#page=361",
+    "status": 200,
+    "finalUrl": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf",
+    "checkedAt": "2026-10-29T00:03:22.053Z"
+  },
+  {
+    "url": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf#page=386",
+    "status": 200,
+    "finalUrl": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf",
+    "checkedAt": "2026-10-29T00:03:22.053Z"
+  },
+  {
+    "url": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf#page=416",
+    "status": 200,
+    "finalUrl": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf",
+    "checkedAt": "2026-10-29T00:03:22.053Z"
+  },
+  {
+    "url": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf#page=440",
+    "status": 200,
+    "finalUrl": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf",
+    "checkedAt": "2026-10-29T00:03:22.053Z"
+  },
+  {
+    "url": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf#page=588",
+    "status": 200,
+    "finalUrl": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf",
+    "checkedAt": "2026-10-29T00:03:22.053Z"
+  },
+  {
+    "url": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf#page=616",
+    "status": 200,
+    "finalUrl": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf",
+    "checkedAt": "2026-10-29T00:03:22.053Z"
   },
   {
     "url": "https://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S13/calendar.html",
     "status": 200,
     "finalUrl": "https://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S13/calendar.html",
-    "contentType": "text/html; charset=utf-8",
-    "checkedAt": "2026-10-28T23:22:25.601394+00:00"
+    "checkedAt": "2026-10-29T00:03:17.604Z"
   },
   {
     "url": "https://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S25/grading.php",
     "status": 200,
     "finalUrl": "https://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S25/grading.php",
-    "contentType": "text/html; charset=UTF-8",
-    "checkedAt": "2026-10-28T23:22:25.752402+00:00"
+    "checkedAt": "2026-10-29T00:03:17.591Z"
   },
   {
     "url": "https://www.cs.rpi.edu/~cutler/classes/visualization/S24/grading.php",
     "status": 200,
     "finalUrl": "https://www.cs.rpi.edu/~cutler/classes/visualization/S24/grading.php",
-    "contentType": "text/html; charset=UTF-8",
-    "checkedAt": "2026-10-28T23:22:25.751622+00:00"
+    "checkedAt": "2026-10-29T00:03:17.801Z"
+  },
+  {
+    "url": "https://www.cs.rpi.edu/~goldsd/docs/s27-topics-courses.txt",
+    "status": 200,
+    "finalUrl": "https://www.cs.rpi.edu/~goldsd/docs/s27-topics-courses.txt",
+    "checkedAt": "2026-10-29T00:03:18.001Z"
   },
   {
     "url": "https://www.cs.rpi.edu/~milanova/csci4450/S25_Lecture1_Intro.pdf",
     "status": 404,
-    "checkedAt": "2026-10-28T23:22:25.749854+00:00"
+    "finalUrl": "https://www.cs.rpi.edu/~milanova/csci4450/S25_Lecture1_Intro.pdf",
+    "checkedAt": "2026-10-29T00:03:17.548Z"
+  },
+  {
+    "url": "https://www.cs.rpi.edu/~zaki/courses/algorithms/",
+    "status": 200,
+    "finalUrl": "https://www.cs.rpi.edu/~zaki/courses/algorithms/",
+    "checkedAt": "2026-10-29T00:03:17.904Z"
   },
   {
     "url": "https://www.cs.rpi.edu/~zaki/courses/algorithms/algo_syllabus/",
     "status": 200,
     "finalUrl": "https://www.cs.rpi.edu/~zaki/courses/algorithms/algo_syllabus/",
-    "contentType": "text/html; charset=utf-8",
-    "checkedAt": "2026-10-28T23:22:25.821346+00:00"
+    "checkedAt": "2026-10-29T00:03:17.858Z"
+  },
+  {
+    "url": "https://www.cs.rpi.edu/academics/courses/fall25/csci4220/syllabus.html",
+    "status": 200,
+    "finalUrl": "https://www.cs.rpi.edu/academics/courses/fall25/csci4220/syllabus.html",
+    "checkedAt": "2026-10-29T00:03:17.754Z"
+  },
+  {
+    "url": "https://www.ratemyprofessors.com/professor/1776944",
+    "status": 200,
+    "finalUrl": "https://www.ratemyprofessors.com/professor/1776944",
+    "checkedAt": "2026-10-29T00:03:22.473Z"
+  },
+  {
+    "url": "https://www.ratemyprofessors.com/professor/217938",
+    "status": 200,
+    "finalUrl": "https://www.ratemyprofessors.com/professor/217938",
+    "checkedAt": "2026-10-29T00:03:22.765Z"
+  },
+  {
+    "url": "https://www.ratemyprofessors.com/professor/2353029",
+    "status": 200,
+    "finalUrl": "https://www.ratemyprofessors.com/professor/2353029",
+    "checkedAt": "2026-10-29T00:03:22.502Z"
+  },
+  {
+    "url": "https://www.ratemyprofessors.com/professor/2601855",
+    "status": 200,
+    "finalUrl": "https://www.ratemyprofessors.com/professor/2601855",
+    "checkedAt": "2026-10-29T00:03:22.467Z"
+  },
+  {
+    "url": "https://www.ratemyprofessors.com/professor/286210",
+    "status": 200,
+    "finalUrl": "https://www.ratemyprofessors.com/professor/286210",
+    "checkedAt": "2026-10-29T00:03:22.502Z"
+  },
+  {
+    "url": "https://www.ratemyprofessors.com/professor/3020107",
+    "status": 200,
+    "finalUrl": "https://www.ratemyprofessors.com/professor/3020107",
+    "checkedAt": "2026-10-29T00:03:22.576Z"
+  },
+  {
+    "url": "https://www.reddit.com/r/RPI/comments/11t1rn4/hows_csci4440_software_design_docume_with_john/",
+    "status": 200,
+    "finalUrl": "https://www.reddit.com/r/RPI/comments/11t1rn4/hows_csci4440_software_design_docume_with_john/",
+    "checkedAt": "2026-10-29T00:03:22.904Z"
   },
   {
     "url": "https://www.reddit.com/r/RPI/comments/170k200/",
     "status": 200,
     "finalUrl": "https://www.reddit.com/r/RPI/comments/170k200/",
-    "contentType": "text/html",
-    "checkedAt": "2026-10-28T23:22:25.969660+00:00"
+    "checkedAt": "2026-10-29T00:03:17.244Z"
   },
   {
     "url": "https://www.reddit.com/r/RPI/comments/1j319nl/",
     "status": 200,
     "finalUrl": "https://www.reddit.com/r/RPI/comments/1j319nl/",
-    "contentType": "text/html",
-    "checkedAt": "2026-10-28T23:22:25.967567+00:00"
+    "checkedAt": "2026-10-29T00:03:17.405Z"
   },
   {
     "url": "https://www.reddit.com/r/RPI/comments/dne845/",
     "status": 200,
     "finalUrl": "https://www.reddit.com/r/RPI/comments/dne845/",
-    "contentType": "text/html",
-    "checkedAt": "2026-10-28T23:22:25.970335+00:00"
+    "checkedAt": "2026-10-29T00:03:17.241Z"
   },
   {
     "url": "https://www.reddit.com/r/RPI/comments/lwiglg/",
     "status": 200,
     "finalUrl": "https://www.reddit.com/r/RPI/comments/lwiglg/",
-    "contentType": "text/html",
-    "checkedAt": "2026-10-28T23:22:25.969950+00:00"
+    "checkedAt": "2026-10-29T00:03:17.256Z"
   },
   {
     "url": "https://www.reddit.com/r/RPI/comments/qrdmmi/",
     "status": 200,
     "finalUrl": "https://www.reddit.com/r/RPI/comments/qrdmmi/",
-    "contentType": "text/html",
-    "checkedAt": "2026-10-28T23:22:26.144999+00:00"
-  },
-  {
-    "url": "https://www.cs.rpi.edu/~goldsd/docs/s27-topics-courses.txt",
-    "status": 200,
-    "checkedAt": "2026-10-28T23:25:23.400390+00:00"
+    "checkedAt": "2026-10-29T00:03:17.750Z"
   }
 ]

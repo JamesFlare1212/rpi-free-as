@@ -1,12 +1,13 @@
-export type Verdict = 'no-exams' | 'online' | 'take-home' | 'no-final' | 'project-based' | 'has-exams' | 'conflicting' | 'unknown';
+export type Verdict = 'no-exams' | 'online' | 'take-home' | 'no-final' | 'project-based' | 'online-final' | 'final-project' | 'scheduled-final' | 'has-exams' | 'conflicting' | 'unknown';
 export type Confidence = 'high' | 'medium' | 'low';
 export type Scope = 'current' | 'historical' | 'undated';
+export interface SearchRecord { id:string; courseIds:string[]; kind:string; query:string; checkedAt:string; urls:string[]; outcome:string; }
 export interface Evidence {
   id: string;
   courseIds: string[];
   titlePattern: string;
   verdict: Exclude<Verdict, 'unknown'>;
-  sourceType: 'syllabus' | 'course-site' | 'handbook' | 'student-report';
+  sourceType: 'syllabus' | 'course-site' | 'handbook' | 'student-report' | 'exam-schedule';
   title: string;
   url: string;
   term: string;
@@ -16,6 +17,9 @@ export interface Evidence {
   verification: 'full-text' | 'search-index';
   instructor: string | null;
   matchInstructor?: string;
+  sectionPattern?: string;
+  sourceLocator?: string;
+  assessmentOnly?: 'final';
   supportingUrls?: string[];
   sourceStatus?: number | null;
   quote: string;
@@ -40,6 +44,7 @@ export interface Course {
   creditMin: number; creditMax: number; level: string;
   evidence: Evidence[]; verdict: Verdict; confidence: Confidence | null;
   onlineSections: number; reviewed: boolean;
+  research: { state: 'evidence' | 'searched' | 'initial' | 'unsearched'; searchIds: string[]; };
 }
 export interface Dataset {
   meta: { term: string; semester: string; fetchedAt: string; sourceCommit: string;

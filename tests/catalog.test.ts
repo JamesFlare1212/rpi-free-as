@@ -37,6 +37,30 @@ describe('evidence correctness and useful filters',()=>{
   test('candidate filter excludes unknowns and known conflicts',()=>{
     const results=filterCourses(courses,{...filters,status:'candidates'});expect(results.length).toBeGreaterThan(0);expect(results.some(c=>['unknown','conflicting','has-exams','no-final'].includes(c.verdict))).toBe(false);
   });
+  test('At Work evidence never applies to campus sections sharing a course ID',()=>{
+    const c=courses.find(c=>c.id==='MANE-5000')!;
+    const policy=c.evidence.find(e=>e.id.startsWith('atwork-'))!;
+    expect(policy.scope).toBe('undated');
+    expect(policy.sectionCrns!.every(crn=>c.sections.find(s=>s.crn===crn)!.sec.startsWith('H'))).toBe(true);
+    const campus=filterCourses([c],{...filters,program:'campus'})[0];
+    expect(campus.evidence.some(e=>e.id.startsWith('atwork-'))).toBe(false);
+    expect(campus.verdict).not.toBe('no-exams');
+    expect(filterCourses([c],{...filters,program:'atwork'})[0].verdict).toBe('no-exams');
+  });
+  test('remote finals do not erase evidence of other exams',()=>{
+    const c=courses.find(c=>c.id==='ARCH-4330')!;
+    expect(c.verdict).toBe('has-exams');
+    expect(c.evidence.some(e=>e.verdict==='online-final'&&e.assessmentOnly==='final')).toBe(true);
+  });
+  test('TBA final schedules cannot create exam-free candidates',()=>{
+    const c=courses.find(c=>c.verdict==='scheduled-final')!;
+    expect(c).toBeDefined();expect(filterCourses([c],{...filters,status:'candidates'})).toHaveLength(0);
+  });
+  test('coverage accounts for every course without turning searches into conclusions',()=>{
+    expect(courses.every(c=>['evidence','searched','initial','unsearched'].includes(c.research.state))).toBe(true);
+    expect(courses.filter(c=>c.research.state==='searched').every(c=>c.verdict==='unknown'&&c.research.searchIds.length>0)).toBe(true);
+    expect(courses.filter(c=>c.research.state==='initial').every(c=>c.verdict==='unknown'&&c.research.searchIds.length>0)).toBe(true);
+  });
   test('CSV protects formulas and retains source URLs',()=>{
     expect(csvEscape('=1+1')).toBe('"\'=1+1"');expect(csvEscape('a"b')).toBe('"a""b"');
     const c=courses.find(c=>c.id==='CHEM-4810')!;const csv=exportCsv([c]);expect(csv).toContain(c.evidence[0].url);expect(csv).toContain('2023');expect(csv.startsWith('\ufeff')).toBe(true);

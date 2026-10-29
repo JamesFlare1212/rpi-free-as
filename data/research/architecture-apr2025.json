@@ -1,0 +1,107 @@
+{
+  "url": "https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf",
+  "sha256": "c9c82f78a02142bcb20f25251fe20ed24e547f01645af8d622d44370ead56a8b",
+  "pageCount": 761,
+  "checkedAt": "2026-10-28",
+  "observations": [
+    {
+      "courseIds": [
+        "ARCH-2360",
+        "ARCH-5310"
+      ],
+      "page": 272,
+      "verdict": "has-exams"
+    },
+    {
+      "courseIds": [
+        "ARCH-2550",
+        "ARCH-5170"
+      ],
+      "page": 287,
+      "verdict": "project-based"
+    },
+    {
+      "courseIds": [
+        "ARCH-2810"
+      ],
+      "page": 293,
+      "verdict": "project-based"
+    },
+    {
+      "courseIds": [
+        "ARCH-2830",
+        "ARCH-5210"
+      ],
+      "page": 313,
+      "verdict": "project-based"
+    },
+    {
+      "courseIds": [
+        "ARCH-4090"
+      ],
+      "page": 333,
+      "verdict": "project-based"
+    },
+    {
+      "courseIds": [
+        "ARCH-4100",
+        "ARCH-5110"
+      ],
+      "page": 343,
+      "verdict": "has-exams"
+    },
+    {
+      "courseIds": [
+        "ARCH-4150"
+      ],
+      "page": 353,
+      "verdict": "project-based"
+    },
+    {
+      "courseIds": [
+        "ARCH-4200"
+      ],
+      "page": 361,
+      "verdict": "project-based"
+    },
+    {
+      "courseIds": [
+        "ARCH-4330",
+        "ARCH-5150"
+      ],
+      "page": 386,
+      "verdict": "has-exams"
+    },
+    {
+      "courseIds": [
+        "ARCH-4550",
+        "ARCH-5390"
+      ],
+      "page": 416,
+      "verdict": "has-exams"
+    },
+    {
+      "courseIds": [
+        "ARCH-4590",
+        "ARCH-5330"
+      ],
+      "page": 440,
+      "verdict": "project-based"
+    },
+    {
+      "courseIds": [
+        "ARCH-6810"
+      ],
+      "page": 588,
+      "verdict": "project-based"
+    },
+    {
+      "courseIds": [
+        "ARCH-4020",
+        "CIVL-4020"
+      ],
+      "page": 616,
+      "verdict": "project-based"
+    }
+  ]
+}
