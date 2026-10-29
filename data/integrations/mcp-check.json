@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-28T23:18:09.891Z",
+  "checkedAt": "2026-10-29T22:51:16.049Z",
   "status": "connected",
   "transport": "stdio",
   "server": {
@@ -8,6 +8,7 @@
   },
   "officialDocumentRead": "components/sheet.md",
   "projectContextRead": true,
+  "skillPath": ".agents/skills/shadcn-svelte/SKILL.md",
   "pathTraversalRejected": true,
   "tools": [
     "list_docs",

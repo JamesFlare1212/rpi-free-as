@@ -1,0 +1,4132 @@
+{
+  "checkedAt": "2026-10-29",
+  "reviewedCourses": 1009,
+  "changedCourses": 446,
+  "withEvidence": 554,
+  "syllabusClauseReviewedCourses": 468,
+  "currentTermExamPoliciesConfirmed": 0,
+  "verdictCounts": {
+    "conflicting": 4,
+    "coursework-based": 69,
+    "final-project": 3,
+    "has-exams": 279,
+    "no-exams": 32,
+    "no-final": 5,
+    "online": 1,
+    "project-based": 131,
+    "scheduled-final": 13,
+    "section-dependent": 10,
+    "take-home": 7,
+    "unknown": 455
+  },
+  "method": "Course-by-course classification from reviewed assessment clauses, existing curated sources, title/program matching and section-specific applicability. Missing or unmatched evidence stays unknown. Syllabus files remain background support.",
+  "changes": [
+    {
+      "id": "ARCH-2370",
+      "title": "Energy, Comfort & Ecology",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-17711"
+      ]
+    },
+    {
+      "id": "ARCH-2530",
+      "title": "Digital Constructs 2",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17710"
+      ]
+    },
+    {
+      "id": "ARCH-4325",
+      "title": "Building Integration 2 - Prtc",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17699"
+      ]
+    },
+    {
+      "id": "ARCH-4830",
+      "title": "Integrated Design Development Studio",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17687"
+      ]
+    },
+    {
+      "id": "ARCH-4850",
+      "title": "Architectural Acoustics 2",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17686"
+      ]
+    },
+    {
+      "id": "ARCH-4880",
+      "title": "Aural Architecture",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-11466"
+      ]
+    },
+    {
+      "id": "ARCH-5325",
+      "title": "Building Integration 2 - Prtc",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17673"
+      ]
+    },
+    {
+      "id": "ARCH-6830",
+      "title": "Graduate Thesis Seminar:acoustics",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17663"
+      ]
+    },
+    {
+      "id": "ARCH-6880",
+      "title": "Sonics Research Lab 2",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17662"
+      ]
+    },
+    {
+      "id": "ARCH-6890",
+      "title": "Aural Architecture",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17661"
+      ]
+    },
+    {
+      "id": "ARCH-6900",
+      "title": "Graduate Thesis Smr:lighting",
+      "before": "unknown",
+      "after": "section-dependent",
+      "evidenceIds": [
+        "aefis-17660"
+      ]
+    },
+    {
+      "id": "ARCH-6920",
+      "title": "Doctoral Seminar 2",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17659"
+      ]
+    },
+    {
+      "id": "ARTS-1030",
+      "title": "Digital Filmmaking",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19158"
+      ]
+    },
+    {
+      "id": "ARTS-1200",
+      "title": "Basic Drawing",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-19155"
+      ]
+    },
+    {
+      "id": "ARTS-1220",
+      "title": "Fundamentals Of 2d Design",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17651"
+      ]
+    },
+    {
+      "id": "ARTS-1380",
+      "title": "Fundamentals Of Music & Sound",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-14536"
+      ]
+    },
+    {
+      "id": "ARTS-2060",
+      "title": "2d Experimental Animation",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-17649"
+      ]
+    },
+    {
+      "id": "ARTS-2090",
+      "title": "Radical Graphics Screenprnt",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17647"
+      ]
+    },
+    {
+      "id": "ARTS-2230",
+      "title": "3d Digital Modeling",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-19147"
+      ]
+    },
+    {
+      "id": "ARTS-2255",
+      "title": "Ui Art",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17373"
+      ]
+    },
+    {
+      "id": "ARTS-2300",
+      "title": "Rensselaer Orchestra",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-19146"
+      ]
+    },
+    {
+      "id": "ARTS-2310",
+      "title": "Rensselaer Concert Choir",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-19145"
+      ]
+    },
+    {
+      "id": "ARTS-2340",
+      "title": "Wind Symphony",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-19144"
+      ]
+    },
+    {
+      "id": "ARTS-2700",
+      "title": "Sound Recording & Prod I",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19137"
+      ]
+    },
+    {
+      "id": "ARTS-4050",
+      "title": "Adv Video Media Studio",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17611"
+      ]
+    },
+    {
+      "id": "ARTS-4060",
+      "title": "3d Visual Effects",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17610"
+      ]
+    },
+    {
+      "id": "ARTS-4070",
+      "title": "3d Animation",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17609"
+      ]
+    },
+    {
+      "id": "ARTS-4115",
+      "title": "Environment Art",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-17608"
+      ]
+    },
+    {
+      "id": "ARTS-4160",
+      "title": "Music And Technology II",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17605"
+      ]
+    },
+    {
+      "id": "ARTS-4200",
+      "title": "Advanced Drawing",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17604"
+      ]
+    },
+    {
+      "id": "ARTS-4260",
+      "title": "Life Drawing And Anatomy For A",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-19120"
+      ]
+    },
+    {
+      "id": "ARTS-4380",
+      "title": "Music And Sound II",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-19118"
+      ]
+    },
+    {
+      "id": "ARTS-4700",
+      "title": "Sound Recording & Prod II",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17600"
+      ]
+    },
+    {
+      "id": "ARTS-4920",
+      "title": "Painting 2",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17596"
+      ]
+    },
+    {
+      "id": "ARTS-6260",
+      "title": "Life Drawing And Anatomy For Artists",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-11372"
+      ]
+    },
+    {
+      "id": "ARTS-6920",
+      "title": "Painting 2",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17588"
+      ]
+    },
+    {
+      "id": "ASTR-1520",
+      "title": "Stars, Galaxies And The Cosmos",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19027"
+      ]
+    },
+    {
+      "id": "ASTR-4240",
+      "title": "General Relativity",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17585"
+      ]
+    },
+    {
+      "id": "BCBP-4310",
+      "title": "Genetic Engineering",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17581"
+      ]
+    },
+    {
+      "id": "BCBP-4550",
+      "title": "Molecular Modeling",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17580"
+      ]
+    },
+    {
+      "id": "BCBP-4660",
+      "title": "The Biology Of Systems",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17578"
+      ]
+    },
+    {
+      "id": "BCBP-4710",
+      "title": "Biochemistry Lab",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17576"
+      ]
+    },
+    {
+      "id": "BCBP-4770",
+      "title": "Molecular Biochem II",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17575"
+      ]
+    },
+    {
+      "id": "BCBP-6240",
+      "title": "Topics In Circadian Biology",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-13004"
+      ]
+    },
+    {
+      "id": "BCBP-6310",
+      "title": "Genetic Engineering",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17574"
+      ]
+    },
+    {
+      "id": "BCBP-6420",
+      "title": "Molecular Modeling",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17573"
+      ]
+    },
+    {
+      "id": "BCBP-6650",
+      "title": "The Biology Of Systems",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-14465"
+      ]
+    },
+    {
+      "id": "BIOL-1010",
+      "title": "Introduction To Biology",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19097"
+      ]
+    },
+    {
+      "id": "BIOL-1015",
+      "title": "Introduction To Biology Laboratory",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19093"
+      ]
+    },
+    {
+      "id": "BIOL-2120",
+      "title": "Intro To Cell & Molec Biology",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-biol-2120-tba",
+        "aefis-19090"
+      ]
+    },
+    {
+      "id": "BIOL-2125",
+      "title": "Intro Cell & Molec Biol Lab",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-19087"
+      ]
+    },
+    {
+      "id": "BIOL-4130",
+      "title": "Biomedical Research",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17550"
+      ]
+    },
+    {
+      "id": "BIOL-4140",
+      "title": "Cytoskeletal Biology",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17549"
+      ]
+    },
+    {
+      "id": "BIOL-4150",
+      "title": "Cellular Neuroscience",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-3311"
+      ]
+    },
+    {
+      "id": "BIOL-4200",
+      "title": "Biostatistics",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-19081"
+      ]
+    },
+    {
+      "id": "BIOL-4220",
+      "title": "Machine Learning For Environmental Biology",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-16113"
+      ]
+    },
+    {
+      "id": "BIOL-4240",
+      "title": "Topics In Circadian Biology",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-14394"
+      ]
+    },
+    {
+      "id": "BIOL-4250",
+      "title": "Developmental Biology",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17545"
+      ]
+    },
+    {
+      "id": "BIOL-4550",
+      "title": "Molecular Modeling",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17543"
+      ]
+    },
+    {
+      "id": "BIOL-4620",
+      "title": "Molecular Biology",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17542"
+      ]
+    },
+    {
+      "id": "BIOL-4660",
+      "title": "The Biology Of Systems",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17541"
+      ]
+    },
+    {
+      "id": "BIOL-4710",
+      "title": "Biochemistry Lab",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17539"
+      ]
+    },
+    {
+      "id": "BIOL-4770",
+      "title": "Molecular Biochem II",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17538"
+      ]
+    },
+    {
+      "id": "BIOL-4850",
+      "title": "Principles Of Ecology",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17895"
+      ]
+    },
+    {
+      "id": "BIOL-6140",
+      "title": "Cytoskeletal Biology",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-19068"
+      ]
+    },
+    {
+      "id": "BIOL-6150",
+      "title": "Cellular Neuroscience",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-3312"
+      ]
+    },
+    {
+      "id": "BIOL-6220",
+      "title": "Machine Learning For Environmental Biology",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17391"
+      ]
+    },
+    {
+      "id": "BIOL-6240",
+      "title": "Topics In Circadian Biology",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-12963"
+      ]
+    },
+    {
+      "id": "BIOL-6310",
+      "title": "Microbiology",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17890"
+      ]
+    },
+    {
+      "id": "BIOL-6420",
+      "title": "Molecular Modeling",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17889"
+      ]
+    },
+    {
+      "id": "BIOL-6520",
+      "title": "Biology Core Course II",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-17888"
+      ]
+    },
+    {
+      "id": "BIOL-6550",
+      "title": "Ethical Issues In Biotechnology",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17887"
+      ]
+    },
+    {
+      "id": "BIOL-6650",
+      "title": "The Biology Of Systems",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17886"
+      ]
+    },
+    {
+      "id": "BMED-2050",
+      "title": "Programming For Biomed Engr",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-bmed-2050-tba",
+        "aefis-19058"
+      ]
+    },
+    {
+      "id": "BMED-2100",
+      "title": "Biomaterials Sci & Engineering",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-bmed-2100-tba",
+        "aefis-19057"
+      ]
+    },
+    {
+      "id": "BMED-2300",
+      "title": "Bioimaging/ Bioinstrumentation",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19056"
+      ]
+    },
+    {
+      "id": "BMED-2540",
+      "title": "Biomechanics",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-bmed-2540-tba",
+        "aefis-19055"
+      ]
+    },
+    {
+      "id": "BMED-4010",
+      "title": "Biomedical Engineering Lab",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19052"
+      ]
+    },
+    {
+      "id": "BMED-4200",
+      "title": "Modeling Of Biomedical Systems",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-bmed-4200-tba",
+        "aefis-19051"
+      ]
+    },
+    {
+      "id": "BMED-4250",
+      "title": "Biomed Transport Phenomena",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-bmed-4250-tba",
+        "aefis-19050"
+      ]
+    },
+    {
+      "id": "BMED-4260",
+      "title": "Biomedical Product Development & Commercialization",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-19048"
+      ]
+    },
+    {
+      "id": "BMED-4410",
+      "title": "Biomems",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17868"
+      ]
+    },
+    {
+      "id": "BMED-4440",
+      "title": "Biophotonics",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17867"
+      ]
+    },
+    {
+      "id": "BMED-4460",
+      "title": "Biological Image Analysis",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17866"
+      ]
+    },
+    {
+      "id": "BMED-4480",
+      "title": "Biomedical Data Science",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17865"
+      ]
+    },
+    {
+      "id": "BMED-4490",
+      "title": "Ai For Biomedical Applications",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17864"
+      ]
+    },
+    {
+      "id": "BMED-4600",
+      "title": "Biomedical Engr Design",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-19399"
+      ]
+    },
+    {
+      "id": "BMED-4650",
+      "title": "Intro To Cell And Tissue Eng",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17860"
+      ]
+    },
+    {
+      "id": "BMED-4670",
+      "title": "The Biology Of Systems",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18806"
+      ]
+    },
+    {
+      "id": "BMED-6410",
+      "title": "Biomems",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17857"
+      ]
+    },
+    {
+      "id": "BMED-6440",
+      "title": "Biophotonics",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17856"
+      ]
+    },
+    {
+      "id": "BMED-6460",
+      "title": "Biological Image Analysis",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17855"
+      ]
+    },
+    {
+      "id": "BMED-6480",
+      "title": "Biomedical Data Science",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17854"
+      ]
+    },
+    {
+      "id": "BMED-6490",
+      "title": "Ai For Biomedical Applications",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17853"
+      ]
+    },
+    {
+      "id": "BMED-6650",
+      "title": "Intro To Cell And Tissue Engr",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-14748"
+      ]
+    },
+    {
+      "id": "BMED-6670",
+      "title": "The Biology Of Systems",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17852"
+      ]
+    },
+    {
+      "id": "BMED-6700",
+      "title": "Ethical Issues In Biotechnology",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17851"
+      ]
+    },
+    {
+      "id": "CHME-1100",
+      "title": "Fundmtls Of Chemical Engr",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17791"
+      ]
+    },
+    {
+      "id": "CHME-2020",
+      "title": "Energy, Entropy, & Equilibrium",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17789"
+      ]
+    },
+    {
+      "id": "CHME-2100",
+      "title": "Chemical Process Safety",
+      "before": "unknown",
+      "after": "no-exams",
+      "evidenceIds": [
+        "aefis-19318"
+      ]
+    },
+    {
+      "id": "CHME-4011",
+      "title": "Semiconductor Electrochemistry",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17785"
+      ]
+    },
+    {
+      "id": "CHME-4020",
+      "title": "Transport Phenomena II",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-chme-4020-tba",
+        "aefis-19316"
+      ]
+    },
+    {
+      "id": "CHME-4040",
+      "title": "Chemical Eng Separations",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17783"
+      ]
+    },
+    {
+      "id": "CHME-4160",
+      "title": "Chem Engr Lab II",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-17779"
+      ]
+    },
+    {
+      "id": "CHME-4170",
+      "title": "Biotechnol & Bioprocessing Lab",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-17777"
+      ]
+    },
+    {
+      "id": "CHME-4500",
+      "title": "Chemical Reactor Design",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19307"
+      ]
+    },
+    {
+      "id": "CHME-4610",
+      "title": "Polymer Procss & Plstc Tech",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-15974"
+      ]
+    },
+    {
+      "id": "CHME-6011",
+      "title": "Semiconductor Electrochemistry",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17773"
+      ]
+    },
+    {
+      "id": "CHME-6510",
+      "title": "Adv Transport Phenomena I",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-14661"
+      ]
+    },
+    {
+      "id": "CHEM-1100",
+      "title": "Principles Of Chemistry I",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-chem-1100-tba",
+        "aefis-19367"
+      ]
+    },
+    {
+      "id": "CHEM-1200",
+      "title": "Chemistry II",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17828"
+      ]
+    },
+    {
+      "id": "CHEM-1220",
+      "title": "Chemistry II Honors",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17827"
+      ]
+    },
+    {
+      "id": "CHEM-1600",
+      "title": "Materials Science",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-chem-1600-tba",
+        "aefis-19360"
+      ]
+    },
+    {
+      "id": "CHEM-2030",
+      "title": "Inorganic Chemistry I",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17822"
+      ]
+    },
+    {
+      "id": "CHEM-2240",
+      "title": "Organic Chemistry Lab II",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-17817"
+      ]
+    },
+    {
+      "id": "CHEM-2260",
+      "title": "Organic Chemistry II",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17816"
+      ]
+    },
+    {
+      "id": "CHEM-2540",
+      "title": "Intro To Geochemistry",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17814"
+      ]
+    },
+    {
+      "id": "CHEM-4200",
+      "title": "Industrial Chemistry",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17810"
+      ]
+    },
+    {
+      "id": "CHEM-4420",
+      "title": "Microscopic Physical Chemistry",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19343"
+      ]
+    },
+    {
+      "id": "CHEM-4770",
+      "title": "Molecular Biochem II",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17805"
+      ]
+    },
+    {
+      "id": "CHEM-4930",
+      "title": "Chemistry Teaching Practicum",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-19330"
+      ]
+    },
+    {
+      "id": "CHEM-6130",
+      "title": "Mass Spectrometry",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-13234"
+      ]
+    },
+    {
+      "id": "CIVL-1300",
+      "title": "Beg Program Civl & Envir Engr",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17766"
+      ]
+    },
+    {
+      "id": "CIVL-2030",
+      "title": "Intro Transportation Engineeri",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17765"
+      ]
+    },
+    {
+      "id": "CIVL-2060",
+      "title": "Intro Water Resource Eng",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17762"
+      ]
+    },
+    {
+      "id": "CIVL-2670",
+      "title": "Intro To Structural Eng",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17751"
+      ]
+    },
+    {
+      "id": "CIVL-4010",
+      "title": "Foundation Engineering",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19292"
+      ]
+    },
+    {
+      "id": "CIVL-4080",
+      "title": "Concrete Design",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17745"
+      ]
+    },
+    {
+      "id": "CIVL-4240",
+      "title": "Finite Elements Method",
+      "before": "scheduled-final",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "f26-registrar-civl-4240-tba",
+        "aefis-11892"
+      ]
+    },
+    {
+      "id": "CIVL-4270",
+      "title": "Construction Management",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17742"
+      ]
+    },
+    {
+      "id": "CIVL-4440",
+      "title": "Matrix Structural Analysis",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17741"
+      ]
+    },
+    {
+      "id": "CIVL-4570",
+      "title": "System Modeling For Civl & Env",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17738"
+      ]
+    },
+    {
+      "id": "CIVL-4660",
+      "title": "Traffic Engineering",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17736"
+      ]
+    },
+    {
+      "id": "CIVL-4920",
+      "title": "Civil Engineering Capstone Design",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17735"
+      ]
+    },
+    {
+      "id": "CIVL-6320",
+      "title": "Adv Steel Design",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17734"
+      ]
+    },
+    {
+      "id": "CIVL-6340",
+      "title": "Bedford Design Studio",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-19282"
+      ]
+    },
+    {
+      "id": "CIVL-6480",
+      "title": "Designing With Geosyn",
+      "before": "unknown",
+      "after": "take-home",
+      "evidenceIds": [
+        "aefis-14977"
+      ]
+    },
+    {
+      "id": "COGS-2120",
+      "title": "Intro To Cognitive Science",
+      "before": "project-based",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "cogs-2019",
+        "cogs-s13",
+        "aefis-19272"
+      ]
+    },
+    {
+      "id": "COGS-2340",
+      "title": "Introduction To Linguistics",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-cogs-2340-tba",
+        "aefis-19271"
+      ]
+    },
+    {
+      "id": "COGS-4210",
+      "title": "Cognitive Modeling",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17726"
+      ]
+    },
+    {
+      "id": "COGS-4220",
+      "title": "Animal Cog Int Humans",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-14968"
+      ]
+    },
+    {
+      "id": "COGS-4330",
+      "title": "Introduction To Cognitive  Neuroscience",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19267"
+      ]
+    },
+    {
+      "id": "COGS-4360",
+      "title": "Behavioral Neuroscience",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17724"
+      ]
+    },
+    {
+      "id": "COGS-4540",
+      "title": "Social Computing",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-17723"
+      ]
+    },
+    {
+      "id": "COGS-4610",
+      "title": "Stress And The Brain",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17721"
+      ]
+    },
+    {
+      "id": "COGS-4640",
+      "title": "Intelligent Virtual Agents",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-14962"
+      ]
+    },
+    {
+      "id": "COGS-4880",
+      "title": "Language-endowed Intel Agents",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17720"
+      ]
+    },
+    {
+      "id": "COGS-6210",
+      "title": "Cognitive Modeling I",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18075"
+      ]
+    },
+    {
+      "id": "COGS-6540",
+      "title": "Social Computing",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-18073"
+      ]
+    },
+    {
+      "id": "COGS-6800",
+      "title": "Research Problems In Cog Sci",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-19259"
+      ]
+    },
+    {
+      "id": "COGS-6880",
+      "title": "Language-endowed Intel Agents",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-3634"
+      ]
+    },
+    {
+      "id": "COMM-2440",
+      "title": "Documentary Film",
+      "before": "unknown",
+      "after": "take-home",
+      "evidenceIds": [
+        "aefis-19256"
+      ]
+    },
+    {
+      "id": "COMM-2570",
+      "title": "Typography",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-19254"
+      ]
+    },
+    {
+      "id": "COMM-4470",
+      "title": "Information Design",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18057"
+      ]
+    },
+    {
+      "id": "COMM-4567",
+      "title": "Adaptations In Games & Media",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18056"
+      ]
+    },
+    {
+      "id": "COMM-4690",
+      "title": "Interface Design:hypermedia Theory And Application",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18054"
+      ]
+    },
+    {
+      "id": "COMM-4897",
+      "title": "Social Media & Society",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-19248"
+      ]
+    },
+    {
+      "id": "COMM-6897",
+      "title": "Social Media & Society",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-20299"
+      ]
+    },
+    {
+      "id": "CSCI-1100",
+      "title": "Computer Science I",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-csci-1100-tba",
+        "aefis-19233"
+      ]
+    },
+    {
+      "id": "CSCI-1700",
+      "title": "Early Introduction To Rcos",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-19226"
+      ]
+    },
+    {
+      "id": "CSCI-2200",
+      "title": "Foundations Of Computer Sci",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-csci-2200-tba",
+        "aefis-19582"
+      ]
+    },
+    {
+      "id": "CSCI-2210",
+      "title": "Math Fndtns Of Machine Lrning",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-csci-2210-tba",
+        "aefis-19581"
+      ]
+    },
+    {
+      "id": "CSCI-2300",
+      "title": "Introduction To Algorithms",
+      "before": "online",
+      "after": "conflicting",
+      "evidenceIds": [
+        "algo-s21",
+        "f26-registrar-csci-2300-tba",
+        "aefis-16580"
+      ]
+    },
+    {
+      "id": "CSCI-2600",
+      "title": "Principles Of Software",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-csci-2600-tba",
+        "aefis-19574"
+      ]
+    },
+    {
+      "id": "CSCI-2700",
+      "title": "Introduction To Rcos",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-19573"
+      ]
+    },
+    {
+      "id": "CSCI-4050",
+      "title": "Theory Of Computation",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-14866"
+      ]
+    },
+    {
+      "id": "CSCI-4170",
+      "title": "Projects In Ai & Machine Lrng",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17998"
+      ]
+    },
+    {
+      "id": "CSCI-4190",
+      "title": "Decentralized Ai",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-17997"
+      ]
+    },
+    {
+      "id": "CSCI-4380",
+      "title": "Database Systems",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-csci-4380-tba",
+        "aefis-19554"
+      ]
+    },
+    {
+      "id": "CSCI-4400",
+      "title": "Xinformatics",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-17988"
+      ]
+    },
+    {
+      "id": "CSCI-4460",
+      "title": "Large Scale Program & Testing",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-13431"
+      ]
+    },
+    {
+      "id": "CSCI-4480",
+      "title": "Manipulator Kinematics & Dynmc",
+      "before": "final-project",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-csci-4480-final-project",
+        "aefis-19549"
+      ]
+    },
+    {
+      "id": "CSCI-4510",
+      "title": "Dist Systems & Algorithms",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-17985"
+      ]
+    },
+    {
+      "id": "CSCI-4520",
+      "title": "Web Science Systems Develpment",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-17984"
+      ]
+    },
+    {
+      "id": "CSCI-4545",
+      "title": "Social Computing",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-17982"
+      ]
+    },
+    {
+      "id": "CSCI-4550",
+      "title": "Interactive Visualization",
+      "before": "project-based",
+      "after": "has-exams",
+      "evidenceIds": [
+        "vis-s24",
+        "aefis-4002"
+      ]
+    },
+    {
+      "id": "CSCI-4710",
+      "title": "Rcos Senior Project Leader",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-19545"
+      ]
+    },
+    {
+      "id": "CSCI-4800",
+      "title": "Numerical Computing",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-csci-4800-tba",
+        "aefis-19543"
+      ]
+    },
+    {
+      "id": "CSCI-6170",
+      "title": "Projects In Ai & Machine Lrng",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17969"
+      ]
+    },
+    {
+      "id": "CSCI-6190",
+      "title": "Decentralized Ai",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-17968"
+      ]
+    },
+    {
+      "id": "CSCI-6400",
+      "title": "Xinformatics",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-17963"
+      ]
+    },
+    {
+      "id": "CSCI-6460",
+      "title": "Large Scale Program & Testing",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-13404"
+      ]
+    },
+    {
+      "id": "CSCI-6510",
+      "title": "Distributed Algorithms And Systems",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-17962"
+      ]
+    },
+    {
+      "id": "CSCI-6840",
+      "title": "Num Solution Of Par Diff Eq",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-14826"
+      ]
+    },
+    {
+      "id": "ENGR-1010",
+      "title": "Prof Develop: Group Dynamics",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-19424"
+      ]
+    },
+    {
+      "id": "ENGR-1100",
+      "title": "Intro To Engr Analysis",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-engr-1100-tba",
+        "aefis-19422"
+      ]
+    },
+    {
+      "id": "ENGR-1200",
+      "title": "Eng Graphics & Cad",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-19414"
+      ]
+    },
+    {
+      "id": "ENGR-1300",
+      "title": "Engr Processes",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19406"
+      ]
+    },
+    {
+      "id": "ENGR-1400",
+      "title": "Engineering Communications",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-19762"
+      ]
+    },
+    {
+      "id": "ENGR-2090",
+      "title": "Engineering Dynamics",
+      "before": "scheduled-final",
+      "after": "section-dependent",
+      "evidenceIds": [
+        "f26-registrar-engr-2090-tba",
+        "aefis-19743"
+      ]
+    },
+    {
+      "id": "ENGR-2300",
+      "title": "Electronic Instrumentation",
+      "before": "scheduled-final",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "f26-registrar-engr-2300-tba",
+        "aefis-19741"
+      ]
+    },
+    {
+      "id": "ENGR-2350",
+      "title": "Embedded Control",
+      "before": "no-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "embedded-s26",
+        "aefis-19739"
+      ]
+    },
+    {
+      "id": "ENGR-2530",
+      "title": "Strength Of Materials",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-engr-2530-tba",
+        "aefis-19738"
+      ]
+    },
+    {
+      "id": "ENGR-2700",
+      "title": "Prod And Operations Mgmt",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18165"
+      ]
+    },
+    {
+      "id": "ENGR-2710",
+      "title": "Gen Manufacturing Proc",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18164"
+      ]
+    },
+    {
+      "id": "ENGR-4760",
+      "title": "Engineering Economics",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19716"
+      ]
+    },
+    {
+      "id": "ERTH-1200",
+      "title": "Geology II: Earth's Surface",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-18128"
+      ]
+    },
+    {
+      "id": "ERTH-2100",
+      "title": "Intro Geophysics",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-15343"
+      ]
+    },
+    {
+      "id": "ERTH-2140",
+      "title": "Intro To Geochemistry",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18123"
+      ]
+    },
+    {
+      "id": "ERTH-2610",
+      "title": "Oceanography",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-15341"
+      ]
+    },
+    {
+      "id": "ERTH-4400",
+      "title": "Xinformatics",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-18121"
+      ]
+    },
+    {
+      "id": "ERTH-4540",
+      "title": "Organic Geochemistry",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-13538"
+      ]
+    },
+    {
+      "id": "ERTH-4690",
+      "title": "Aqueous Geochemistry",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-3704"
+      ]
+    },
+    {
+      "id": "ERTH-6545",
+      "title": "Organic Geochemistry",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-13536"
+      ]
+    },
+    {
+      "id": "ECON-2010",
+      "title": "Intermediate Microeconomic Theory",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-econ-2010-tba",
+        "aefis-19510"
+      ]
+    },
+    {
+      "id": "ECON-2020",
+      "title": "Intermediate Macroeconomic Theory",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19508"
+      ]
+    },
+    {
+      "id": "ECON-2100",
+      "title": "Econ Data Analysis & Applic.",
+      "before": "final-project",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-econ-2100-final-project",
+        "aefis-19506"
+      ]
+    },
+    {
+      "id": "ECON-4170",
+      "title": "Health Economics And Policy",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19503"
+      ]
+    },
+    {
+      "id": "ECON-4220",
+      "title": "Applied Game Theory",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19501"
+      ]
+    },
+    {
+      "id": "ECON-4230",
+      "title": "Environmental Economics",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17942"
+      ]
+    },
+    {
+      "id": "ECON-4270",
+      "title": "Behavioral Economics",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-16510"
+      ]
+    },
+    {
+      "id": "ECON-4290",
+      "title": "Econ Of Biotech & Med Innov",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19498"
+      ]
+    },
+    {
+      "id": "ECON-4310",
+      "title": "Law & Economics",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17936"
+      ]
+    },
+    {
+      "id": "ECON-4380",
+      "title": "Labor Mrkts & Discrimination",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19495"
+      ]
+    },
+    {
+      "id": "ECON-4390",
+      "title": "Energy Economics & Policy",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19494"
+      ]
+    },
+    {
+      "id": "ECON-4430",
+      "title": "Economics Of Growth & Innov",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-15155"
+      ]
+    },
+    {
+      "id": "ECON-6130",
+      "title": "Econ Of Growth & Innovation",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-15150"
+      ]
+    },
+    {
+      "id": "ECON-6170",
+      "title": "Health Economics And Policy",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19490"
+      ]
+    },
+    {
+      "id": "ECON-6220",
+      "title": "Applied Game Theory",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-20318"
+      ]
+    },
+    {
+      "id": "ECON-6270",
+      "title": "Behavioral Economics",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-13358"
+      ]
+    },
+    {
+      "id": "ECON-6290",
+      "title": "Econ Of Biotech & Med Innov",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17927"
+      ]
+    },
+    {
+      "id": "ECSE-1010",
+      "title": "Introduction To Ecse",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-19484"
+      ]
+    },
+    {
+      "id": "ECSE-2010",
+      "title": "Electric Circuits",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-ecse-2010-tba",
+        "aefis-19481"
+      ]
+    },
+    {
+      "id": "ECSE-2050",
+      "title": "Introduction To Electronics",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-ecse-2050-tba",
+        "aefis-19478"
+      ]
+    },
+    {
+      "id": "ECSE-2100",
+      "title": "Fields And Waves I",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-ecse-2100-tba",
+        "aefis-19476"
+      ]
+    },
+    {
+      "id": "ECSE-2110",
+      "title": "Electrical Energy Systems",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-ecse-2110-tba",
+        "aefis-19475"
+      ]
+    },
+    {
+      "id": "ECSE-2210",
+      "title": "Microelectronics Technology",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-ecse-2210-tba",
+        "aefis-17912"
+      ]
+    },
+    {
+      "id": "ECSE-2410",
+      "title": "Signals And Systems",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19473"
+      ]
+    },
+    {
+      "id": "ECSE-2500",
+      "title": "Engineering Probability",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-ecse-2500-tba",
+        "aefis-19472"
+      ]
+    },
+    {
+      "id": "ECSE-2660",
+      "title": "Comp Architecture & Networks",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-ecse-2660-tba",
+        "aefis-16474"
+      ]
+    },
+    {
+      "id": "ECSE-2900",
+      "title": "Ecse Enrichment Seminar",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-19468"
+      ]
+    },
+    {
+      "id": "ECSE-4040",
+      "title": "Digital Electronics",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17905"
+      ]
+    },
+    {
+      "id": "ECSE-4050",
+      "title": "Advanced Electronic Circuits",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17904"
+      ]
+    },
+    {
+      "id": "ECSE-4090",
+      "title": "Mechatronics",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19466"
+      ]
+    },
+    {
+      "id": "ECSE-4141",
+      "title": "Renewable Power Generation",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17901"
+      ]
+    },
+    {
+      "id": "ECSE-4170",
+      "title": "Mod & Sim For Cyber-phys Sys",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-16469"
+      ]
+    },
+    {
+      "id": "ECSE-4210",
+      "title": "Advanced Device Concepts",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17900"
+      ]
+    },
+    {
+      "id": "ECSE-4220",
+      "title": "Vlsi Design",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-ecse-4220-tba",
+        "aefis-19464"
+      ]
+    },
+    {
+      "id": "ECSE-4480",
+      "title": "Manipulator Kinematics & Dynmc",
+      "before": "final-project",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-ecse-4480-final-project",
+        "aefis-19460"
+      ]
+    },
+    {
+      "id": "ECSE-4490",
+      "title": "Mobile Robotics & Planning",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-17896"
+      ]
+    },
+    {
+      "id": "ECSE-4660",
+      "title": "Internetworking Of Things",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18258"
+      ]
+    },
+    {
+      "id": "ECSE-6050",
+      "title": "Advanced Electronic Circuits",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18245"
+      ]
+    },
+    {
+      "id": "ECSE-6140",
+      "title": "Power Generation Operation And Control",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-16808"
+      ]
+    },
+    {
+      "id": "ECSE-6141",
+      "title": "Renewable Power Generation",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18244"
+      ]
+    },
+    {
+      "id": "ECSE-6170",
+      "title": "Mod & Sim For Cyber-phys Sys",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-16807"
+      ]
+    },
+    {
+      "id": "ECSE-6210",
+      "title": "Advanced Device Concepts",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18242"
+      ]
+    },
+    {
+      "id": "ECSE-6300",
+      "title": "Ic Fabrication Lab",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-18240"
+      ]
+    },
+    {
+      "id": "ECSE-6420",
+      "title": "Nonlinear Control Systems",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-3230"
+      ]
+    },
+    {
+      "id": "ECSE-6470",
+      "title": "Manipulator Kinematics & Dynmc",
+      "before": "final-project",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-ecse-6470-final-project",
+        "aefis-19436"
+      ]
+    },
+    {
+      "id": "ECSE-6490",
+      "title": "Mobile Robotics & Planning",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18236"
+      ]
+    },
+    {
+      "id": "ECSE-6660",
+      "title": "Internetworking Of Things",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18234"
+      ]
+    },
+    {
+      "id": "ENVE-4180",
+      "title": "Environmental Process Design",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18137"
+      ]
+    },
+    {
+      "id": "ENVE-4200",
+      "title": "Solid & Hazardous Waste",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18136"
+      ]
+    },
+    {
+      "id": "ENVE-4320",
+      "title": "Env Chemodynamics",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18135"
+      ]
+    },
+    {
+      "id": "ENVE-4340",
+      "title": "Physicochemical Proc In Enve",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18134"
+      ]
+    },
+    {
+      "id": "GSAS-1600",
+      "title": "History And Culture Of Games",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19672"
+      ]
+    },
+    {
+      "id": "GSAS-2255",
+      "title": "Ui Art",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17421"
+      ]
+    },
+    {
+      "id": "GSAS-4115",
+      "title": "Environment Art",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-18111"
+      ]
+    },
+    {
+      "id": "GSAS-4510",
+      "title": "Experimental Game Design",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-19658"
+      ]
+    },
+    {
+      "id": "GSAS-4540",
+      "title": "Game Development II",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18106"
+      ]
+    },
+    {
+      "id": "GSAS-4550",
+      "title": "Game Architecture",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-18105"
+      ]
+    },
+    {
+      "id": "GSAS-6400",
+      "title": "Critical Game Design",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-13517"
+      ]
+    },
+    {
+      "id": "INQR-1040",
+      "title": "Documentary In 21st Century",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-16643"
+      ]
+    },
+    {
+      "id": "INQR-1100",
+      "title": "Science, Tech, & Society",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-19633"
+      ]
+    },
+    {
+      "id": "INQR-1130",
+      "title": "Philosophy, Tech, & Human Futr",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-15307"
+      ]
+    },
+    {
+      "id": "INQR-1165",
+      "title": "Great Ideas In Philosophy",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18083"
+      ]
+    },
+    {
+      "id": "INQR-1200",
+      "title": "Principles Of Economics",
+      "before": "online",
+      "after": "section-dependent",
+      "evidenceIds": [
+        "greene-online-2025",
+        "f26-registrar-inqr-1200-final-project",
+        "f26-registrar-inqr-1200-tba",
+        "rmp-2026-greene",
+        "aefis-19626",
+        "aefis-18080"
+      ]
+    },
+    {
+      "id": "ISYE-4140",
+      "title": "Statistical Analysis",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18421"
+      ]
+    },
+    {
+      "id": "ISYE-4270",
+      "title": "Mulitdisciplinary Capstone Design",
+      "before": "scheduled-final",
+      "after": "section-dependent",
+      "evidenceIds": [
+        "f26-registrar-isye-4270-tba"
+      ]
+    },
+    {
+      "id": "ISYE-4330",
+      "title": "Design Of Experiments",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18413"
+      ]
+    },
+    {
+      "id": "ISYE-4350",
+      "title": "Systems Eng & Social Media",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18412"
+      ]
+    },
+    {
+      "id": "ISYE-4370",
+      "title": "Engineering Data Analytics",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18411"
+      ]
+    },
+    {
+      "id": "ISYE-4500",
+      "title": "Stochastic Mthd In Op Rsrch",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18410"
+      ]
+    },
+    {
+      "id": "ISYE-6020",
+      "title": "Design Of Experiments",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18408"
+      ]
+    },
+    {
+      "id": "ISYE-6350",
+      "title": "Syst Engineer & Social Media",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18407"
+      ]
+    },
+    {
+      "id": "ISYE-6370",
+      "title": "Engineering Data Analytics",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18406"
+      ]
+    },
+    {
+      "id": "ISYE-6620",
+      "title": "Discrete Event Simulation",
+      "before": "no-exams",
+      "after": "section-dependent",
+      "evidenceIds": [
+        "atwork-isye-6620",
+        "aefis-18403"
+      ]
+    },
+    {
+      "id": "ITWS-1100",
+      "title": "Intro To It & Web Science",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-19943"
+      ]
+    },
+    {
+      "id": "ITWS-2210",
+      "title": "Introduction To Hci",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18389"
+      ]
+    },
+    {
+      "id": "ITWS-4100",
+      "title": "It & Web Science Capstone",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-19940"
+      ]
+    },
+    {
+      "id": "ITWS-4310",
+      "title": "Managing It Resources",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19938"
+      ]
+    },
+    {
+      "id": "ITWS-4320",
+      "title": "Ethical Informatics",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18386"
+      ]
+    },
+    {
+      "id": "ITWS-4370",
+      "title": "Information System Security",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18385"
+      ]
+    },
+    {
+      "id": "ITWS-4400",
+      "title": "Xinformatics",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-18384"
+      ]
+    },
+    {
+      "id": "ITWS-6370",
+      "title": "Information System Security",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18377"
+      ]
+    },
+    {
+      "id": "ITWS-6400",
+      "title": "Xinformatics",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-18376"
+      ]
+    },
+    {
+      "id": "ITWS-6700",
+      "title": "Software Development",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-15237"
+      ]
+    },
+    {
+      "id": "ITWS-6800",
+      "title": "It  Master's Capstone",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-19926"
+      ]
+    },
+    {
+      "id": "IENV-1910",
+      "title": "Environmental Seminar",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-12231"
+      ]
+    },
+    {
+      "id": "IHSS-1260",
+      "title": "Business Ethics & Law",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19649"
+      ]
+    },
+    {
+      "id": "IHSS-6050",
+      "title": "Qualitative Research Writing",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-17418"
+      ]
+    },
+    {
+      "id": "ISCI-1600",
+      "title": "Materials Science",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-isci-1600-tba",
+        "aefis-19611"
+      ]
+    },
+    {
+      "id": "ISCI-4510",
+      "title": "Rdgs Astrobio & Orig Of Life",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-19610"
+      ]
+    },
+    {
+      "id": "ISCI-6510",
+      "title": "Readings In Astrobiology",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-18425"
+      ]
+    },
+    {
+      "id": "LANG-4455",
+      "title": "Chinese Calligraphy",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-19922"
+      ]
+    },
+    {
+      "id": "LGHT-6230",
+      "title": "Advanced Lighting Design",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18362"
+      ]
+    },
+    {
+      "id": "LITR-4150",
+      "title": "Science And Fiction",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19916"
+      ]
+    },
+    {
+      "id": "LITR-4230",
+      "title": "Irish Literature",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18358"
+      ]
+    },
+    {
+      "id": "MGMT-1100",
+      "title": "Management In The Digital Age",
+      "before": "final-project",
+      "after": "section-dependent",
+      "evidenceIds": [
+        "f26-registrar-mgmt-1100-final-paper",
+        "aefis-20049"
+      ]
+    },
+    {
+      "id": "MGMT-1250",
+      "title": "Management Professional Development II",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18519"
+      ]
+    },
+    {
+      "id": "MGMT-1260",
+      "title": "Business Ethics & Law",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-20044"
+      ]
+    },
+    {
+      "id": "MGMT-2100",
+      "title": "Statistical Methods",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-mgmt-2100-tba",
+        "aefis-20041"
+      ]
+    },
+    {
+      "id": "MGMT-2300",
+      "title": "Financial Acctg In Digital Age",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-mgmt-2300-tba",
+        "aefis-20039"
+      ]
+    },
+    {
+      "id": "MGMT-2320",
+      "title": "Managerial Finance",
+      "before": "online-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-mgmt-2320-remote",
+        "aefis-20037"
+      ]
+    },
+    {
+      "id": "MGMT-2430",
+      "title": "Marketing Principles",
+      "before": "has-exams",
+      "after": "section-dependent",
+      "evidenceIds": [
+        "f26-registrar-mgmt-2430-final-project",
+        "rmp-2026-jain",
+        "aefis-20035"
+      ]
+    },
+    {
+      "id": "MGMT-2510",
+      "title": "Intro To Data Mgmt & Analytics",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-mgmt-2510-tba",
+        "aefis-20033"
+      ]
+    },
+    {
+      "id": "MGMT-4090",
+      "title": "Negotiations",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-18506"
+      ]
+    },
+    {
+      "id": "MGMT-4110",
+      "title": "Operations Management",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-20030"
+      ]
+    },
+    {
+      "id": "MGMT-4140",
+      "title": "Computer Info Systems",
+      "before": "online-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-mgmt-4140-remote",
+        "aefis-20029"
+      ]
+    },
+    {
+      "id": "MGMT-4160",
+      "title": "Appl Analy & Predictive Mod",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-15767"
+      ]
+    },
+    {
+      "id": "MGMT-4170",
+      "title": "Data Resource Management",
+      "before": "online-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-mgmt-4170-remote",
+        "aefis-20027"
+      ]
+    },
+    {
+      "id": "MGMT-4175",
+      "title": "Supply Chain Analytics",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18497"
+      ]
+    },
+    {
+      "id": "MGMT-4190",
+      "title": "Intro To Machine Learning Apps",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-mgmt-4190-tba",
+        "aefis-20024"
+      ]
+    },
+    {
+      "id": "MGMT-4260",
+      "title": "Financial Statement Analysis",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18494"
+      ]
+    },
+    {
+      "id": "MGMT-4340",
+      "title": "Adv Corporate Finance",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18493"
+      ]
+    },
+    {
+      "id": "MGMT-4420",
+      "title": "Student Managed Invest Fund",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-20018"
+      ]
+    },
+    {
+      "id": "MGMT-4450",
+      "title": "Internet Marketing",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18490"
+      ]
+    },
+    {
+      "id": "MGMT-4520",
+      "title": "Intro To Tech Entrepreneurship",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18488"
+      ]
+    },
+    {
+      "id": "MGMT-4540",
+      "title": "Entrepreneurial Finance",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17031"
+      ]
+    },
+    {
+      "id": "MGMT-4550",
+      "title": "Engineering, Sci & Mgmt Semr",
+      "before": "unknown",
+      "after": "no-exams",
+      "evidenceIds": [
+        "aefis-20011"
+      ]
+    },
+    {
+      "id": "MGMT-4800",
+      "title": "Business Ug Internship",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-20009"
+      ]
+    },
+    {
+      "id": "MGMT-4850",
+      "title": "Org Behavior In High Perf Org",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-mgmt-4850-tba",
+        "aefis-20008"
+      ]
+    },
+    {
+      "id": "MGMT-4870",
+      "title": "Strategy And Policy",
+      "before": "final-project",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "f26-registrar-mgmt-4870-final-paper",
+        "f26-registrar-mgmt-4870-tba",
+        "aefis-20004"
+      ]
+    },
+    {
+      "id": "MGMT-6160",
+      "title": "App Analytics & Pred Modeling",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-15711"
+      ]
+    },
+    {
+      "id": "MGMT-6190",
+      "title": "Introduction To Accounting And Financial Management",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19994"
+      ]
+    },
+    {
+      "id": "MGMT-6260",
+      "title": "Entrepreneurial Finance",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17014"
+      ]
+    },
+    {
+      "id": "MGMT-6350",
+      "title": "Supply Chain Analytics",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18472"
+      ]
+    },
+    {
+      "id": "MGMT-6380",
+      "title": "Advanced Corporate Finance",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-13865"
+      ]
+    },
+    {
+      "id": "MGMT-6410",
+      "title": "Quantitative Asset Management",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18471"
+      ]
+    },
+    {
+      "id": "MGMT-6420",
+      "title": "Student Managed Invest Fund",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18470"
+      ]
+    },
+    {
+      "id": "MGMT-6511",
+      "title": "Prac Life Sciences Entreprnshp",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18467"
+      ]
+    },
+    {
+      "id": "MGMT-6565",
+      "title": "Advanced Ai / Ml For Finance",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18464"
+      ]
+    },
+    {
+      "id": "MGMT-6570",
+      "title": "Adv Data Resource Management",
+      "before": "online-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-mgmt-6570-remote",
+        "aefis-19981"
+      ]
+    },
+    {
+      "id": "MGMT-6580",
+      "title": "Marketing High - Tech Prod",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18462"
+      ]
+    },
+    {
+      "id": "MGMT-6620",
+      "title": "Technol Entrepreneurship",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18459"
+      ]
+    },
+    {
+      "id": "MGMT-6690",
+      "title": "Negotiations",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-18457"
+      ]
+    },
+    {
+      "id": "MGMT-6720",
+      "title": "Internet Marketing",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18455"
+      ]
+    },
+    {
+      "id": "MGMT-6775",
+      "title": "Protect & Commclze Innovation",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18454"
+      ]
+    },
+    {
+      "id": "MGMT-7030",
+      "title": "Business & Corporate Strategy",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18450"
+      ]
+    },
+    {
+      "id": "MGMT-7760",
+      "title": "Risk Analytics And Management",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18448"
+      ]
+    },
+    {
+      "id": "MTLE-4100",
+      "title": "Thermodynamics Of Materials",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18444"
+      ]
+    },
+    {
+      "id": "MTLE-4200",
+      "title": "Elec & Optical Prop Of Matls",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18443"
+      ]
+    },
+    {
+      "id": "MTLE-4400",
+      "title": "Synthesis And Processing",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17348"
+      ]
+    },
+    {
+      "id": "MTLE-4430",
+      "title": "Fundamental Of Metallurgical Alloy Systems",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-12578"
+      ]
+    },
+    {
+      "id": "MTLE-4440",
+      "title": "Thin Films",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-15677"
+      ]
+    },
+    {
+      "id": "MTLE-4500",
+      "title": "Computational Materials Design",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-17347"
+      ]
+    },
+    {
+      "id": "MTLE-6060",
+      "title": "Adv Kinetics Of Matl Reactions",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18754"
+      ]
+    },
+    {
+      "id": "MTLE-6300",
+      "title": "Ic Fabrication Lab",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18752"
+      ]
+    },
+    {
+      "id": "MTLE-6440",
+      "title": "Thin Films",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-15670"
+      ]
+    },
+    {
+      "id": "MTLE-6900",
+      "title": "Graduate Seminar",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-19954"
+      ]
+    },
+    {
+      "id": "MATP-4820",
+      "title": "Computational Optimization",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18527"
+      ]
+    },
+    {
+      "id": "MATH-1010",
+      "title": "Calculus I",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-math-1010-tba",
+        "aefis-19770"
+      ]
+    },
+    {
+      "id": "MATH-1020",
+      "title": "Calculus II",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-math-1020-tba",
+        "aefis-20115"
+      ]
+    },
+    {
+      "id": "MATH-1520",
+      "title": "Math Mthds:  Arch, Mgmt,& Hass",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18584"
+      ]
+    },
+    {
+      "id": "MATH-2010",
+      "title": "Multivar Calc & Matrix Algebra",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-math-2010-tba",
+        "aefis-20094"
+      ]
+    },
+    {
+      "id": "MATH-2012",
+      "title": "Matrix Algebra",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-14323"
+      ]
+    },
+    {
+      "id": "MATH-2100",
+      "title": "Intro To Linear Algebra",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-20391"
+      ]
+    },
+    {
+      "id": "MATH-2400",
+      "title": "Intro Diff Equations",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-20074"
+      ]
+    },
+    {
+      "id": "MATH-4010",
+      "title": "Abstract Algebra",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18547"
+      ]
+    },
+    {
+      "id": "MATH-4020",
+      "title": "Intro To Number Theory",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-15413"
+      ]
+    },
+    {
+      "id": "MATH-4030",
+      "title": "Computability And Logic",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-15412"
+      ]
+    },
+    {
+      "id": "MATH-4090",
+      "title": "Foundations Of Analysis",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-math-4090-tba",
+        "aefis-20072"
+      ]
+    },
+    {
+      "id": "MATH-4100",
+      "title": "Linear Algebra",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-20071"
+      ]
+    },
+    {
+      "id": "MATH-4120",
+      "title": "Fundamentals Of Geometry",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-6395"
+      ]
+    },
+    {
+      "id": "MATH-4600",
+      "title": "Advanced Calculus",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-math-4600-tba",
+        "aefis-20067"
+      ]
+    },
+    {
+      "id": "MATH-4800",
+      "title": "Numerical Computing",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-math-4800-tba",
+        "aefis-20064"
+      ]
+    },
+    {
+      "id": "MATH-6840",
+      "title": "Numerical Solutions Of Pde",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18532"
+      ]
+    },
+    {
+      "id": "MANE-2010",
+      "title": "Solid Mechanics",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-mane-2010-tba",
+        "aefis-19894"
+      ]
+    },
+    {
+      "id": "MANE-2110",
+      "title": "Numerical Methods And Programming For Engineers",
+      "before": "final-project",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "f26-registrar-mane-2110-final-project",
+        "aefis-19890"
+      ]
+    },
+    {
+      "id": "MANE-2220",
+      "title": "Inventor's Studio 1",
+      "before": "online-final",
+      "after": "project-based",
+      "evidenceIds": [
+        "f26-registrar-mane-2220-remote",
+        "aefis-19888"
+      ]
+    },
+    {
+      "id": "MANE-2400",
+      "title": "Fundamentals Of Nuclear Engr",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18341"
+      ]
+    },
+    {
+      "id": "MANE-2710",
+      "title": "Thermodynamics",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-mane-2710-tba",
+        "aefis-19885"
+      ]
+    },
+    {
+      "id": "MANE-2720",
+      "title": "Fluid Mechanics",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-mane-2720-tba",
+        "aefis-19884"
+      ]
+    },
+    {
+      "id": "MANE-4030",
+      "title": "Elements Of Mech Design",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-mane-4030-tba",
+        "aefis-19881"
+      ]
+    },
+    {
+      "id": "MANE-4040",
+      "title": "Mechanical Systems Lab",
+      "before": "scheduled-final",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "f26-registrar-mane-4040-tba",
+        "aefis-19875"
+      ]
+    },
+    {
+      "id": "MANE-4060",
+      "title": "Aerospace Struc & Materials",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18978"
+      ]
+    },
+    {
+      "id": "MANE-4100",
+      "title": "Spaceflight Mechanics",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18328"
+      ]
+    },
+    {
+      "id": "MANE-4140",
+      "title": "Introduction To Computational Fluid Dynamics",
+      "before": "scheduled-final",
+      "after": "project-based",
+      "evidenceIds": [
+        "f26-registrar-mane-4140-tba",
+        "aefis-18327"
+      ]
+    },
+    {
+      "id": "MANE-4170",
+      "title": "Machine Dynamics",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18326"
+      ]
+    },
+    {
+      "id": "MANE-4230",
+      "title": "Air Vehicle Design",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18324"
+      ]
+    },
+    {
+      "id": "MANE-4240",
+      "title": "Finite Elements Method",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-mane-4240-tba",
+        "aefis-19862"
+      ]
+    },
+    {
+      "id": "MANE-4260",
+      "title": "Mulitdisciplinary Capstone Design",
+      "before": "scheduled-final",
+      "after": "section-dependent",
+      "evidenceIds": [
+        "f26-registrar-mane-4260-tba"
+      ]
+    },
+    {
+      "id": "MANE-4350",
+      "title": "Instrumentation & Measur",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18314"
+      ]
+    },
+    {
+      "id": "MANE-4430",
+      "title": "Linear Accelerator Lab",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18312"
+      ]
+    },
+    {
+      "id": "MANE-4500",
+      "title": "Modeling And Contrl Of Dyn Sys",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19845"
+      ]
+    },
+    {
+      "id": "MANE-4510",
+      "title": "Control Systems Lab",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-19839"
+      ]
+    },
+    {
+      "id": "MANE-4520",
+      "title": "Mechatronics",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19838"
+      ]
+    },
+    {
+      "id": "MANE-4560",
+      "title": "Manipulator Kinematics & Dynmc",
+      "before": "final-project",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-mane-4560-final-project",
+        "aefis-19836"
+      ]
+    },
+    {
+      "id": "MANE-4620",
+      "title": "Manufact Process & Sys Lab II",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18299"
+      ]
+    },
+    {
+      "id": "MANE-4640",
+      "title": "Analy. Of Manuf. Process",
+      "before": "no-exams",
+      "after": "section-dependent",
+      "evidenceIds": [
+        "atwork-mane-4640",
+        "aefis-18298"
+      ]
+    },
+    {
+      "id": "MANE-4730",
+      "title": "Heat Transfer",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-mane-4730-tba",
+        "aefis-19829"
+      ]
+    },
+    {
+      "id": "MANE-4740",
+      "title": "Thermal and Fluids Engineering Laboratory",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-19824"
+      ]
+    },
+    {
+      "id": "MANE-4900",
+      "title": "Aeroelasticity And Structural Vibrations",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-19822"
+      ]
+    },
+    {
+      "id": "MANE-4910",
+      "title": "Fluid Dynamics Lab",
+      "before": "scheduled-final",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "f26-registrar-mane-4910-tba",
+        "aefis-19818"
+      ]
+    },
+    {
+      "id": "MANE-5000",
+      "title": "Advanced Engr Mathematics I",
+      "before": "no-exams",
+      "after": "section-dependent",
+      "evidenceIds": [
+        "atwork-mane-5000",
+        "aefis-19809"
+      ]
+    },
+    {
+      "id": "MANE-6120",
+      "title": "Manipulator Kinematics & Dynmc",
+      "before": "final-project",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-mane-6120-final-project",
+        "aefis-19808"
+      ]
+    },
+    {
+      "id": "MANE-6140",
+      "title": "Intro Computat Fluid Dynamics",
+      "before": "scheduled-final",
+      "after": "project-based",
+      "evidenceIds": [
+        "f26-registrar-mane-6140-tba",
+        "aefis-18266"
+      ]
+    },
+    {
+      "id": "MANE-6250",
+      "title": "Continuum Mechanics",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-15501"
+      ]
+    },
+    {
+      "id": "MANE-6380",
+      "title": "Nuclear Reactor Material",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18265"
+      ]
+    },
+    {
+      "id": "MANE-6610",
+      "title": "Nonlinear Control Systems",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-3569"
+      ]
+    },
+    {
+      "id": "MANE-6720",
+      "title": "Adv Computnl Fluid Dynamics",
+      "before": "no-exams",
+      "after": "conflicting",
+      "evidenceIds": [
+        "atwork-mane-6720",
+        "aefis-18973"
+      ]
+    },
+    {
+      "id": "MANE-6800",
+      "title": "Mfg Sys Integration",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18259"
+      ]
+    },
+    {
+      "id": "PHIL-1110",
+      "title": "Intro To Philosophy",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-20295"
+      ]
+    },
+    {
+      "id": "PHIL-2100",
+      "title": "Critical Thinking",
+      "before": "has-exams",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "critical-thinking-s13",
+        "aefis-18745"
+      ]
+    },
+    {
+      "id": "PHIL-2140",
+      "title": "Introduction To Formal Logic",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-20293"
+      ]
+    },
+    {
+      "id": "PHIL-2500",
+      "title": "Ethics Of Artificial Intellige",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-18742"
+      ]
+    },
+    {
+      "id": "PHIL-4130",
+      "title": "Philosophy Of Science",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-18968"
+      ]
+    },
+    {
+      "id": "PHIL-4500",
+      "title": "Bioethics",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18967"
+      ]
+    },
+    {
+      "id": "PHYS-1050",
+      "title": "General Physics",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18738"
+      ]
+    },
+    {
+      "id": "PHYS-1110",
+      "title": "Physics I (s)",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-phys-1110-tba",
+        "aefis-20233"
+      ]
+    },
+    {
+      "id": "PHYS-1150",
+      "title": "Intro Classical Dynamics",
+      "before": "online-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "rmp-2026-korniss",
+        "aefis-18726"
+      ]
+    },
+    {
+      "id": "PHYS-1200",
+      "title": "Physics II",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-phys-1200-tba",
+        "aefis-20218"
+      ]
+    },
+    {
+      "id": "PHYS-1600",
+      "title": "Materials Science",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-phys-1600-tba",
+        "aefis-20213"
+      ]
+    },
+    {
+      "id": "PHYS-2210",
+      "title": "Quantum Physics I",
+      "before": "final-project",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-phys-2210-final-project",
+        "aefis-20210"
+      ]
+    },
+    {
+      "id": "PHYS-2350",
+      "title": "Experimental Physics",
+      "before": "final-project",
+      "after": "project-based",
+      "evidenceIds": [
+        "f26-registrar-phys-2350-final-project",
+        "aefis-20208"
+      ]
+    },
+    {
+      "id": "PHYS-4220",
+      "title": "Applic Of Quantum Phys",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-15616"
+      ]
+    },
+    {
+      "id": "PHYS-4240",
+      "title": "General Relativity",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18706"
+      ]
+    },
+    {
+      "id": "PHYS-4330",
+      "title": "Theoretical Mechanics",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18705"
+      ]
+    },
+    {
+      "id": "PHYS-4420",
+      "title": "Thermodyn & Stat Mech",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18704"
+      ]
+    },
+    {
+      "id": "PHYS-6410",
+      "title": "Electrodynamics",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18701"
+      ]
+    },
+    {
+      "id": "PHYS-6520",
+      "title": "Quantum Mechanics II",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18700"
+      ]
+    },
+    {
+      "id": "PSYC-1200",
+      "title": "Intro To Psychological Science",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-20191"
+      ]
+    },
+    {
+      "id": "PSYC-2310",
+      "title": "Research Methods And Statistics I",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-20189"
+      ]
+    },
+    {
+      "id": "PSYC-4200",
+      "title": "Industrial & Org'l Psychology",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-18690"
+      ]
+    },
+    {
+      "id": "PSYC-4220",
+      "title": "Animal Cog Int Humans",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-15597"
+      ]
+    },
+    {
+      "id": "PSYC-4330",
+      "title": "Introduction To Cognitive Neuroscience",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-20183"
+      ]
+    },
+    {
+      "id": "PSYC-4350",
+      "title": "Math Methods In Psyc Sci",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18688"
+      ]
+    },
+    {
+      "id": "PSYC-4360",
+      "title": "Behavioral Neuroscience",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18966"
+      ]
+    },
+    {
+      "id": "PSYC-4370",
+      "title": "Cognitive Psychology",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-psyc-4370-tba",
+        "aefis-20182"
+      ]
+    },
+    {
+      "id": "PSYC-4410",
+      "title": "Sensation And Perception",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18684"
+      ]
+    },
+    {
+      "id": "PSYC-4430",
+      "title": "Psychology Of Mindfulness",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-20180"
+      ]
+    },
+    {
+      "id": "PSYC-4610",
+      "title": "Stress And The Brain",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18679"
+      ]
+    },
+    {
+      "id": "PSYC-4730",
+      "title": "Positive Psychology",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-20175"
+      ]
+    },
+    {
+      "id": "STSO-2210",
+      "title": "Design, Culture, And Society",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18671"
+      ]
+    },
+    {
+      "id": "STSO-2520",
+      "title": "Sociology",
+      "before": "scheduled-final",
+      "after": "has-exams",
+      "evidenceIds": [
+        "f26-registrar-stso-2520-tba",
+        "aefis-20167"
+      ]
+    },
+    {
+      "id": "STSO-4250",
+      "title": "Bioethics",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18964"
+      ]
+    },
+    {
+      "id": "STSO-4350",
+      "title": "Politics Of Design",
+      "before": "unknown",
+      "after": "coursework-based",
+      "evidenceIds": [
+        "aefis-20154"
+      ]
+    },
+    {
+      "id": "STSO-4400",
+      "title": "Medicine, Culture & Society",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18648"
+      ]
+    },
+    {
+      "id": "STSO-4430",
+      "title": "Drugs In History",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18647"
+      ]
+    },
+    {
+      "id": "STSO-4500",
+      "title": "Globalization & Development",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-18646"
+      ]
+    },
+    {
+      "id": "STSO-4897",
+      "title": "Social Media & Society",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-20399"
+      ]
+    },
+    {
+      "id": "STSO-6100",
+      "title": "Science And Technology Policy",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-15742"
+      ]
+    },
+    {
+      "id": "WRIT-1110",
+      "title": "Writing In Context",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-20146"
+      ]
+    },
+    {
+      "id": "WRIT-2110",
+      "title": "Strategic Writing",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-20143"
+      ]
+    },
+    {
+      "id": "WRIT-2320",
+      "title": "Creative Nonfiction Writing",
+      "before": "unknown",
+      "after": "has-exams",
+      "evidenceIds": [
+        "aefis-18632"
+      ]
+    },
+    {
+      "id": "WRIT-2330",
+      "title": "Creative Writing: The Short Story",
+      "before": "unknown",
+      "after": "project-based",
+      "evidenceIds": [
+        "aefis-20140"
+      ]
+    }
+  ]
+}

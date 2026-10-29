@@ -1,6 +1,6 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import type { Evidence } from '../src/lib/types.ts';
-const evidence=JSON.parse(await readFile('data/evidence.json','utf8')) as Evidence[];
+const evidence=[...JSON.parse(await readFile('data/evidence.json','utf8')),...JSON.parse(await readFile('data/evidence-syllabi.json','utf8'))] as Evidence[];
 const urls=[...new Set(evidence.flatMap(e=>[e.url,...(e.supportingUrls??[])]))];
 const checked=new Map<string,Promise<{status:number|null;finalUrl?:string;error?:string}>>();
 const results: {url:string;status:number|null;checkedAt:string;finalUrl?:string;error?:string}[]=[];

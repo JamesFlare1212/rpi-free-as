@@ -6,7 +6,8 @@
     "evidence": 0,
     "searchedNoEvidence": 0,
     "initialSearch": 7,
-    "unsearched": 0
+    "unsearched": 0,
+    "syllabus": 0
   },
   {
     "subject": "USAF",
@@ -15,61 +16,68 @@
     "evidence": 0,
     "searchedNoEvidence": 0,
     "initialSearch": 5,
-    "unsearched": 0
+    "unsearched": 0,
+    "syllabus": 0
   },
   {
     "subject": "ARCH",
     "name": "Architecture",
     "total": 68,
-    "evidence": 20,
+    "evidence": 32,
     "searchedNoEvidence": 0,
-    "initialSearch": 48,
-    "unsearched": 0
+    "initialSearch": 36,
+    "unsearched": 0,
+    "syllabus": 34
   },
   {
     "subject": "ARTS",
     "name": "Arts",
     "total": 41,
-    "evidence": 2,
-    "searchedNoEvidence": 6,
-    "initialSearch": 33,
-    "unsearched": 0
+    "evidence": 26,
+    "searchedNoEvidence": 1,
+    "initialSearch": 14,
+    "unsearched": 0,
+    "syllabus": 27
   },
   {
     "subject": "ASTR",
     "name": "Astronomy",
     "total": 9,
-    "evidence": 0,
+    "evidence": 2,
     "searchedNoEvidence": 0,
-    "initialSearch": 9,
-    "unsearched": 0
+    "initialSearch": 7,
+    "unsearched": 0,
+    "syllabus": 2
   },
   {
     "subject": "BCBP",
     "name": "Biochemistry & Biophysics",
     "total": 18,
-    "evidence": 1,
+    "evidence": 10,
     "searchedNoEvidence": 0,
-    "initialSearch": 17,
-    "unsearched": 0
+    "initialSearch": 8,
+    "unsearched": 0,
+    "syllabus": 11
   },
   {
     "subject": "BIOL",
     "name": "Biology",
     "total": 38,
-    "evidence": 1,
-    "searchedNoEvidence": 1,
-    "initialSearch": 36,
-    "unsearched": 0
+    "evidence": 27,
+    "searchedNoEvidence": 0,
+    "initialSearch": 11,
+    "unsearched": 0,
+    "syllabus": 30
   },
   {
     "subject": "BMED",
     "name": "Biomedical Engineering",
     "total": 40,
-    "evidence": 5,
-    "searchedNoEvidence": 2,
-    "initialSearch": 33,
-    "unsearched": 0
+    "evidence": 24,
+    "searchedNoEvidence": 0,
+    "initialSearch": 16,
+    "unsearched": 0,
+    "syllabus": 28
   },
   {
     "subject": "BUSN",
@@ -78,97 +86,108 @@
     "evidence": 14,
     "searchedNoEvidence": 0,
     "initialSearch": 0,
-    "unsearched": 0
+    "unsearched": 0,
+    "syllabus": 13
   },
   {
     "subject": "CHME",
     "name": "Chemical Engineering",
     "total": 24,
-    "evidence": 2,
+    "evidence": 13,
     "searchedNoEvidence": 0,
-    "initialSearch": 22,
-    "unsearched": 0
+    "initialSearch": 11,
+    "unsearched": 0,
+    "syllabus": 13
   },
   {
     "subject": "CHEM",
     "name": "Chemistry",
     "total": 40,
-    "evidence": 3,
+    "evidence": 15,
     "searchedNoEvidence": 0,
-    "initialSearch": 37,
-    "unsearched": 0
+    "initialSearch": 25,
+    "unsearched": 0,
+    "syllabus": 21
   },
   {
     "subject": "CIVL",
     "name": "Civil Engineering",
     "total": 29,
-    "evidence": 2,
+    "evidence": 16,
     "searchedNoEvidence": 0,
-    "initialSearch": 27,
-    "unsearched": 0
+    "initialSearch": 13,
+    "unsearched": 0,
+    "syllabus": 20
   },
   {
     "subject": "COGS",
     "name": "Cognitive Science",
     "total": 26,
-    "evidence": 2,
-    "searchedNoEvidence": 1,
-    "initialSearch": 23,
-    "unsearched": 0
+    "evidence": 14,
+    "searchedNoEvidence": 0,
+    "initialSearch": 12,
+    "unsearched": 0,
+    "syllabus": 14
   },
   {
     "subject": "COMM",
     "name": "Communication",
     "total": 16,
-    "evidence": 2,
+    "evidence": 9,
     "searchedNoEvidence": 0,
-    "initialSearch": 14,
-    "unsearched": 0
+    "initialSearch": 7,
+    "unsearched": 0,
+    "syllabus": 9
   },
   {
     "subject": "CSCI",
     "name": "Computer Science",
     "total": 75,
-    "evidence": 23,
+    "evidence": 41,
     "searchedNoEvidence": 0,
-    "initialSearch": 52,
-    "unsearched": 0
+    "initialSearch": 34,
+    "unsearched": 0,
+    "syllabus": 37
   },
   {
     "subject": "ENGR",
     "name": "Core Engineering",
     "total": 34,
-    "evidence": 17,
+    "evidence": 24,
     "searchedNoEvidence": 0,
-    "initialSearch": 17,
-    "unsearched": 0
+    "initialSearch": 10,
+    "unsearched": 0,
+    "syllabus": 21
   },
   {
     "subject": "ERTH",
     "name": "Earth & Environmental Science",
     "total": 24,
-    "evidence": 1,
+    "evidence": 10,
     "searchedNoEvidence": 0,
-    "initialSearch": 23,
-    "unsearched": 0
+    "initialSearch": 14,
+    "unsearched": 0,
+    "syllabus": 13
   },
   {
     "subject": "ECON",
     "name": "Economics",
     "total": 24,
-    "evidence": 4,
+    "evidence": 19,
     "searchedNoEvidence": 0,
-    "initialSearch": 20,
-    "unsearched": 0
+    "initialSearch": 5,
+    "unsearched": 0,
+    "syllabus": 19
   },
   {
     "subject": "ECSE",
     "name": "Electrical & Comp. Sys. Engr.",
     "total": 60,
-    "evidence": 12,
-    "searchedNoEvidence": 1,
-    "initialSearch": 47,
-    "unsearched": 0
+    "evidence": 34,
+    "searchedNoEvidence": 0,
+    "initialSearch": 26,
+    "unsearched": 0,
+    "syllabus": 35
   },
   {
     "subject": "ESCI",
@@ -177,34 +196,38 @@
     "evidence": 0,
     "searchedNoEvidence": 0,
     "initialSearch": 1,
-    "unsearched": 0
+    "unsearched": 0,
+    "syllabus": 0
   },
   {
     "subject": "ENVE",
     "name": "Environmental Engineering",
     "total": 15,
-    "evidence": 0,
+    "evidence": 5,
     "searchedNoEvidence": 0,
-    "initialSearch": 15,
-    "unsearched": 0
+    "initialSearch": 10,
+    "unsearched": 0,
+    "syllabus": 5
   },
   {
     "subject": "GSAS",
     "name": "Games & Simulation Arts & Sci",
     "total": 23,
-    "evidence": 1,
+    "evidence": 8,
     "searchedNoEvidence": 0,
-    "initialSearch": 22,
-    "unsearched": 0
+    "initialSearch": 15,
+    "unsearched": 0,
+    "syllabus": 12
   },
   {
     "subject": "INQR",
     "name": "HASS Inquiry",
     "total": 8,
-    "evidence": 1,
+    "evidence": 5,
     "searchedNoEvidence": 0,
-    "initialSearch": 7,
-    "unsearched": 0
+    "initialSearch": 3,
+    "unsearched": 0,
+    "syllabus": 7
   },
   {
     "subject": "ILEA",
@@ -213,124 +236,138 @@
     "evidence": 0,
     "searchedNoEvidence": 0,
     "initialSearch": 1,
-    "unsearched": 0
+    "unsearched": 0,
+    "syllabus": 1
   },
   {
     "subject": "ISYE",
     "name": "Industrial and Systems Engr",
     "total": 29,
-    "evidence": 5,
+    "evidence": 13,
     "searchedNoEvidence": 0,
-    "initialSearch": 24,
-    "unsearched": 0
+    "initialSearch": 16,
+    "unsearched": 0,
+    "syllabus": 13
   },
   {
     "subject": "ITWS",
     "name": "Information Technlgy & Web Sci",
     "total": 16,
-    "evidence": 3,
-    "searchedNoEvidence": 2,
-    "initialSearch": 11,
-    "unsearched": 0
+    "evidence": 14,
+    "searchedNoEvidence": 0,
+    "initialSearch": 2,
+    "unsearched": 0,
+    "syllabus": 14
   },
   {
     "subject": "IENV",
     "name": "Interdiscip. Environmental",
     "total": 1,
-    "evidence": 0,
+    "evidence": 1,
     "searchedNoEvidence": 0,
-    "initialSearch": 1,
-    "unsearched": 0
+    "initialSearch": 0,
+    "unsearched": 0,
+    "syllabus": 1
   },
   {
     "subject": "IHSS",
     "name": "Interdisciplinary H&SS",
     "total": 2,
-    "evidence": 0,
+    "evidence": 2,
     "searchedNoEvidence": 0,
-    "initialSearch": 2,
-    "unsearched": 0
+    "initialSearch": 0,
+    "unsearched": 0,
+    "syllabus": 2
   },
   {
     "subject": "ISCI",
     "name": "Interdisciplinary Science",
     "total": 8,
-    "evidence": 1,
+    "evidence": 4,
     "searchedNoEvidence": 0,
-    "initialSearch": 7,
-    "unsearched": 0
+    "initialSearch": 4,
+    "unsearched": 0,
+    "syllabus": 5
   },
   {
     "subject": "LANG",
     "name": "Languages",
     "total": 5,
-    "evidence": 0,
+    "evidence": 1,
     "searchedNoEvidence": 0,
-    "initialSearch": 5,
-    "unsearched": 0
+    "initialSearch": 4,
+    "unsearched": 0,
+    "syllabus": 1
   },
   {
     "subject": "LGHT",
     "name": "Lighting",
     "total": 3,
-    "evidence": 0,
+    "evidence": 1,
     "searchedNoEvidence": 0,
-    "initialSearch": 3,
-    "unsearched": 0
+    "initialSearch": 2,
+    "unsearched": 0,
+    "syllabus": 1
   },
   {
     "subject": "LITR",
     "name": "Literature",
     "total": 5,
-    "evidence": 0,
+    "evidence": 2,
     "searchedNoEvidence": 0,
-    "initialSearch": 5,
-    "unsearched": 0
+    "initialSearch": 3,
+    "unsearched": 0,
+    "syllabus": 2
   },
   {
     "subject": "MGMT",
     "name": "Management",
     "total": 63,
-    "evidence": 19,
-    "searchedNoEvidence": 6,
-    "initialSearch": 38,
-    "unsearched": 0
+    "evidence": 49,
+    "searchedNoEvidence": 2,
+    "initialSearch": 12,
+    "unsearched": 0,
+    "syllabus": 51
   },
   {
     "subject": "MTLE",
     "name": "Materials Science &Engineering",
     "total": 20,
-    "evidence": 1,
+    "evidence": 11,
     "searchedNoEvidence": 0,
-    "initialSearch": 19,
-    "unsearched": 0
+    "initialSearch": 9,
+    "unsearched": 0,
+    "syllabus": 13
   },
   {
     "subject": "MATP",
     "name": "Math Prgmg, Probab,& Math Stat",
     "total": 2,
-    "evidence": 0,
+    "evidence": 1,
     "searchedNoEvidence": 0,
-    "initialSearch": 2,
-    "unsearched": 0
+    "initialSearch": 1,
+    "unsearched": 0,
+    "syllabus": 1
   },
   {
     "subject": "MATH",
     "name": "Mathematics",
     "total": 29,
-    "evidence": 8,
+    "evidence": 18,
     "searchedNoEvidence": 0,
-    "initialSearch": 21,
-    "unsearched": 0
+    "initialSearch": 11,
+    "unsearched": 0,
+    "syllabus": 18
   },
   {
     "subject": "MANE",
     "name": "Mech, Aero, Nucl Engr",
     "total": 73,
-    "evidence": 24,
+    "evidence": 41,
     "searchedNoEvidence": 0,
-    "initialSearch": 49,
-    "unsearched": 0
+    "initialSearch": 32,
+    "unsearched": 0,
+    "syllabus": 44
   },
   {
     "subject": "USAR",
@@ -339,7 +376,8 @@
     "evidence": 0,
     "searchedNoEvidence": 0,
     "initialSearch": 8,
-    "unsearched": 0
+    "unsearched": 0,
+    "syllabus": 0
   },
   {
     "subject": "USNA",
@@ -348,34 +386,38 @@
     "evidence": 0,
     "searchedNoEvidence": 0,
     "initialSearch": 6,
-    "unsearched": 0
+    "unsearched": 0,
+    "syllabus": 0
   },
   {
     "subject": "PHIL",
     "name": "Philosophy",
     "total": 13,
-    "evidence": 2,
-    "searchedNoEvidence": 1,
-    "initialSearch": 10,
-    "unsearched": 0
+    "evidence": 7,
+    "searchedNoEvidence": 0,
+    "initialSearch": 6,
+    "unsearched": 0,
+    "syllabus": 7
   },
   {
     "subject": "PHYS",
     "name": "Physics",
     "total": 33,
-    "evidence": 6,
+    "evidence": 15,
     "searchedNoEvidence": 0,
-    "initialSearch": 27,
-    "unsearched": 0
+    "initialSearch": 18,
+    "unsearched": 0,
+    "syllabus": 19
   },
   {
     "subject": "PSYC",
     "name": "Psychology",
     "total": 20,
-    "evidence": 1,
-    "searchedNoEvidence": 4,
-    "initialSearch": 15,
-    "unsearched": 0
+    "evidence": 12,
+    "searchedNoEvidence": 0,
+    "initialSearch": 8,
+    "unsearched": 0,
+    "syllabus": 12
   },
   {
     "subject": "ROBT",
@@ -384,24 +426,27 @@
     "evidence": 0,
     "searchedNoEvidence": 0,
     "initialSearch": 3,
-    "unsearched": 0
+    "unsearched": 0,
+    "syllabus": 0
   },
   {
     "subject": "STSO",
     "name": "Science, Technology & Society",
     "total": 25,
-    "evidence": 2,
-    "searchedNoEvidence": 7,
-    "initialSearch": 16,
-    "unsearched": 0
+    "evidence": 10,
+    "searchedNoEvidence": 4,
+    "initialSearch": 11,
+    "unsearched": 0,
+    "syllabus": 16
   },
   {
     "subject": "WRIT",
     "name": "Writing",
     "total": 5,
-    "evidence": 0,
-    "searchedNoEvidence": 4,
+    "evidence": 4,
+    "searchedNoEvidence": 0,
     "initialSearch": 1,
-    "unsearched": 0
+    "unsearched": 0,
+    "syllabus": 4
   }
 ]

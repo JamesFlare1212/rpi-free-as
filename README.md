@@ -13,27 +13,35 @@ bun run dev
 
 ## 目前的研究覆盖
 
-核查日期：**2026-10-28**。QUACS 快照来自固定提交 `a3977a08f9c19acd20023658d0b43d3300b8ca7d` 的 `semester_data/202701/courses.json`。
+核查日期：**2026-10-29**。QUACS 快照来自固定提交 `a3977a08f9c19acd20023658d0b43d3300b8ca7d` 的 `semester_data/202701/courses.json`。
 
 | 内容 | 数量 |
 | --- | ---: |
-| 本学期开课的唯一课号 | 1,009 |
-| 班次 | 2,994 |
-| 学科 | 45 |
-| 附可归属资料的课程 | 185 |
-| 证据 / 观察记录 | 190 |
-| 候选线索（含历史项目制及仅期末线索） | 95 |
-| 人工检索后仍未确认 | 35 |
-| 仅完成初步公开搜索，待深入核实 | 789 |
+| 本学期开课的唯一课号 / 班次 / 学科 | 1,009 / 2,994 / 45 |
+| AEFIS 历史 Markdown 页面 / 源站可见学期 | 18,510 / 34 |
+| 历史库课号（不局限于当前开课） | 2,055 |
+| 当前课程匹配到历史正文 | 596 |
+| 当前课程只匹配到空大纲页面 | 29 |
+| 同课号但分班标题或班型不符，未套用 | 147 |
+| 历史库未收录课号 | 237 |
+| 本轮读取匹配历史正文 / 人工复核考核说明 | 8,520 / 468 门 |
+| 附有经审核考核资料的课程 / 证据记录 | 554 / 658 |
+| 候选线索（含项目、平时考核及部分班次线索） | 248 |
+| 人工公开搜索后仍未确认 / 公开搜索仅初步阶段 | 7 / 448 |
+| 考试形式未明（含仅历史排期） | 468 |
 | 本学期考试政策已确认 | **0** |
-| 无资料或仅有 TBA 历史排期，形式未明 | 897 |
-| 拒绝关联的代表性线索 | 13 |
 
-**资料覆盖从 24 门扩大到 185 门，涵盖 29 个学科。全体课程均有来源资料或查询记录，但没有完成全体课程的深度调查，更没有穷尽互联网。** 185 门附有资料也不等于 185 门免考，其中 73 门仅找到历史期末排期，仍无法确定考试形式。网页将人工核查、初步搜索和资料归属分开呈现。
+**全部 1009 门已重新逐课归类，446 门改变分组。** 对可匹配的历史资料核对考核条目，并结合既有来源；468 门形成大纲条目复核，其他课程按可归属证据或不足状态裁决。全部课号、分班及未确认项均保留，不把“已复核”写成“本学期政策已确认”。逐课结果见 [course-classification.md](data/research/course-classification.md)，前后变化见 [classification-review-summary.json](data/research/classification-review-summary.json)。
 
-本轮补查了剩余 792 门的逐课查询式。查询按课号与课名生成后批量提交，返回链接来自联合结果集，尚未逐项验证；789 门仍停留在这一阶段。查询本身不会形成免考结论。行政注册、研究与论文班次也保留在完整目录中，不因名称推断免考。
+本轮归类：有考试 279、项目／作品评分 131、作业／平时考核 69、无考试线索 32、线上线索 1、take-home 7、仅无期末 5、仅期末项目 3、历史排期但形式未知 13、按教师／班次区分 10、冲突 4、无充分依据 455，合计 1009。以上均按各自来源学期解读，未新增 Spring 2027 考试政策确认。
 
-新增资料主要来自以下来源：
+重点修正：CSCI-2300 的 Gao 大纲明确考试现场进行；Greene 的 INQR-1200 / ECON-4130 均含课堂纸笔考试；Manipulator Kinematics 系列与 PHYS-2210 虽有期末项目，仍有学期内考试。Midterm Paper、Design Review、Peer Evaluation 不按考试关键词误收。项目或作业评分独立归类，保留测验；同课号不同教师、H／校内班以逐班结论呈现，未知班次不继承其他班次政策。
+
+大纲仅作为网页内容的支撑。页面已移除归档状态筛选、大纲库面板、Markdown 路径和哈希展示；保留简短考核事实、来源、教师／学期限制与测验警告。
+
+可提交的完整 Markdown、索引及查询说明见 [data/syllabi/README.md](data/syllabi/README.md)，全部数据结构见 [data/README.md](data/README.md)。原始 HTML 和转换缓存仍留在忽略的本地目录；网页部署只包含短摘和轻量研究结果。
+
+此前的人工研究还使用以下来源：
 
 - 教务处公开的 [Fall 2026 期末考试 / 项目表](https://registrar.rpi.edu/services/class-scheduling/final-exam-schedule)：按历史 CRN 和课名核对，可关联 108 门当前课程。REMOTE 只表示历史期末远程，FINAL PROJECT / PAPER 只表示期末项目 / 论文，TBA 不证明考试形式。排除课号复用及单导师研究班次。
 - [建筑学院 2025 APR](https://www.arch.rpi.edu/wp-content/uploads/2025_RPI_APR_two_programs.pdf)：读取 761 页报告中的历史大纲，为 21 门当前课程补充完整评分或明确考试条款，并记录 PDF 页码。数字建构、设计工作室与作品集的项目线索，以及 Structures / Professional Practice 的考试反例分别保留。
@@ -48,8 +56,8 @@ bun run dev
 ## 网页功能
 
 - 全部课程、候选线索、来源库、逐学科检索覆盖、浏览器本地收藏；支持课号 / 标题 / 教师组合搜索。
-- 按考核形式、学科、本科 / 研究生、来源类型、在职 H 班 / 校内班范围筛选；可排除已知有测验的记录。
-- 证据抽屉展示原文摘录、历史教师、适用班次、CRN、上课时间和名额快照。
+- 按考核形式、学科、本科 / 研究生、来源类型、在职 H 班 / 校内班筛选。
+- 证据抽屉展示原文短摘、历史教师、适用班次、CRN、逐班考核线索、测验警告、上课时间和名额快照。
 - CSV 导出当前筛选结果、来源定位和证据适用 CRN，完整 JSON 与查询记录下载；URL 保留筛选与课程详情，便于分享。
 - 移动端布局、键盘操作及自托管开源中英文字体，无字体服务请求。
 
@@ -63,6 +71,10 @@ bun run data:audit
 # 可选：检查证据链接是否仍可访问（不自动改写考核结论）
 bun run sources:check
 
+# 本地历史库：无需登录或 PageSift 服务
+bun run syllabi:query --course=CSCI-4220
+bun run syllabi:analyze
+
 # 应用和证据规则验证
 bun run check
 bun run test
@@ -73,15 +85,15 @@ bunx playwright install chromium
 bun run test:browser
 ```
 
-`data/raw/` 保留完整上游课程、目录、院系、MIT 许可及 SHA-256 清单。`data/evidence.json` 是人工审核的证据源；`data/excluded.json` 保留拒绝匹配的线索；`data/research-log.json` 保留首轮代表性检索；`data/research/searches.json` 保存人工定向查询与排除说明，`initial-searches.json` 保存 792 门实际执行的初步查询；同目录下保存期末表、在职项目及建筑大纲的来源哈希和匹配事实；`data/source-checks.json` 保存所有证据 URL 的 HTTP 可访问性。`public/data/` 由构建脚本生成。修改证据后必须重建派生数据。
+`data/raw/` 保留完整上游课程、目录、院系、MIT 许可及 SHA-256 清单。`data/evidence.json` 是既有人工审核证据；`data/research/syllabus-reviews.json` 是本轮逐项大纲复核源，构建派生出 `data/evidence-syllabi.json`；`data/excluded.json` 保留拒绝匹配的线索；`data/research-log.json` 保留首轮代表性检索；`data/research/searches.json` 保存人工定向查询与排除说明，`initial-searches.json` 保存 792 门实际执行的初步查询；同目录下保存期末表、在职项目及建筑大纲的来源哈希和匹配事实；`data/source-checks.json` 保存所有证据 URL 的 HTTP 可访问性。`data/syllabi/` 保存按用户要求提交 Git 的清理 Markdown 与完整索引；`data/research/syllabus-analysis.jsonl` 保存全部 1009 门的逐文档匹配与规则线索，`course-classification.json` / `.md` 保存完整归类裁决；这些研究资料作为后台支撑，不作为面向选课的归档功能展示。`public/data/` 由构建脚本生成，包含逐课轻量匹配结果，不包含完整大纲正文。修改原文/别名后先重跑分析，修改人工证据后必须重建派生数据。
 
-新增证据需要给出实际读取的来源、短摘或精确来源定位、适用学期、教师及标题匹配规则。`matchInstructor` 限定教师，`sectionPattern` 限定班次（例如 `^H`）。大型第三方大纲不整体上传，只保存短摘、事实和来源哈希。`scope: current` 仅允许确认为 Spring 2027 的政策；历史记录不能升格为当前保证。学分、名额和时间均为快照，选课前需回 QUACS / SIS 核对。
+新增证据需要给出实际读取的来源、短摘或精确来源定位、适用学期、教师及标题匹配规则。`matchInstructor` 限定教师，`sectionPattern` 限定班次（例如 `^H`）。本轮用户明确授权的 Markdown 提交到 `data/syllabi/`；原始 HTML/PDF、下载缓存、会话和密钥保持忽略。网页只发布短摘、事实和来源哈希。`scope: current` 仅允许确认为 Spring 2027 的政策；历史记录不能升格为当前保证。学分、名额和时间均为快照，选课前需回 QUACS / SIS 核对。
 
 ## 官方 Skill 与项目 MCP
 
 官方入口：[shadcn-svelte llms.txt](https://www.shadcn-svelte.com/llms.txt)。官方 [Skills 文档](https://shadcn-svelte.com/docs/skills) 指向 `huntabyte/shadcn-svelte`。
 
-官方 Skill 已安装至 `.claude/skills/shadcn-svelte/`，含 `SKILL.md`、规则与 CLI 参考。此环境的 `.agents/` 与 `.codex/` 为只读目录，因此使用可写的项目级目录，并在 `AGENTS.md` 中明确要求读取该 Skill；后续会话可按该入口使用。
+官方 Skill 安装在标准项目级目录 [`.agents/skills/shadcn-svelte/`](.agents/skills/shadcn-svelte/SKILL.md)，保留完整 `SKILL.md`、规则、CLI 参考和资源。Codex 会自动扫描 `.agents/skills/`；其他代理可通过 `AGENTS.md` 的统一入口读取，文档 MCP 的 `get_project_context` 也读取同一份内容。技能随仓库提交，只保留这一份副本，不使用 Claude 专属目录。
 
 **官方 llms.txt 未列出独立 MCP 安装入口。** 检索到的第三方 shadcn-svelte 文档 MCP 返回 Cloudflare 522，未将失效服务冒充为安装成功。项目改为实现一个本地、只读的文档 MCP：
 

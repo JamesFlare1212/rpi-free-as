@@ -1,0 +1,35 @@
+import {readFile,readdir} from 'node:fs/promises';
+import {createHash} from 'node:crypto';
+import assert from 'node:assert/strict';
+import type {ArchiveRow} from './lib/syllabus-analysis.ts';
+const hash=(text:string|Buffer)=>createHash('sha256').update(text).digest('hex');
+const root='data/syllabi/';
+const manifest=JSON.parse(await readFile(root+'manifest.json','utf8'));
+const index=await readFile(root+'index.jsonl','utf8');
+const rows=index.trim().split('\n').map(line=>JSON.parse(line)) as ArchiveRow[];
+assert.equal(hash(index),manifest.indexSha256);
+assert.equal(rows.length,manifest.documents);
+assert.equal(new Set(rows.map(r=>r.id)).size,rows.length);
+assert.equal(new Set(rows.map(r=>r.courseId)).size,manifest.courseIds);
+const paths=new Set(rows.map(r=>r.path));
+assert.equal(paths.size,rows.length);
+const files=await readdir(root+'markdown',{recursive:true});
+assert.equal(files.filter(f=>f.endsWith('.md')).length,rows.length,'Unindexed Markdown');
+let bytes=0;
+for(const row of rows){
+ assert.match(row.path,/^markdown\/\d+\/[A-Z]+\/[A-Z]+-\d+\/[^/]+--\d+\.md$/);
+ const text=await readFile(root+row.path,'utf8');
+ assert.equal(hash(text),row.sha256,row.path);
+ bytes+=Buffer.byteLength(text);
+ assert.equal(Buffer.byteLength(text),row.bytes,row.path);
+ assert.ok(text.startsWith(`---\ncourseSectionId: ${row.id}\n`),row.path);
+ assert.ok(text.includes(`courseId: ${JSON.stringify(row.courseId)}\n`),row.path);
+ assert.ok(text.includes(`sourceTermCode: ${JSON.stringify(row.termCode)}\n`),row.path);
+ assert.equal(new URL(row.url).hostname,'assessment.rpi.edu');
+ assert.equal(new URL(row.url).searchParams.get('courseSectionId'),String(row.id));
+ assert.ok(!(row as unknown as Record<string,unknown>).apiKey);
+}
+assert.equal(bytes,manifest.markdownBytes);
+assert.equal(rows.filter(r=>r.hasSyllabus).length,manifest.withSyllabus);
+assert.deepEqual([...new Set(rows.map(r=>r.termCode))].sort(),manifest.terms.map((t:{code:string})=>t.code).sort());
+console.log(`PASS: ${rows.length} Markdown files, ${manifest.terms.length} terms, ${manifest.courseIds} course IDs, index/frontmatter/SHA-256/bytes verified.`);

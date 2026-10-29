@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "collectedAt": "2026-10-29",
+  "source": "https://assessment.rpi.edu/index.cfm/page/AefisCourseSection.Manager",
+  "scope": "All 34 academic terms visible in the unfiltered source catalogue; CoCurricular=false",
+  "documents": 18510,
+  "courseIds": 2055,
+  "terms": [
+    {
+      "code": "2020051",
+      "name": "2020_Summer_Troy_I",
+      "documents": 164,
+      "withSyllabus": 3
+    },
+    {
+      "code": "2020052",
+      "name": "2020_Summer_Troy_II",
+      "documents": 40,
+      "withSyllabus": 1
+    },
+    {
+      "code": "2020053",
+      "name": "2020_Summer_Troy_III",
+      "documents": 32,
+      "withSyllabus": 0
+    },
+    {
+      "code": "202009",
+      "name": "2020_Fall Term",
+      "documents": 1352,
+      "withSyllabus": 1085
+    },
+    {
+      "code": "202101",
+      "name": "2021_Spring Term",
+      "documents": 1232,
+      "withSyllabus": 778
+    },
+    {
+      "code": "2021051",
+      "name": "2021_Summer_Troy_I",
+      "documents": 177,
+      "withSyllabus": 138
+    },
+    {
+      "code": "2021052",
+      "name": "2021_Summmer_Troy_II",
+      "documents": 42,
+      "withSyllabus": 36
+    },
+    {
+      "code": "2021053",
+      "name": "2021_Summer_Troy_III",
+      "documents": 24,
+      "withSyllabus": 18
+    },
+    {
+      "code": "202109",
+      "name": "2021_Fall Term",
+      "documents": 1278,
+      "withSyllabus": 894
+    },
+    {
+      "code": "202201",
+      "name": "2022_Spring Term",
+      "documents": 1194,
+      "withSyllabus": 832
+    },
+    {
+      "code": "2022051",
+      "name": "2022_Summer_Troy_I",
+      "documents": 176,
+      "withSyllabus": 132
+    },
+    {
+      "code": "2022052",
+      "name": "2022_Summer_Troy_II",
+      "documents": 46,
+      "withSyllabus": 36
+    },
+    {
+      "code": "2022053",
+      "name": "2022_Summer_Troy_III",
+      "documents": 30,
+      "withSyllabus": 19
+    },
+    {
+      "code": "202209",
+      "name": "2022_Fall Term",
+      "documents": 1322,
+      "withSyllabus": 1023
+    },
+    {
+      "code": "202301",
+      "name": "2023_Spring Term",
+      "documents": 1263,
+      "withSyllabus": 1031
+    },
+    {
+      "code": "2023051",
+      "name": "2023_Summer_Troy_I",
+      "documents": 151,
+      "withSyllabus": 136
+    },
+    {
+      "code": "2023052",
+      "name": "2023_Summer_Troy_II",
+      "documents": 45,
+      "withSyllabus": 43
+    },
+    {
+      "code": "2023053",
+      "name": "2023_Summer_Troy_III",
+      "documents": 23,
+      "withSyllabus": 23
+    },
+    {
+      "code": "202309",
+      "name": "2023_Fall Term",
+      "documents": 1381,
+      "withSyllabus": 1285
+    },
+    {
+      "code": "202401",
+      "name": "2024_Spring Term",
+      "documents": 1293,
+      "withSyllabus": 1154
+    },
+    {
+      "code": "2024051",
+      "name": "2024_Summer_Troy_I",
+      "documents": 165,
+      "withSyllabus": 133
+    },
+    {
+      "code": "2024052",
+      "name": "2024_Summer_Troy_II",
+      "documents": 55,
+      "withSyllabus": 52
+    },
+    {
+      "code": "2024053",
+      "name": "2024_Summer_Troy_III",
+      "documents": 29,
+      "withSyllabus": 27
+    },
+    {
+      "code": "202409",
+      "name": "2024_Fall Term",
+      "documents": 1414,
+      "withSyllabus": 1355
+    },
+    {
+      "code": "202501",
+      "name": "2025_Spring Term",
+      "documents": 1297,
+      "withSyllabus": 1217
+    },
+    {
+      "code": "2025051",
+      "name": "2025_Summer_Troy_I",
+      "documents": 182,
+      "withSyllabus": 166
+    },
+    {
+      "code": "2025052",
+      "name": "2025_Summer_Troy_II",
+      "documents": 41,
+      "withSyllabus": 41
+    },
+    {
+      "code": "2025053",
+      "name": "2025_Summer_Troy_III",
+      "documents": 20,
+      "withSyllabus": 19
+    },
+    {
+      "code": "202509",
+      "name": "2025_Fall Term",
+      "documents": 1360,
+      "withSyllabus": 1314
+    },
+    {
+      "code": "202601",
+      "name": "2026_Spring Term",
+      "documents": 1269,
+      "withSyllabus": 1165
+    },
+    {
+      "code": "2026051",
+      "name": "2026_Summer_Troy_1",
+      "documents": 62,
+      "withSyllabus": 58
+    },
+    {
+      "code": "2026052",
+      "name": "2026_Summer_Troy_II",
+      "documents": 5,
+      "withSyllabus": 4
+    },
+    {
+      "code": "2026053",
+      "name": "2026_Summer_Troy_III",
+      "documents": 2,
+      "withSyllabus": 2
+    },
+    {
+      "code": "202609",
+      "name": "2026_Fall Term",
+      "documents": 1344,
+      "withSyllabus": 1276
+    }
+  ],
+  "markdownBytes": 235842402,
+  "withSyllabus": 15496,
+  "explicitMissingSyllabus": 3014,
+  "indexSha256": "146f0f64965704f947ab8038683343bb89bbbfd7d2bc63b15f6be644fb637fbf",
+  "parser": "PageSift 0.81.0 local",
+  "originalHtml": "Private cache; excluded from Git",
+  "publicationDateHintsArePolicyDates": false
+}

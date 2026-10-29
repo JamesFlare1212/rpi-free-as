@@ -1,0 +1,9 @@
+[
+  {"courseId":"ARCH-6830","archiveTitle":"GRADUATE THESIS SMR:ACOUSTICS","currentTitle":"Graduate Thesis Seminar:acoustics","reason":"SMR is a title abbreviation for Seminar; acoustics topic is identical."},
+  {"courseId":"ARTS-4260","archiveTitle":"LIFE DRAWING AND ANATOMY FOR ARTISTS","currentTitle":"Life Drawing And Anatomy For A","reason":"Current registrar title truncates FOR ARTISTS; course number and complete preceding title agree."},
+  {"courseId":"BCBP-4770","archiveTitle":"MOLECULAR BIOCHEMISTRY II","currentTitle":"Molecular Biochem II","reason":"BIOCHEM abbreviates BIOCHEMISTRY; sequence II is preserved."},
+  {"courseId":"BIOL-4770","archiveTitle":"MOLECULAR BIOCHEMISTRYII","currentTitle":"Molecular Biochem II","reason":"BIOCHEM abbreviation and missing space before II; course number and sequence agree."},
+  {"courseId":"CHEM-4770","archiveTitle":"MOLECULAR BIOCHEMISTRYII","currentTitle":"Molecular Biochem II","reason":"BIOCHEM abbreviation and missing space before II; course number and sequence agree."},
+  {"courseId":"CIVL-1100","archiveTitle":"INTRO TO CIVIL & ENVE ENGR","currentTitle":"Introduction To Civil And Environmental Engineering","reason":"Explicit INTRO / ENVE / ENGR abbreviations of the same introductory course title."},
+  {"courseId":"CIVL-4920","archiveTitle":"CIVIL ENGR CAPSTONE DESIGN","currentTitle":"Civil Engineering Capstone Design","reason":"ENGR abbreviates ENGINEERING; capstone title agrees."}
+]

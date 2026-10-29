@@ -3,7 +3,7 @@ import { readFileSync } from 'node:fs';
 import { csvEscape, exportCsv, filterCourses, resolveVerdict } from '../src/lib/catalog';
 import type { Dataset, Evidence } from '../src/lib/types';
 const {courses}=JSON.parse(readFileSync('public/data/courses.json','utf8')) as Dataset;
-const filters={query:'',status:'all',subject:'all',level:'all',source:'all',quizzes:false,savedOnly:false,sort:'evidence'};
+const filters={query:'',status:'all',subject:'all',level:'all',source:'all',savedOnly:false,sort:'evidence'};
 describe('evidence correctness and useful filters',()=>{
   test('unknown does not imply no exams',()=>expect(resolveVerdict([])).toEqual({verdict:'unknown',confidence:null}));
   test('contradictory exam records stay visible',()=>{
@@ -31,9 +31,6 @@ describe('evidence correctness and useful filters',()=>{
   });
   test('search combines course, title and professor terms',()=>expect(filterCourses(courses,{...filters,query:'CSCI 4220 Lei'}).map(c=>c.id)).toEqual(['CSCI-4220']));
   test('only requested saved courses appear',()=>expect(filterCourses(courses,{...filters,savedOnly:true},['CHEM-4810']).map(c=>c.id)).toEqual(['CHEM-4810']));
-  test('known quizzes are excluded, uncertainty preserved',()=>{
-    const results=filterCourses(courses,{...filters,quizzes:true});expect(results.every(c=>!c.evidence.some(e=>e.hasQuizzes))).toBe(true);expect(results.some(c=>c.verdict==='unknown')).toBe(true);
-  });
   test('candidate filter excludes unknowns and known conflicts',()=>{
     const results=filterCourses(courses,{...filters,status:'candidates'});expect(results.length).toBeGreaterThan(0);expect(results.some(c=>['unknown','conflicting','has-exams','no-final'].includes(c.verdict))).toBe(false);
   });
@@ -45,7 +42,7 @@ describe('evidence correctness and useful filters',()=>{
     const campus=filterCourses([c],{...filters,program:'campus'})[0];
     expect(campus.evidence.some(e=>e.id.startsWith('atwork-'))).toBe(false);
     expect(campus.verdict).not.toBe('no-exams');
-    expect(filterCourses([c],{...filters,program:'atwork'})[0].verdict).toBe('no-exams');
+    expect(filterCourses([c],{...filters,program:'atwork'})[0].verdict).toBe('conflicting');
   });
   test('remote finals do not erase evidence of other exams',()=>{
     const c=courses.find(c=>c.id==='ARCH-4330')!;

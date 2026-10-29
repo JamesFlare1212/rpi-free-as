@@ -16,7 +16,7 @@ server.registerTool('read_doc', {description:'Read a verified official document 
   if(!entry)return {isError:true,content:[{type:'text',text:'Unknown document path. Use list_docs.'}]};
   return {content:[{type:'text',text:`Source: ${entry.rawUrl}\nOfficial page: ${entry.url}\nSnapshot: ${manifest.commit}\n\n${await read('data/integrations/shadcn-docs/'+entry.path)}`}]};
 });
-server.registerTool('get_project_context', {description:'Read project components.json and the official installed shadcn-svelte Skill.',inputSchema:{}}, async()=>({content:[{type:'text',text:`components.json\n${await read('components.json')}\n\nOfficial Skill\n${await read('.claude/skills/shadcn-svelte/SKILL.md')}`}]}));
+server.registerTool('get_project_context', {description:'Read project components.json and the official installed shadcn-svelte Skill.',inputSchema:{}}, async()=>({content:[{type:'text',text:`components.json\n${await read('components.json')}\n\nOfficial Skill (.agents/skills/shadcn-svelte/SKILL.md)\n${await read('.agents/skills/shadcn-svelte/SKILL.md')}`}]}));
 server.registerResource('official-docs-index','shadcn-svelte://docs/index',{description:'Official documentation snapshot index',mimeType:'application/json'},async uri=>({contents:[{uri:uri.href,mimeType:'application/json',text:JSON.stringify(manifest)}]}));
 await server.connect(new StdioServerTransport());
 process.stdin.resume();

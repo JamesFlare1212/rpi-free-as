@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-29",
+  "currentTerm": "Spring 2027",
+  "currentSemester": "202701",
+  "totalCurrentCourses": 1009,
+  "archiveDocuments": 18510,
+  "archiveTerms": 34,
+  "coursesWithMatchingDocuments": 625,
+  "coursesWithSyllabus": 596,
+  "states": {
+    "title-or-program-mismatch": 147,
+    "not-in-archive": 237,
+    "historical-syllabus": 596,
+    "empty-syllabus": 29
+  },
+  "matchedDocuments": 9869,
+  "syllabiRead": 8520,
+  "signalCourses": {
+    "exam-weight": 315,
+    "quiz-weight": 174,
+    "project-weight": 70,
+    "no-exams": 3,
+    "no-final": 32,
+    "take-home": 23,
+    "online-exams": 5,
+    "in-person-exams": 80,
+    "quizzes": 116
+  },
+  "method": "Full local Markdown scan; course ID AND normalized section title; H/campus separation; historical only. Signals are rule extractions, not current-term confirmation.",
+  "currentTermPoliciesConfirmed": 0,
+  "inputs": {
+    "data/syllabi/index.jsonl": "146f0f64965704f947ab8038683343bb89bbbfd7d2bc63b15f6be644fb637fbf",
+    "data/syllabi/title-aliases.json": "097264da1e9dd51d3f15949f5a01cc086ce2f9438241413f025fcdb181d0c234",
+    "data/raw/courses.json": "8d10eed3c19c48b8ca9e1247e1df0a33eb60e84cd464bb90a2095a30355853f9",
+    "scripts/lib/syllabus-analysis.ts": "8cf6b83400ca4bd154e17c329e3b257f41e67baee115b03174c62d6bf2930885"
+  },
+  "analysisSha256": "f578a47e12542b60cf5304615ada94c6da44bdb04ae072a46419b31599b5ad95"
+}

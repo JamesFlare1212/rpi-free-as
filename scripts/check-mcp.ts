@@ -31,10 +31,10 @@ try {
   const doc=await request('tools/call',{name:'read_doc',arguments:{path:'components/sheet.md'}});
   if(doc.isError || !JSON.stringify(doc.content).includes('Sheet.Content'))throw new Error('MCP returned invalid official component documentation');
   const context=await request('tools/call',{name:'get_project_context',arguments:{}});
-  if(context.isError || !JSON.stringify(context.content).includes('vega'))throw new Error('Project context was not returned');
+  if(context.isError || !JSON.stringify(context.content).includes('vega') || !JSON.stringify(context.content).includes('# shadcn-svelte') || !JSON.stringify(context.content).includes('.agents/skills/shadcn-svelte/SKILL.md'))throw new Error('Project config and shared skill from .agents/skills were not returned');
   const invalid=await request('tools/call',{name:'read_doc',arguments:{path:'../../package.json'}});
   if(!invalid.isError)throw new Error('MCP must reject paths outside the manifest');
-  const result={checkedAt:new Date().toISOString(),status:'connected',transport:'stdio',server:init.serverInfo,officialDocumentRead:'components/sheet.md',projectContextRead:true,pathTraversalRejected:true,tools:tools.map((t:{name:string})=>t.name)};
+  const result={checkedAt:new Date().toISOString(),status:'connected',transport:'stdio',server:init.serverInfo,officialDocumentRead:'components/sheet.md',projectContextRead:true,skillPath:'.agents/skills/shadcn-svelte/SKILL.md',pathTraversalRejected:true,tools:tools.map((t:{name:string})=>t.name)};
   await mkdir('data/integrations', {recursive: true});
   await writeFile('data/integrations/mcp-check.json', JSON.stringify(result, null, 2));
   console.log(JSON.stringify(result, null, 2));
